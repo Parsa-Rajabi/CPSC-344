@@ -1,13 +1,6 @@
 # AI-usage Course Policy
 
-## Changelog
-
-| **Version** |   **Date**   |          **Changes**           |
-| :---------: | :----------: | :----------------------------: |
-|    v1.0     | Jan 29, 2024 | Initial version of the policy  |
-|    v1.1     | Feb 5, 2024  | Updaed acknowledgement section |
-
-## Policy on the Use of AI Content Generators for the Coursework.
+## Policy on the Use of AI Content Generators for Coursework.
 
 As Chat Generative Pre-trained Transformer (ChatGPT) gains traction, its impact on post-secondary education is increasingly being debated. Some argue that it will make education more accessible, while others worry about its potential to replace human teachers. In this course policy, we will outline how we will tackle this challenge in CPSC 344 - Introduction to HCI Method. Please note that this policy only applies to CPSC 344 in Fall 2024.
 

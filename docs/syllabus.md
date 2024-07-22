@@ -9,11 +9,11 @@ Department of Computer Science, University of British Columbia
 The course is co-taught by two instructors:
 
 - Parsa Rajabi
-  - Email: prajabi at cs`DELETEthisTEXT`.ubc.ca
+  - Email: *prajabi at cs`DELETEthisTEXT`.ubc.ca*
   - Office Hours: TBA; Or, by appointment.
 
 - Sang-Wha Sien
-  - Email: swsien at cs`DELETEthisTEXT`.ubc.ca
+  - Email: *swsien at cs`DELETEthisTEXT`.ubc.ca*
   - Office Hours: TBA; Or, by appointment.
 
 Refer to course communication conventions for the best way to reach out to the instructors.
