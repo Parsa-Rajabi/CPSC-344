@@ -22,27 +22,26 @@ Refer to course communication conventions for the best way to reach out to the i
 
 Delivery Method: In-person (*no recordings*)
 
-- Section 101: Monday and Wednesday 3:30-5:00 PM in [LOCATION]
-- Section 102: Monday and Wednesday 5:00-6:20 PM in [LOCATION]
+- Section 101: Monday and Wednesday 3:30-4:50 PM in ESB 1013 
+- Section 102: Monday and Wednesday 5:00-6:20 PM in DMP 110
 
 ## Tutorial/Workshops
 
-CPSC 344 has four "workshops" (listed as Tutorials on SSC). These sessions are designed to be hands-on and interactive, where students will work on assignments, projects, and other activities. The workshops are only conducted in-person, no recordings will be made available.
+CPSC 344 has four "workshops" (listed as Tutorials on Workday). These sessions are designed to be hands-on and interactive, where students will work on assignments, projects, and other activities. The workshops are only conducted in-person, no recordings will be made available.
 
 Workshop materials will be posted on course canvas page and mirrored on the course website.
 
-| Section | Time               | TA  | Location   |
-| :-----: | ------------------ | --- | ---------- |
-|   T0A   | Thursday X:00-X:00 | TBA | [LOCATION] |
-|   T0B   | Thursday X:00-X:00 | TBA | [LOCATION] |
-|   T0C   | Thursday X:00-X:00 | TBA | [LOCATION] |
-|   T0D   | Thursday X:00-X:00 | TBA | [LOCATION] |
-|   T0E   | Thursday X:00-X:00 | TBA | [LOCATION] |
+| Section | Time                 | Location   |
+| :-----: | -------------------- | ---------- |
+|   T1A   | Thursday 10:00-12:00 | ICCS X360  |
+|   T1B   | Thursday 16:00-18:00 | ICCS X360  |
+|   T1C   | Thursday 18:00-20:00 | ICCS X360  |
+|   T1D   | Friday 13:00-15:00   | ICCS X360  |
+|   T1E   | Friday 11:00-13:00   | ICCS X360  |
+|   T1F   | Friday 15:00-17:00   | ICCS X360  |
+|   T1G   | Friday 17:00-19:00   | ICCS X360  |
 
-Each tutorial will be temporarily closed at the beginning of the term. This is because we need to fill each workshop to its maximum of ~30; and thus must optimize students' schedule constraints to accommodate access by students who wish to take the course. During the first two weeks of the term, we'll assign each student to a tutorial session based on their schedule flexibility by running a workshop balancing (assignment) survey. Students in the waitlist must complete the survey in order to be considered for the course.
-
-<!-- Remove? -->
-Two absences (or four late arrivals) will be automatically excused. After that, each unexcused absence will be marked as 1% deduction from your final mark and each late arrival as 0.5%.
+Each tutorial/workshop will be temporarily closed at the beginning of the term. This is because we need to fill each workshop to its maximum of ~30; and thus must optimize students' schedule constraints to accommodate access by students who wish to take the course. During the first two weeks of the term, the teaching team assign each student to a tutorial session based on their schedule flexibility by running a workshop balancing survey (details announced in class). **Students on the waitlist must complete the survey in order to be considered for the course.**
 
 ## Course Description
 
@@ -76,41 +75,53 @@ CPSC 344 and 444 form a two-course undergrad sequence; 444 covers more advanced 
 
 ## Course Evaluation
 
-|             Component              | Weight (%) |
-| :--------------------------------: | :--------: |
-|             Assignment             |     2      |
-| Lecture and Workshop Participation |     3      |
-|              Midterm               |     20     |
-|           Major Project            |     30     |
-|           Mini Projects            |     10     |
-|      Project Peer Evaluation       |     5      |
-|             Final Exam             |     30     |
+|              Component              | Weight (%) |
+| :---------------------------------: | :--------: |
+|            Assignment(s)            |     2      |
+| Participation (Lecture & Workshops) |     3      |
+|               Midterm               |     20     |
+|            Major Project            |     30     |
+|           Mini Project(s)           |     10     |
+|       Project Peer Evaluation       |     5      |
+|             Final Exam              |     30     |
+
+
+Do not schedule travel or other commitments during the final exam period. Final exam dates are set by the university and are not flexible.
+
+## Importance of Group Work and Participation Policy
+
+Group work is a vital component of this course, reflecting the collaborative nature of real-world projects. Working effectively in a team is essential for your professional development. It’s important to approach group tasks with respect for each other’s ideas and perspectives, and to ensure that everyone contributes equitably.
 
 Your team's performance in the course project plays a large part in your individual mark. In addition, in your individual mark the peer component relates to your contributions and participation in your team. 
 
-Do not schedule travel or other commitments during the final exam period. Final exam dates are set by the university and are not flexible.
+To maintain fairness and academic integrity, all group members are expected to contribute equally to the project. Here’s how we handle group participation:
+
+
+1.	**Peer Resolution**: When non-participation issues arise, the first step is for group members to address and attempt to resolve them internally. It’s important to document these efforts—such as meeting notes, emails, or messages on platforms like Slack or Discord—in case further action is required.
+2.	**Reporting Non-Participation**: If internal resolution efforts do not succeed, the concerned student(s) should schedule a meeting with their TA. However, it’s important to note that without sufficient evidence of attempts at peer resolution, the TA will not proceed with scheduling the meeting. During the meeting, if scheduled, students should present the documented evidence and discuss possible next steps with the TA.
+3.	**TA Intervention**: Following the consultation, the TA may involve other teaching team members to ensure that the workload is fairly distributed and completed by all group members. If additional actions are needed, the teaching team will directly engage with the specific group or individual members to determine the best course of action.
+
+Non-contribution or “free riding” is not acceptable in this course. Every student is expected to contribute meaningfully to group projects. **Repeated failure to participate will result in penalties.** 
+
 
 ## Academic Expectations
 
 In addition to all university rules, regulations, and academic guidelines, the following policies will hold in CS344:
 
-- Attendance and **prompt arrival** is expected at all classes and workshops. Quiz, assignment and team project marks will suffer from absences. In addition, there will be participation marks for in-class activities.
-- There will be no makeup for the midterm. Should the midterm be missed, the final exam will absorb the midterm's component of the grade.
+- Attendance and **prompt arrival** is expected at all classes and workshops. Quiz, assignment and team project marks will suffer from absences. In addition, there will be participation marks for in-class and workshop activities.
+- There will be no makeup for the midterm. Students who miss the midterm will receive a grade of zero. 
 - A student must pass the final exam in order to pass the course. If you fail the final exam (score < 50%), your final course grade will equal your final exam mark.
-<!-- Remvoe? -->
-- If your final exam score is higher than your Midterm score, the final exam score will replace your midterm mark and have an effective weight of 50% towards your final grade.
-- To request that a deliverable be fully or partially re-graded: the request must be printed, physically signed, scanned, and submitted to the grader via email. We reserve the right to re-grade the entire deliverable.
 
 ## Required Textbook
 
 - Interaction Design: Beyond Human-Computer Interaction, Rogers, Sharp and Preece (RSP), 5th Ed, 2019, Wiley. 
-  - Available on [UBC Library website](https://ebookcentral.proquest.com/lib/ubc/detail.action?docID=5746446) and [Amazon](https://www.amazon.ca/Interaction-Design-Beyond-Human-Computer/dp/1119547253/ref=sr_1_1?dchild=1&keywords=Interaction+Design%3A+Beyond+Human-Computer+Interaction+Preece%2C+Sharp%2C+Rogers%2C+4th&qid=1595918102&sr=8-1).
+- Available on [UBC Library website](https://ebookcentral.proquest.com/lib/ubc/detail.action?docID=5746446) and [Amazon](https://www.amazon.ca/Interaction-Design-Beyond-Human-Computer/dp/1119547253/ref=sr_1_1?dchild=1&keywords=Interaction+Design%3A+Beyond+Human-Computer+Interaction+Preece%2C+Sharp%2C+Rogers%2C+4th&qid=1595918102&sr=8-1).
 
 ## Course Communication Conventions
 
 - For anything relevant to the larger group (conceptual questions, logistics issue, etc.): Post public-to-class on the course Piazza discussion group, which will be checked daily by course staff, and this way the whole class can benefit. All instructor posts will appear here.
 - For personal logistics (project, assignments, etc.): Post to course staff on Piazza.
-- For confidential or personal matters: Talk to or email the instructor(s). Include "[CPSC 344]" in the subject line of any email for a faster response.
+- For confidential or personal matters: Talk to or email the instructor(s). Include "[CPSC 344]" in the subject line of any email for a faster response. Emails without this subject line may be missed.
   - Make sure to include your full name and student number in all correspondence.
   - It is recommended to use your UBC email address for all course-related communication to ensure that your message is not marked as spam.
 
@@ -128,7 +139,7 @@ A more detailed description of academic integrity, including the University’s 
 
 ### Artificial Intelligence (AI) / ChatGPT Policy
 
-The use of AI tools such as ChatGPT is permitted with specific guidelines. Please refer to the [AI Policy](ai-policy.md) for more information.
+The use of AI tools such as ChatGPT is permitted with specific guidelines (subject to audits). Please refer to the [AI Policy](ai-policy.md) for more information.
 
 ### Course Waitlist
 
@@ -152,6 +163,6 @@ If you feel a course item has been incorrectly assessed you may request that the
 
 #### Request a Remarking
 
-Requests must include a written case for the re-marking and be submitted to the course instructor(s) within 5 business days from receiving the mark.
+Requests must include a written case for the re-marking and be submitted to the course instructor(s) within 5 business days from receiving the mark. The request must be signed and submitted via email. 
 
-If accepted for remarking, the item will be re-marked in its entirety by both the course instructor and the marking TA. This may result in a higher, unchanged, or lower mark overall which will be final.
+The re-marking request will be reviewed by the teaching team and if accepted, the item will be re-marked in its entirety by both the course instructor and the marking TA. This may result in a higher, unchanged, or lower mark overall which will be final.

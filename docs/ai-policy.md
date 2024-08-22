@@ -26,6 +26,12 @@ Lastly, be aware of the dangers of becoming overly dependent on these tools. Whi
 
 Submitting this disclosure will help us understand and mitigate the risks associated with the use of AI tools in the course. The form will ask about your use of AI tools for the assignment and the extent to which you used them. You will be asked to submit the disclosure via MS Forms. Failure to submit the disclosure will be considered a violation of SFU's academic policy and a penalty of -25% will be applied to your grade if the disclosure is not submitted / attached to each of your submissions.
 
+## Audits of AI Disclosure Forms and Student Work
+
+To uphold the integrity of coursework, the teaching team will conduct regular audits of random students’ AI use disclosure forms throughout the semester. These audits will involve scheduled interviews where students will discuss their use of AI tools in assignments, activities, and projects. Additionally, the teaching team will cross-reference the submitted work with the details provided in the disclosure forms.
+
+If any inconsistencies are found between the disclosed AI usage and the actual content of the work, the student may be asked to provide further clarification. Persistent discrepancies or failure to provide a satisfactory explanation could lead to a review for potential academic integrity violations. These audits will be conducted continuously to ensure transparency and adherence to the AI usage policy, fostering a fair academic environment for all students.
+
 ## If you do not wish to use these tools, that is a valid decision.
 
 The use of AI tools in education can be messy and unpredictable due to the risks mentioned earlier. Some students may have moral confusion or concerns about the uncertainty associated with using AI tools in their coursework. **If you do not wish to use them, that is a valid decision.** This policy aims to anticipate and mitigate any potential harms associated with AI tool usage, rather than promoting their use.
@@ -36,7 +42,7 @@ Grading will be done based on the rubric on an absolute scale, the use of AI too
 
 **Please note that the policy about the use of AI tools in CMPT 376W - D200 is up for change as the term progresses. Changes will be communicated in-class and via this page.**
 
-Questions about this policy can be directed to the instructor via email with the following email header: _[CMPT 376W - AI Policy]_.
+Questions about this policy can be directed to the instructor via email with the following email header: _[CPSC 344 - AI Policy]_.
 
 ### Acknowledgements
 
