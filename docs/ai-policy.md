@@ -2,9 +2,9 @@
 
 ## Policy on the Use of AI Content Generators for Coursework.
 
-As Chat Generative Pre-trained Transformer (ChatGPT) gains traction, its impact on post-secondary education is increasingly being debated. Some argue that it will make education more accessible, while others worry about its potential to replace human teachers. In this course policy, we will outline how we will tackle this challenge in CPSC 344 - Introduction to HCI Method. Please note that this policy only applies to CPSC 344 in Fall 2024.
+As Chat Generative Pre-trained Transformer (ChatGPT) gains traction, its impact on post-secondary education is increasingly being debated. Some argue that it will make education more accessible, while others worry about its potential to replace human teachers. In this course policy, we will outline how we will tackle this challenge in CPSC 344 - Introduction to HCI Method. Please note that this policy only applies to CPSC 344 sections 101 and 102 in Fall 2024.
 
-In a nutshell, the use of AI tools is permitted for all course content including assignments, weekly activities and project work except exams. Using tools such as ChatGPT will not be allowed during in-person midterm exam. As part of the course policy, students are required to disclose any use of AI tools for each assignment, weekly activities and project submission. Failure to follow this policy will be considered a violation of SFU's academic policy.
+In a nutshell, the use of AI tools is permitted for all course content including assignments, weekly activities and project work except exams. Using tools such as ChatGPT will not be allowed during in-person midterm exam. As part of the course policy, students are required to disclose any use of AI tools for each assignment, weekly activities and project submission. Failure to follow this policy will be considered a violation of the university's academic policy.
 
 ## We view AI tools as a powerful resource that you can learn to embrace.
 
@@ -24,7 +24,7 @@ Lastly, be aware of the dangers of becoming overly dependent on these tools. Whi
 
 ## For every submission, you are required to complete a form called the "AI use disclosure." 
 
-Submitting this disclosure will help us understand and mitigate the risks associated with the use of AI tools in the course. The form will ask about your use of AI tools for the assignment and the extent to which you used them. You will be asked to submit the disclosure via MS Forms. Failure to submit the disclosure will be considered a violation of SFU's academic policy and a penalty of -25% will be applied to your grade if the disclosure is not submitted / attached to each of your submissions.
+Submitting this disclosure will help us understand and mitigate the risks associated with the use of AI tools in the course. The form will ask about your use of AI tools for the assignment and the extent to which you used them. You will be asked to submit the disclosure via MS Forms. Failure to submit the disclosure will be considered a violation of the university's academic policy and a penalty of -25% will be applied to your grade if the disclosure is not submitted / attached to each of your submissions.
 
 ## Audits of AI Disclosure Forms and Student Work
 
@@ -40,9 +40,9 @@ The use of AI tools in education can be messy and unpredictable due to the risks
 
 Grading will be done based on the rubric on an absolute scale, the use of AI tools will not negatively impact your grade.
 
-**Please note that the policy about the use of AI tools in CMPT 376W - D200 is up for change as the term progresses. Changes will be communicated in-class and via this page.**
+**Please note that the policy about the use of AI tools in this course is up for change as the term progresses. Changes will be communicated in-class and via this page.**
 
-Questions about this policy can be directed to the instructor via email with the following email header: _[CPSC 344 - AI Policy]_.
+Questions about this policy can be directed to the instructors via email with the following email header: _[CPSC 344 - AI Policy]_.
 
 ### Acknowledgements
 
