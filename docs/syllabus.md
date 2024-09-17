@@ -10,11 +10,11 @@ The course is co-taught by two instructors:
 
 - Parsa Rajabi
   - Email: *prajabi at cs`DELETEthisTEXT`.ubc.ca*
-  - Office Hours: TBA; Or, by appointment.
+  - Office Hours: Mon 2-3 in ICSS 255; Or, by appointment.
 
 - Sang-Wha Sien
   - Email: *swsien at cs`DELETEthisTEXT`.ubc.ca*
-  - Office Hours: TBA; Or, by appointment.
+  - Office Hours: Wed 10-11 via [Zoom](https://ubc.zoom.us/j/65243214331?pwd=mOKy6bTbq3cLD8rbBOEkcLuKrc6i2e.1); Or, by appointment.
 
 Refer to course communication conventions for the best way to reach out to the instructors.
 
@@ -27,7 +27,7 @@ Delivery Method: In-person (*no recordings*)
 
 ## Tutorial/Workshops
 
-CPSC 344 has four "workshops" (listed as Tutorials on Workday). These sessions are designed to be hands-on and interactive, where students will work on assignments, projects, and other activities. The workshops are only conducted in-person, no recordings will be made available.
+CPSC 344 has seven "workshops" (listed as Tutorials on Workday). These sessions are designed to be hands-on and interactive, where students will work on assignments, projects, and other activities. The workshops are only conducted in-person, no recordings will be made available.
 
 Workshop materials will be posted on course canvas page and mirrored on the course website.
 
