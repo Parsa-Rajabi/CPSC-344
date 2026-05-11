@@ -196,15 +196,19 @@ Students who do not meet the attendance requirements outlined will receive a gra
   - Paper-based activity submissions will be retained for backup and attendance auditing purposes. In case of any discrepancy between iClicker and paper-based submission, students will be invited to meet the course instructor during office hours to resolve. In case of non-response to email or no-show to office hours, the grade for that session will be set to 0. 
 
 - With 12 weeks in the semester, 2 classes per week, there is a total of 24 lecture sessions, however we will omit the following days from lecture attendance grade:
-  - May 11: First Day of Class (lecture attendance will be taken to test iClicker system, but will not be graded)
+  - May 18: Holiday (no lecture)
   - June 17: Midterm 
   - July 20: Project Catch-up Day 
-  - Aug 12 (tentative): Project Showcase
-- Therefore, lecture attendance grade will be out of 20 marks total, with each session worth 1 mark, however 3rd and 4th absences will result in a deduction of 2 marks each, for a maximum of 4 marks deduction from lecture attendance grade.
+  - Aug 3: Holiday (no lecture)
+
+> [!NOTE]
+> Attendance for May 11 will be taken to test iClicker system, however to receive participation marks for this session, students must complete the course welcome survey and discussion post by May 20. 
+
+- Therefore, lecture attendance grade will be out of 18 marks total, with each session worth 1 mark, however 3rd and 4th absences will result in a deduction of 2 marks each, for a maximum of 4 marks deduction from lecture attendance grade.
   - Examples:
-    - 0-2 absences: 20/20 marks -> 2/2% of final grade (full marks)
-    - 3 absences: 18/20 marks -> 1.8/2% of final grade
-    - 4 absences: 16/20 marks -> 1.6/2% of final grade
+    - 0-2 absences: 18/18 marks -> 2/2% of final grade (full marks)
+    - 3 absences: 16/18 marks -> 1.77/2% of final grade
+    - 4 absences: 14/18 marks -> 1.55/2% of final grade
     - 5 or more absences: failing grade for the course, regardless of performance on other components
 
 > [!NOTE]
