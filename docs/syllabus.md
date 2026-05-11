@@ -104,12 +104,12 @@ CPSC 344 and 444 form a two-course undergrad sequence; 444 covers more advanced 
 |              Participation              |   Lecture Participation   | [Attendance & Participation](#lecture-attendance--participation)  |     2%     |
 |                    ″                    |  Workshop Participation   | [Attendance & Participation](#workshop-attendance--participation) |     2%     |
 |            Group Assignment             | Initial Design Assignment |                                                                   |     1%     |
-| [Group Project](#group-peer-evaluation) |    Project Milestone 1    |                      Problem Statement Pitch                      |     5%     |
-|                    ″                    |    Project Milestone 2    |                    Design Requirements Report                     |    15%     |
-|                    ″                    |    Project Milestone 3    |                            Shark Tank                             |     4%     |
-|                    ″                    |   Project Checkpoint A    |                        Prototype Planning                         |     1%     |
-|                    ″                    |   Project Checkpoint B    |                        Evaluation Planning                        |     1%     |
-|                    ″                    |    Project Milestone 4    |                     Final Report + Prototype                      |    15%     |
+| [Group Project](#group-peer-evaluation) |    Project Milestone 1    |         [Problem Statement Pitch](project/milestone-1.md)         |     5%     |
+|                    ″                    |    Project Milestone 2    |       [Design Requirements Report](project/milestone-2.md)        |    15%     |
+|                    ″                    |    Project Milestone 3    |               [Shark Tank](project/milestone-3.md)                |     4%     |
+|                    ″                    |   Project Checkpoint A    |           [Prototype Planning](project/checkpoint-A.md)           |     1%     |
+|                    ″                    |   Project Checkpoint B    |          [Evaluation Planning](project/checkpoint-B.md)           |     1%     |
+|                    ″                    |    Project Milestone 4    |        [Final Report + Prototype](project/milestone-4.md)         |    15%     |
 |                    ″                    |   Project Demo Showcase   |                                                                   |     4%     |
 |                  Exam                   |          Midterm          |                  Wednesday, June 17; 3:30-5:30pm                  |    20%     |
 |                    ″                    |        Final Exam         |                       Between August 17-21*                       |    30%     |
