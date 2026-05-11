@@ -317,13 +317,16 @@ By remaining enrolled in this course, students agree to uphold these expectation
 - Interaction Design: Beyond Human-Computer Interaction, Rogers, Sharp and Preece (RSP), 5th Ed, 2019, Wiley. 
 - Available on [UBC Library website](https://ebookcentral.proquest.com/lib/ubc/detail.action?docID=5746446) and [Amazon](https://www.amazon.ca/Interaction-Design-Beyond-Human-Computer/dp/1119547253/ref=sr_1_1?dchild=1&keywords=Interaction+Design%3A+Beyond+Human-Computer+Interaction+Preece%2C+Sharp%2C+Rogers%2C+4th&qid=1595918102&sr=8-1).
 
-## Course Communication Conventions
+### Code of Conduct and Professionalism
 
-- For anything relevant to the larger group (conceptual questions, logistics issue, etc.): Post public-to-class on the course Slack #help channel, which will be checked daily by course staff, and this way the whole class can benefit. Course announcements will also be sent via Slack. 
-- For personal logistics (project, assignments, etc.): Contact your workshop TA directly via Slack or email.
-- For confidential or personal matters: Talk to or email the instructor(s). Include "[CPSC 344]" in the subject line of any email for a faster response. Emails without this subject line may be missed.
-  - Make sure to include your full name and student number in all correspondence.
-  - It is recommended to use your UBC email address for all course-related communication to ensure that your message is not marked as spam.
+Students are expected to maintain a high level of professionalism in all course activities and communication with the instructor and peers. This includes proper email etiquette, respectful communication in class, and adherence to deadlines. Before sending an email, please ensure that you have included a subject line including the course code (CPSC 344), a greeting, a clear message, **your full name/student ID#** and a closing. Using AI/ChatGPT to generate emails is **not recommended** and **such emails will be returned for revision.**
+
+By remaining enrolled in this course, students agree to uphold these expectations of the course [code of conduct](code-of-conduct.md).
+
+> [!WARNING]
+> Before sending an email, make sure to review this article on [email etiquette](email-etiquette.md) and/or [How To Email Your Professor](https://personal.math.ubc.ca/~ilaba/teaching/email.html) for tips on how to effectively communicate with your instructor. **Emails that do not follow these guidelines will be returned to the sender for revision.**
+
+> Repeated unprofessional behavior will result in grade deduction from your final overall grade, with **each violation resulting in a 1% deduction**. Students will be notified of possible deductions after the first official warning.
 
 ## UBC and Course Policies
 
@@ -347,10 +350,23 @@ The use of AI tools will be discussed through an in-class activity before the ad
 - If you do not plan to take the course, please remove yourself from the lecture or waitlist, so others may get in.
 - Emails to the instructors/TAs about waitlist position will not be answered.
 
-### Late Deliverables
-<!-- TODO: Review this policy -->
-- Late assignments and pre-reading quizzes will receive no credit. 
-- In the extraordinary circumstance (e.g., medical or family emergency) that you are prevented from completing and submitting components on time, or fully participating in your group's work, we may allow late turn-in. In this case, contact your TA or the course staff well in advance of the deadline (a usual expectation would be 24 hours). At the discretion of staff considering the circumstance, a penalty may still be imposed of a mark reduction of 0.98^(hours late).
+### Late Deliverables 
+
+All course items have fixed due dates and times. Any submission not received by the deadline is considered late. With the exception of live presentations, submissions may be submitted up to 24 hours after the deadline with a 25% late penalty.
+
+Make-up assessments will not be given. Sometimes life gets in the way of schedules. Sickness or other unplanned or extraordinary events happen and will be dealt with individually. It is your responsibility to ensure your situation is known to the instructor and your assigned TA as soon as reasonably possible. You are accountable for being heard, which means you need to ensure that the instructor and TA have heard you.
+ 
+While "life happens," poor planning by you does not count. And definitely do not wait to discuss gray areas. For example, an interview opportunity arises (good!): you should not wait until the day before the submission is due to let us know that you could not complete the submission because you had to prepare for the interview. That would be considered poor planning. Good planning would be to alert the TA or Instructor that you got the interview and, while you hope to finish the submission, there is a concern. Then when you don’t finish on time, it’s clear that you planned your time and that will be taken into consideration. These "good planning" situations will be considered individually as per the instructor's discretion.
+
+In all cases, exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate and verified documentation. Refer to accommodations and concessions section below for more details.
+
+### Academic Concessions
+
+UBC Faculty of Science recognizes that experiencing a challenging emergency or unanticipated event is impactful on a student’s ability to fulfill close in time academic commitments. In such circumstances, we want to ensure that you are well connected to support resources and to help you navigate your academic options.
+
+If you experience an emergency or unanticipated event that is impacting your ability to meet academic commitments, please refer to the [Science Academic Concessions Process](https://students.ubc.ca/enrolment/academic-learning-resources/academic-concessions/) for guidance on how to proceed. This resource provides information on the types of support available, the process for requesting concessions, and the documentation required.
+
+For in-term concessions, please complete this [Student Declaration of Academic Concession Form](https://parsa-rajabi.github.io/CPSC-344/assets/academic-concession.pdf) and submit it via email alongside any supporting documentation. 
 
 ### Remarking Policy
 
@@ -378,3 +394,46 @@ In order to protect the integrity of exam questions, exams will not be returned 
 - Midterm exam: Students will have the opportunity to review their midterm exam in person with a member of the teaching team during pre-scheduled office hours in the week of July 6–10, 2026. The exact date and time will be announced.
 - Final exam: Students may request an in-person viewing of their final exam. Final exam viewings will be scheduled in September 2026, with the exact date and time to be determined.
 - During an exam viewing, students may review their exam with a member of the teaching team. However, students may not take photos, make copies, or otherwise reproduce any part of the exam.
+
+### Wellness and Mental Health
+
+Health and wellness, both physical and mental, are important for academic success. If you are having difficulty with your studies, feel overwhelmed, or are experiencing distress, UBC provides a number of resources to help. At this university, faculty and staff members are committed to providing students with a safe environment and support. 
+
+For immediate mental health support (evenings AND weekends):
+
+- UBC Student Assistance Program: a free, 24/7 wellness resource for students.
+  - Phone (toll-free): Within North America - 1 833 590 1328,
+  - Website: link, with password UBCV
+- Here2Talk: 1-604-642-5212
+  - By phone, toll free at 1.877.857.3397 or direct 604.642.5212.
+  - While services are offered primarily in English, additional languages may be available upon request with the phone service.
+    - Online and Chat Services: www.here2talk.ca (offered in French and English)
+    - Mobile App: Download Here2Talk from the App Store or Google Play
+- Available Monday – Friday:
+  - UBC Counselling Services: 604 822 3811 (8:30-4:30pm)
+  - UBC Student Health Services: 604 822 7011 (Open Mon-Sat, see website for daily hours, open at 8am)
+  - A student can call when they open to try to get a same-day appointment.
+  - Sexual Violence Prevention and Response: https://svpro.ubc.ca/
+- In case of an emergency to your health and safety: Call 911
+  - If you are in crisis or distress:
+  - Call Crisis Center BC: 1-800-784-2433 (24/7) 
+  - Call or visit VGH Access and Assessment Centre: 604-675-3700 (7:30am to 11:00pm)
+  - Visit your nearest emergency room
+
+### Privacy
+
+CPSC 344 utilizes Slack to enhance class discussions and communication. Your personal information is collected and disclosed to Slack under the authority of section 26(c) of the Freedom of Information and Protection of Privacy Act (FIPPA).
+
+For more information on how Slack handles your data, please refer to their [Privacy Policy](https://slack.com/trust/privacy/privacy-policy).
+
+For questions or concerns about how this information is collected, used, or stored, please contact the instructor.
+
+### Extreme Weather - Course Policy
+
+UBC’s Vancouver campus experiences a unique micro-climate that can differ significantly from surrounding areas. Weather conditions can change quickly, and it’s important to be prepared for all types of extreme weather. 
+
+In the event of extreme weather conditions, we will follow [UBC’s official guidelines for campus closures and safety](https://srs.ubc.ca/emergency/hazards-of-concern/extreme-weather/). If the campus is closed due to extreme weather, all in-person classes and meetings will be canceled, and alternative arrangements will be communicated promptly.
+
+In rare cases where the campus remains open but weather conditions are severe, students are encouraged to prioritize their safety and well-being. As a class, we will work together to accommodate any challenges that arise due to extreme weather, including moving class and meetings online if necessary. 
+
+Unless stated by the university, department, or instructor, all classes and meetings will proceed as scheduled. Students are expected to monitor course communication channels (email, slack , etc.) for updates regarding class status during extreme weather events.
