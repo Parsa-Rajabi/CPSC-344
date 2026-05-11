@@ -103,7 +103,7 @@ CPSC 344 and 444 form a two-course undergrad sequence; 444 covers more advanced 
 | :-------------------------------------: | :-----------------------: | :---------------------------------------------------------------: | :--------: |
 |              Participation              |   Lecture Participation   | [Attendance & Participation](#lecture-attendance--participation)  |     2%     |
 |                    ″                    |  Workshop Participation   | [Attendance & Participation](#workshop-attendance--participation) |     2%     |
-|            Group Assignment             | Initial Design Assignment |                                                                   |     1%     |
+|            Group Assignment             | Initial Design Assignment |               [Assignment Details](intro-to-HCI.md)               |     1%     |
 | [Group Project](#group-peer-evaluation) |    Project Milestone 1    |         [Problem Statement Pitch](project/milestone-1.md)         |     5%     |
 |                    ″                    |    Project Milestone 2    |       [Design Requirements Report](project/milestone-2.md)        |    15%     |
 |                    ″                    |    Project Milestone 3    |               [Shark Tank](project/milestone-3.md)                |     4%     |
