@@ -1,12 +1,14 @@
+- [Home](home.md)
 - [Syllabus](syllabus)
 - [Project](project/overview.md)
+- [Feedback](feedback)
 <!-- - [AI Policy](ai-policy) -->
 <!-- - [Course Schedule](schedule) -->
 <!-- - [Teaching Team](teaching-team) -->
 <!-- - [Lecture Notes](lecture-notes) -->
 <!-- - [Assignments & Labs](assignment-lab-details) -->
 <!-- - [Resources](resources) -->
-<!-- - [Feedback](feedback) -->
+
 <!-- - **LMS Links**
 - [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080)Calendar](https://canvas.sfu.ca/courses/44038/calendar)
 - [![Assignments Icon](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080)Assignments](https://canvas.sfu.ca/courses/44038/assignments )
