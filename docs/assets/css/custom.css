@@ -54,6 +54,10 @@ body .markdown-section {
     grid-template-columns: 96px minmax(160px, 0.6fr) minmax(260px, 1.4fr);
 }
 
+.markdown-section .team-directory-compact .team-row {
+    grid-template-columns: minmax(150px, 1fr) minmax(140px, 1fr) minmax(120px, 0.8fr) minmax(180px, 1.2fr);
+}
+
 .markdown-section .team-row:first-child {
     border-top: 0;
 }
