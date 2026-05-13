@@ -90,29 +90,33 @@ CPSC 344 and 444 form a two-course undergrad sequence; 444 covers more advanced 
 ## Course Evaluation
 
 ### High Level Overview
-|                Category                 | Weight (%) |
-| :-------------------------------------: | :--------: |
-|        Individual Participation         |     4%     |
-|            Group Assignment             |     1%     |
-| [Group Project](#group-peer-evaluation) |    45%     |
-|            Individual Exams             |    50%     |
+|               Category               | Weight (%) |
+| :----------------------------------: | :--------: |
+|       Individual Participation       |     4%     |
+|           Group Assignment           |     1%     |
+| [Group Project](project/overview.md) |    45%     |
+|           Individual Exams           |    50%     |
 
 ### Detailed Breakdown
 
-|                Category                 |         Component         |                              Details                              | Weight (%) |
-| :-------------------------------------: | :-----------------------: | :---------------------------------------------------------------: | :--------: |
-|              Participation              |   Lecture Participation   | [Attendance & Participation](#lecture-attendance--participation)  |     2%     |
-|                    ″                    |  Workshop Participation   | [Attendance & Participation](#workshop-attendance--participation) |     2%     |
-|            Group Assignment             | Initial Design Assignment |               [Assignment Details](intro-to-HCI.md)               |     1%     |
-| [Group Project](#group-peer-evaluation) |    Project Milestone 1    |         [Problem Statement Pitch](project/milestone-1.md)         |     5%     |
-|                    ″                    |    Project Milestone 2    |       [Design Requirements Report](project/milestone-2.md)        |    15%     |
-|                    ″                    |    Project Milestone 3    |               [Shark Tank](project/milestone-3.md)                |     4%     |
-|                    ″                    |   Project Checkpoint A    |           [Prototype Planning](project/checkpoint-A.md)           |     1%     |
-|                    ″                    |   Project Checkpoint B    |          [Evaluation Planning](project/checkpoint-B.md)           |     1%     |
-|                    ″                    |    Project Milestone 4    |        [Final Report + Prototype](project/milestone-4.md)         |    15%     |
-|                    ″                    |   Project Demo Showcase   |                                                                   |     4%     |
-|                  Exam                   |          Midterm          |                  Wednesday, June 17; 3:30-5:30pm                  |    20%     |
-|                    ″                    |        Final Exam         |                       Between August 17-21*                       |    30%     |
+> [!NOTE]
+> Deadlines for group project milestones are tentatively set, but may be adjusted as the course progresses. The teaching team will provide ample notice of any changes to deadlines.
+
+|               Category               |                           Component                           |           Deadline            | Weight (%) |
+| :----------------------------------: | :-----------------------------------------------------------: | :---------------------------: | :--------: |
+|            Participation             |  [Lecture Participation](#lecture-attendance--participation)  |   Monday/Wednesday Lectures   |     2%     |
+|                  ″                   | [Workshop Participation](#workshop-attendance--participation) |   Thursday/Friday Workshops   |     2%     |
+|           Group Assignment           |         [Initial Design Assignment](intro-to-HCI.md)          |     May 22 at 11:59pm PT      |     1%     |
+|            Certification             |                       TCPS 2: CORE-2022                       |     May 29 at 11:59pm PT      |     0%     |
+| [Group Project](project/overview.md) |         [Project Milestone 1](project/milestone-1.md)         |  June 4 or 5 before workshop  |     5%     |
+|                  ″                   |         [Project Milestone 2](project/milestone-2.md)         |     June 18 at 11:59pm PT     |    15%     |
+|                  ″                   |         [Project Milestone 3](project/milestone-3.md)         | July 9 or 10 before workshop  |     4%     |
+|                  ″                   |        [Project Checkpoint A](project/checkpoint-A.md)        | July 16 or 17 before workshop |     1%     |
+|                  ″                   |        [Project Checkpoint B](project/checkpoint-B.md)        | July 23 or 24 before workshop |     1%     |
+|                  ″                   |         [Project Milestone 4](project/milestone-4.md)         |     Aug 13 at 11:59pm PT      |    15%     |
+|                  ″                   |                     Project Demo Showcase                     |      Aug 12; 3:30-5:30pm      |     4%     |
+|                 Exam                 |                            Midterm                            |     June 17; 3:30-5:30pm      |    20%     |
+|                  ″                   |                          Final Exam                           |     Between August 17-21*     |    30%     |
 
 *Final Exam: Do not schedule travel or other commitments during the final exam period. Final exam dates are set by the university and are not flexible.
 
