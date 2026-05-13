@@ -81,7 +81,7 @@ Instead of TA office hours, CPSC 344 offers co-working sessions where everyone i
 
   <div class="team-row" role="row">
     <div class="team-person" role="cell">
-      <div class="team-photo team-photo-placeholder" role="img" aria-label="Photo placeholder for Chinmay Bhansali">Photo<br>soon</div>
+      <img class="team-photo" src="assets/teaching-team/chinmay-picture.jpg" alt="Portrait of Chinmay Bhansali">
       <div>
         <h3>Chinmay Bhansali</h3>
         <p>he/him</p>
@@ -92,7 +92,7 @@ Instead of TA office hours, CPSC 344 offers co-working sessions where everyone i
       <p class="team-section-tags"><span>A</span></p>
       <p>Thu 16:00-18:00</p>
     </div>
-    <p role="cell">Bio and fun fact coming soon.</p>
+    <p role="cell">Chinmay took CPSC 344 and 444 last academic year and is graduating from Integrated Sciences with a focus on HCI. He was TAed by Andy in 344 and Rubia in 444 which inspired him to TA 344 this year.</p>
   </div>
 
   <div class="team-row" role="row">
