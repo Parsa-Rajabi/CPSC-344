@@ -5,11 +5,15 @@
 
 ## Changelog
 
+- May 13: Added TCPS Ethics Certification prerequisite and late penalty notice.
 - May 11: Initial version of milestone description and deliverable requirements.
 
 ## Overview
 
 In this milestone, your team will move from an initial project direction to an evidence-based design requirements report.
+
+> [!WARNING]
+> Each student must complete and submit the [TCPS Ethics Certification](ethics-certification.md) before participating in any course project work. Late or missing certification submissions result in a 1-point deduction from the student's Milestone 2 peer evaluation score for each 24-hour period after the certification deadline, with no maximum cap, until the certification is both completed and submitted.
 
 In Project Milestone 1, your team pitched a human need, design problem, or design opportunity that your team believed was worth investigating. You also identified reference designs, early design considerations, research questions, and possible need-finding methods.
 
@@ -495,4 +499,3 @@ Your appendix may include:
 Clearly label appendix sections.
 
 The main report must still be understandable without relying on the appendix.
-

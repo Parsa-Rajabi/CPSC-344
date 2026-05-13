@@ -5,11 +5,15 @@
 
 ## Changelog
 
+- May 13: Added TCPS Ethics Certification prerequisite notice.
 - May 11: Initial version of milestone description and deliverable requirements.
 
 ## Overview
 
 In this milestone, your team will pitch a **human need, design problem, or design opportunity** that you think is worth investigating for your course project.
+
+> [!WARNING]
+> Each student must complete and submit the [TCPS Ethics Certification](ethics-certification.md) before participating in any Milestone 1 or other course project work.
 
 The goal is not to design a solution yet. Instead, your job is to explain:
 

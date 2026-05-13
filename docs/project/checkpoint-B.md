@@ -5,11 +5,15 @@
 
 ## Changelog
 
+- May 13: Added TCPS Ethics Certification prerequisite notice.
 - May 11: Initial version of checkpoint description and deliverable requirements.
 
 ## Overview
 
 In this checkpoint, your team will explain how you plan to evaluate your prototype.
+
+> [!WARNING]
+> Each student must complete and submit the [TCPS Ethics Certification](ethics-certification.md) before participating in any course project work.
 
 By this stage, your team should have a prototype direction and a plan for what needs to be functional, convincing, polished, or simplified. Now, you will plan how to study whether your prototype supports your users and design requirements.
 

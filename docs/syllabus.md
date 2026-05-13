@@ -107,7 +107,7 @@ CPSC 344 and 444 form a two-course undergrad sequence; 444 covers more advanced 
 |            Participation             |  [Lecture Participation](#lecture-attendance--participation)  |   Monday/Wednesday Lectures   |     2%     |
 |                  ″                   | [Workshop Participation](#workshop-attendance--participation) |   Thursday/Friday Workshops   |     2%     |
 |           Group Assignment           |         [Initial Design Assignment](intro-to-HCI.md)          |     May 22 at 11:59pm PT      |     1%     |
-|            Certification             |                       TCPS 2: CORE-2022                       |     May 29 at 11:59pm PT      |     0%     |
+|            Certification             |     [TCPS 2: CORE-2022](project/ethics-certification.md)      |     May 29 at 11:59pm PT      |     0%     |
 | [Group Project](project/overview.md) |         [Project Milestone 1](project/milestone-1.md)         |  June 4 or 5 before workshop  |     5%     |
 |                  ″                   |         [Project Milestone 2](project/milestone-2.md)         |     June 18 at 11:59pm PT     |    15%     |
 |                  ″                   |         [Project Milestone 3](project/milestone-3.md)         | July 9 or 10 before workshop  |     4%     |
@@ -135,6 +135,8 @@ Where:
 **Peer Evaluation Multiplier = Average Peer Evaluation Score / 30**
 
 More details about project peer evaluation can be found here: [Project Peer Evaluation](project-peer-evaluation.md).
+
+Students must also complete and submit the [TCPS Ethics Certification](project/ethics-certification.md) before participating in any course project work, including Milestone 1 work. Late or missing certification submissions result in a 1-point deduction from the student's Milestone 2 peer evaluation score for each 24-hour period after the certification deadline, with no maximum cap, until the certification is both completed and submitted.
 
 
 > [!WARNING]
@@ -357,6 +359,8 @@ The use of AI tools will be discussed through an in-class activity before the ad
 ### Late Deliverables 
 
 All course items have fixed due dates and times. Any submission not received by the deadline is considered late. With the exception of live presentations, submissions may be submitted up to 24 hours after the deadline with a 25% late penalty.
+
+The [TCPS Ethics Certification](project/ethics-certification.md) has a separate late policy because it is a prerequisite for project participation. Late or missing certification submissions receive the penalty described on the certification page.
 
 Make-up assessments will not be given. Sometimes life gets in the way of schedules. Sickness or other unplanned or extraordinary events happen and will be dealt with individually. It is your responsibility to ensure your situation is known to the instructor and your assigned TA as soon as reasonably possible. You are accountable for being heard, which means you need to ensure that the instructor and TA have heard you.
  

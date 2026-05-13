@@ -2,6 +2,7 @@
 - [Syllabus](syllabus)
 - [Initial Design Assignment](intro-to-HCI.md)
 - [Project](project/overview.md)
+  - [TCPS Ethics Certification](project/ethics-certification.md)
 - [Feedback](feedback)
 - [Slack](https://join.slack.com/t/cpsc-344-summer-2026/shared_invite/zt-3taqbo6tx-~6AB_wbp9SPjqqEF3FXVyQ)
 <!-- - [AI Policy](ai-policy) -->

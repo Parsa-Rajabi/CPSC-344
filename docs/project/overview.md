@@ -25,7 +25,7 @@ The project is designed to help you practice the full arc of HCI work, from earl
 
 |                             Project Component                             | Deadline (tentative) | Weight |     Peer Evaluation     |
 | :-----------------------------------------------------------------------: | :------------------: | :----: | :---------------------: |
-|  [TCPS Ethics Certification  (individaul)](https://tcps2core.ca/welcome)  |        May 29        |   -    |            -            |
+|    [TCPS Ethics Certification (individual)](ethics-certification.md)     |        May 29        |   -    |            -            |
 |  [Project Milestone 1: Problem Statement Pitch](project/milestone-1.md)   |      June 4 + 5      |   5%   |      For Practice       |
 | [Project Milestone 2: Design Requirements Report](project/milestone-2.md) |       June 19        |  15%   |         Graded          |
 |         [Project Milestone 3: Shark Tank](project/milestone-3.md)         |     July 9 + 10      |   4%   |            -            |
@@ -35,7 +35,7 @@ The project is designed to help you practice the full arc of HCI work, from earl
 |             [Project Demo Showcase](project/demo-showcase.md)             |     Aug 11 + 13      |   4%   | Included in Milestone 4 |
 
 > [!WARNING]
-> Students must complete the TCPS Ethics Certification before starting any human research activities for the project. Refer to the [TCPS Ethics Certification](https://tcps2core.ca/welcome) for details.
+> Students must complete and submit the [TCPS Ethics Certification](ethics-certification.md) before participating in any course project work, including Project Milestone 1 work.
  
 ## Project Sequence
 
@@ -62,6 +62,7 @@ The project is governed by the course syllabus. Students are responsible for rev
 |              Policy Area              |                                                     Syllabus Link                                                     |
 | :-----------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
 | Course evaluation and project weights |                                 [Course Evaluation](../syllabus.md#course-evaluation)                                 |
+|          Ethics certification         |                              [TCPS Ethics Certification](ethics-certification.md)                              |
 |         Group peer evaluation         |                             [Group Peer Evaluation](../syllabus.md#group-peer-evaluation)                             |
 |           Passing criteria            |                                  [Passing Criteria](../syllabus.md#passing-criteria)                                  |
 |           Attendance policy           |                                 [Attendance Policy](../syllabus.md#attendance-policy)                                 |
