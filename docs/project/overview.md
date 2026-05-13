@@ -25,14 +25,14 @@ The project is designed to help you practice the full arc of HCI work, from earl
 
 |                             Project Component                             | Deadline (tentative) | Weight |     Peer Evaluation     |
 | :-----------------------------------------------------------------------: | :------------------: | :----: | :---------------------: |
-|    [TCPS Ethics Certification (individual)](ethics-certification.md)     |        May 29        |   -    |            -            |
+|     [TCPS Ethics Certification (individual)](ethics-certification.md)     |        May 29        |   -    |            -            |
 |  [Project Milestone 1: Problem Statement Pitch](project/milestone-1.md)   |      June 4 + 5      |   5%   |      For Practice       |
-| [Project Milestone 2: Design Requirements Report](project/milestone-2.md) |       June 19        |  15%   |         Graded          |
+| [Project Milestone 2: Design Requirements Report](project/milestone-2.md) |       June 18        |  15%   |         Graded          |
 |         [Project Milestone 3: Shark Tank](project/milestone-3.md)         |     July 9 + 10      |   4%   |            -            |
 |     [Project Checkpoint A: Prototyping Plan](project/checkpoint-A.md)     |     July 16 + 17     |   1%   |            -            |
 |     [Project Checkpoint B: Evaluation Plan](project/checkpoint-B.md)      |     July 23 + 24     |   1%   |            -            |
 |  [Project Milestone 4: Final Report + Prototype](project/milestone-4.md)  |        Aug 13        |  15%   |         Graded          |
-|             [Project Demo Showcase](project/demo-showcase.md)             |     Aug 11 + 13      |   4%   | Included in Milestone 4 |
+|             [Project Demo Showcase](project/demo-showcase.md)             |     Aug 10 + 12      |   4%   | Included in Milestone 4 |
 
 > [!WARNING]
 > Students must complete and submit the [TCPS Ethics Certification](ethics-certification.md) before participating in any course project work, including Project Milestone 1 work.
