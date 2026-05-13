@@ -42,14 +42,20 @@ Instead of TA office hours, CPSC 344 offers co-working sessions where everyone i
     <p role="cell">Wednesday, 2-3pm</p>
     <p role="cell">ICCS X360</p>
     <p role="cell">Andy</p>
-    <p role="cell">C, D</p>
+    <div class="team-workshops" role="cell">
+      <p class="team-section-tags"><span>C</span><span>D</span></p>
+      <p>Fri 10:00-12:00; Fri 12:00-14:00</p>
+    </div>
   </div>
 
   <div class="team-row" role="row">
     <p role="cell">TBD</p>
     <p role="cell">TBD</p>
     <p role="cell">Jessica</p>
-    <p role="cell">E</p>
+    <div class="team-workshops" role="cell">
+      <p class="team-section-tags"><span>E</span></p>
+      <p>Fri 14:00-16:00</p>
+    </div>
   </div>
 </div>
 
@@ -175,3 +181,11 @@ Instead of TA office hours, CPSC 344 offers co-working sessions where everyone i
     <p role="cell">CC is studying Cognitive Systems in the Psychology stream and has encountered Gestalt psychology four times at UBC.</p>
   </div>
 </div>
+
+## Professionalism 
+
+Students are expected to maintain a high level of professionalism in all course activities and communication with the instructor and peers. This includes proper email etiquette, respectful communication in class, and adherence to deadlines. Before sending an email, please ensure that you have included a subject line including the course code (CPSC 100), a greeting, a clear message, **your full name/student ID#** and a closing. Using AI/ChatGPT to generate emails/slack messages is **not recommended** and **such emails will be returned for revision.**
+
+Before sending an email, make sure to review this article on [email etiquette](email-etiquette.md) and/or [How To Email Your Professor](https://personal.math.ubc.ca/~ilaba/teaching/email.html) for tips on how to effectively communicate with your instructor. **Emails that do not follow these guidelines will be returned to the sender for revision.**
+
+> Repeated unprofessional behavior will result in grade deduction from your final grade, with **each violation resulting in a 1% deduction**. Students will be notified of possible deductions after the first official warning.

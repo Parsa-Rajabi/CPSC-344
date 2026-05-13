@@ -212,6 +212,11 @@ body .markdown-section {
         content: "Sections: ";
         font-weight: 700;
     }
+
+    .markdown-section .team-directory-compact .team-row:not(.team-header) > .team-workshops::before {
+        content: "Related workshops: ";
+        font-weight: 700;
+    }
 }
 
 @media (max-width: 560px) {
