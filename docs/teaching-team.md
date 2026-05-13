@@ -32,7 +32,10 @@ Instead of TA office hours, CPSC 344 offers co-working sessions where everyone i
     <p role="cell">Monday, 1-2pm</p>
     <p role="cell">ICCS X360</p>
     <p role="cell">Mike</p>
-    <p role="cell">A, B</p>
+    <div class="team-workshops" role="cell">
+      <p class="team-section-tags"><span>A</span><span>B</span></p>
+      <p>Thu 16:00-18:00; Thu 18:00-20:00</p>
+    </div>
   </div>
 
   <div class="team-row" role="row">
@@ -69,7 +72,10 @@ Instead of TA office hours, CPSC 344 offers co-working sessions where everyone i
       </div>
     </div>
     <p role="cell"><a href="mailto:bjung01@student.ubc.ca">bjung01@student.ubc.ca</a></p>
-    <p role="cell">A, B</p>
+    <div class="team-workshops" role="cell">
+      <p class="team-section-tags"><span>A</span><span>B</span></p>
+      <p>Thu 16:00-18:00; Thu 18:00-20:00</p>
+    </div>
     <p role="cell">Cognitive Systems student in the Arts Psychology stream. Mike has lived in South Korea, France, Greece, the U.A.E., and Canada for at least two years each.</p>
   </div>
 
@@ -82,7 +88,10 @@ Instead of TA office hours, CPSC 344 offers co-working sessions where everyone i
       </div>
     </div>
     <p role="cell"><a href="mailto:cbhansal@student.ubc.ca">cbhansal@student.ubc.ca</a></p>
-    <p role="cell">A</p>
+    <div class="team-workshops" role="cell">
+      <p class="team-section-tags"><span>A</span></p>
+      <p>Thu 16:00-18:00</p>
+    </div>
     <p role="cell">Bio and fun fact coming soon.</p>
   </div>
 
@@ -95,7 +104,10 @@ Instead of TA office hours, CPSC 344 offers co-working sessions where everyone i
       </div>
     </div>
     <p role="cell"><a href="mailto:kristofer.mah@ubc.ca">kristofer.mah@ubc.ca</a></p>
-    <p role="cell">B</p>
+    <div class="team-workshops" role="cell">
+      <p class="team-section-tags"><span>B</span></p>
+      <p>Thu 18:00-20:00</p>
+    </div>
     <p role="cell">Computer Science student with a minor in Commerce. Kris survived a hurricane and an earthquake to see BLACKPINK.</p>
   </div>
 
@@ -108,7 +120,10 @@ Instead of TA office hours, CPSC 344 offers co-working sessions where everyone i
       </div>
     </div>
     <p role="cell"><a href="mailto:ndsz@student.ubc.ca">ndsz@student.ubc.ca</a></p>
-    <p role="cell">C, D</p>
+    <div class="team-workshops" role="cell">
+      <p class="team-section-tags"><span>C</span><span>D</span></p>
+      <p>Fri 10:00-12:00; Fri 12:00-14:00</p>
+    </div>
     <p role="cell">Andy is completing an M.A.Sc. in Biomedical Engineering and enjoys making coffee drinks, cocktails, matcha, and other drinks.</p>
   </div>
 
@@ -121,7 +136,10 @@ Instead of TA office hours, CPSC 344 offers co-working sessions where everyone i
       </div>
     </div>
     <p role="cell"><a href="mailto:rubiarg@cs.ubc.ca">rubiarg@cs.ubc.ca</a></p>
-    <p role="cell">C</p>
+    <div class="team-workshops" role="cell">
+      <p class="team-section-tags"><span>C</span></p>
+      <p>Fri 10:00-12:00</p>
+    </div>
     <p role="cell">Rubia is a fourth-year PhD student in the SPIN Lab researching HCI, affective haptics, and machine learning.</p>
   </div>
 
@@ -134,7 +152,10 @@ Instead of TA office hours, CPSC 344 offers co-working sessions where everyone i
       </div>
     </div>
     <p role="cell"><a href="mailto:jlescano@student.ubc.ca">jlescano@student.ubc.ca</a></p>
-    <p role="cell">D, E</p>
+    <div class="team-workshops" role="cell">
+      <p class="team-section-tags"><span>D</span><span>E</span></p>
+      <p>Fri 12:00-14:00; Fri 14:00-16:00</p>
+    </div>
     <p role="cell">Jessica recently graduated with a B.Sc. in Cognitive Systems in the Psychology stream and has traveled to four countries in Asia in the last year.</p>
   </div>
 
@@ -147,7 +168,10 @@ Instead of TA office hours, CPSC 344 offers co-working sessions where everyone i
       </div>
     </div>
     <p role="cell"><a href="mailto:ccliang@student.ubc.ca">ccliang@student.ubc.ca</a></p>
-    <p role="cell">E</p>
+    <div class="team-workshops" role="cell">
+      <p class="team-section-tags"><span>E</span></p>
+      <p>Fri 14:00-16:00</p>
+    </div>
     <p role="cell">CC is studying Cognitive Systems in the Psychology stream and has encountered Gestalt psychology four times at UBC.</p>
   </div>
 </div>

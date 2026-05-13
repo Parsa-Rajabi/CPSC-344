@@ -15,6 +15,12 @@ body .markdown-section {
     font-size: 16px;
 }
 
+@media (min-width: 1100px) {
+    body .markdown-section:has(.team-directory) {
+        max-width: 1120px;
+    }
+}
+
 /* Fix: <strong> text inside Docsify alert/callout blocks rendering as white */
 .markdown-section blockquote strong,
 .markdown-section blockquote b {
@@ -35,6 +41,7 @@ body .markdown-section {
     display: grid;
     gap: 0;
     margin: 1rem 0 2rem;
+    width: 100%;
     border: 1px solid rgba(94, 106, 113, 0.25);
     border-radius: 8px;
     overflow: hidden;
@@ -94,6 +101,37 @@ body .markdown-section {
     font-size: 0.9rem;
 }
 
+.markdown-section .team-section-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+}
+
+.markdown-section .team-section-tags span {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 2rem;
+    min-height: 1.65rem;
+    padding: 0.1rem 0.5rem;
+    border-radius: 999px;
+    color: #002145;
+    font-size: 0.85rem;
+    font-weight: 700;
+    background: rgba(0, 33, 69, 0.08);
+    border: 1px solid rgba(0, 33, 69, 0.18);
+}
+
+.markdown-section .team-workshops {
+    display: grid;
+    gap: 0.35rem;
+}
+
+.markdown-section .team-workshops p:last-child {
+    color: #5E6A71;
+    font-size: 0.9rem;
+}
+
 .markdown-section .team-photo {
     width: 96px;
     height: 96px;
@@ -124,9 +162,64 @@ body .markdown-section {
         gap: 0.65rem;
         align-items: start;
     }
+
+    .markdown-section .team-directory {
+        border: 0;
+        gap: 0.75rem;
+        overflow: visible;
+    }
+
+    .markdown-section .team-row {
+        border: 1px solid rgba(94, 106, 113, 0.25);
+        border-radius: 8px;
+    }
+
+    .markdown-section .team-row:first-child {
+        border-top: 1px solid rgba(94, 106, 113, 0.25);
+    }
+
+    .markdown-section .team-directory:not(.team-directory-single):not(.team-directory-compact) .team-row:not(.team-header) > p:nth-of-type(1)::before {
+        content: "Contact: ";
+        font-weight: 700;
+    }
+
+    .markdown-section .team-directory:not(.team-directory-single):not(.team-directory-compact) .team-row:not(.team-header) > .team-workshops::before {
+        content: "Workshop: ";
+        font-weight: 700;
+    }
+
+    .markdown-section .team-directory:not(.team-directory-single):not(.team-directory-compact) .team-row:not(.team-header) > p:nth-of-type(2)::before {
+        content: "About: ";
+        font-weight: 700;
+    }
+
+    .markdown-section .team-directory-compact .team-row:not(.team-header) > p:nth-of-type(1)::before {
+        content: "Day and time: ";
+        font-weight: 700;
+    }
+
+    .markdown-section .team-directory-compact .team-row:not(.team-header) > p:nth-of-type(2)::before {
+        content: "Location: ";
+        font-weight: 700;
+    }
+
+    .markdown-section .team-directory-compact .team-row:not(.team-header) > p:nth-of-type(3)::before {
+        content: "TA: ";
+        font-weight: 700;
+    }
+
+    .markdown-section .team-directory-compact .team-row:not(.team-header) > p:nth-of-type(4)::before {
+        content: "Sections: ";
+        font-weight: 700;
+    }
 }
 
 @media (max-width: 560px) {
+    body .markdown-section:has(.team-directory) {
+        padding-left: 14px;
+        padding-right: 14px;
+    }
+
     .markdown-section .team-person {
         grid-template-columns: 80px 1fr;
     }
@@ -152,8 +245,15 @@ body .markdown-section {
     }
 
     .markdown-section .team-person p,
+    .markdown-section .team-workshops p:last-child,
     .markdown-section .team-photo-placeholder {
         color: #B2B4B4;
+    }
+
+    .markdown-section .team-section-tags span {
+        color: #D7E9FA;
+        background: rgba(111, 177, 231, 0.14);
+        border-color: rgba(111, 177, 231, 0.35);
     }
 
     .markdown-section .team-photo,
