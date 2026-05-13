@@ -40,13 +40,13 @@ We acknowledge that the land on which we gather is the traditional, ancestral an
 CPSC 344 has multiple "workshops" (listed as Discussions on Workday). These sessions are designed to be hands-on and interactive, where students will work on assignments, projects, and other activities. The workshops are **only conducted in-person**, no recordings will be made available.
 
 
-| Section |         Time          | Location  | TAs   (tentatively) | Co-working Sessions (in ICCS X360) |
-| :-----: | :-------------------: | :-------: | :-----------------: | :--------------------------------: |
-|   D0A   | Thursdays 16:00-18:00 | ICCS X360 |       Mike +        |         [Mike] X-Day TIME          |
-|   D0B   | Thursdays 18:00-20:00 | ICCS X360 |     Mike + Kris     |         [Mike] X-Day TIME          |
-|   D0C   |  Fridays 10:00-12:00  | ICCS X360 |    Andy + Rubia     |         [Andy] X-Day TIME          |
-|   D0D   |  Fridays 12:00-14:00  | ICCS X360 |   Andy + Jessica    |         [Andy] X-Day TIME          |
-|   D0E   |  Fridays 14:00-16:00  | ICCS X360 |    CC + Jessica     |        [Jessica] X-Day TIME        |
+| Section |         Time          | Location  | TAs   (tentatively) |         Co-working Sessions          |
+| :-----: | :-------------------: | :-------: | :-----------------: | :----------------------------------: |
+|   D0A   | Thursdays 16:00-18:00 | ICCS X360 |   Mike + Chinmay    |  [Mike] Monday; 1-2pm in ICCS X360   |
+|   D0B   | Thursdays 18:00-20:00 | ICCS X360 |     Mike + Kris     |  [Mike] Monday; 1-2pm in ICCS X360   |
+|   D0C   |  Fridays 10:00-12:00  | ICCS X360 |    Andy + Rubia     | [Andy] Wednesday; 2-3pm in ICCS X360 |
+|   D0D   |  Fridays 12:00-14:00  | ICCS X360 |   Andy + Jessica    | [Andy] Wednesday; 2-3pm in ICCS X360 |
+|   D0E   |  Fridays 14:00-16:00  | ICCS X360 |    CC + Jessica     |            [Jessica] TBD             |
 
 There will be no workshops or office hours the first week of class (e.g., May 11-15). Both workshops and co-working sessions will begin starting May 19.
 
