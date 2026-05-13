@@ -7,13 +7,15 @@ Department of Computer Science, University of British Columbia (Vancouver, Point
 ## Course Instructor
 
 - Parsa Rajabi
-  - Email: *prajabi at cs`DELETEthisTEXT`.ubc.ca*
+  - Email: *prajabi at `DELETEthisTEXT`cs.ubc.ca*
   - Office Hours: 
     - Mondays; 17:20-18:00 in MCLD 2018/ICCS 255
     - Wednesdays; 16:50-17:30 in MCLD 2018/ICCS 255 
     - or by appointment (email to schedule)
 
 Refer to [course communication conventions](#course-communication-conventions) for the best way to reach out to the instructor.
+
+For teaching team profiles, photos, workshop sections, and co-working sessions, see the [Teaching Team](teaching-team.md) page.
 
 ## Lectures
 
@@ -49,6 +51,8 @@ CPSC 344 has multiple "workshops" (listed as Discussions on Workday). These sess
 |   D0E   |  Fridays 14:00-16:00  | ICCS X360 |    CC + Jessica     |            [Jessica] TBD             |
 
 There will be no workshops or office hours the first week of class (e.g., May 11-15). Both workshops and co-working sessions will begin starting May 19.
+
+More information about the instructor and TAs is available on the [Teaching Team](teaching-team.md) page.
 
 ## Course Description
 

@@ -31,6 +31,117 @@ body .markdown-section {
     color: inherit !important;
 }
 
+.markdown-section .team-directory {
+    display: grid;
+    gap: 0;
+    margin: 1rem 0 2rem;
+    border: 1px solid rgba(94, 106, 113, 0.25);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.markdown-section .team-row {
+    display: grid;
+    grid-template-columns: minmax(190px, 1.1fr) minmax(170px, 0.85fr) minmax(190px, 1fr) minmax(240px, 1.4fr);
+    gap: 1rem;
+    align-items: center;
+    padding: 0.85rem 1rem;
+    border-top: 1px solid rgba(94, 106, 113, 0.2);
+}
+
+.markdown-section .team-directory-single .team-row {
+    grid-template-columns: 72px minmax(160px, 0.6fr) minmax(260px, 1.4fr);
+}
+
+.markdown-section .team-row:first-child {
+    border-top: 0;
+}
+
+.markdown-section .team-header {
+    color: #002145;
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0;
+    background: rgba(0, 33, 69, 0.06);
+}
+
+.markdown-section .team-person {
+    display: grid;
+    grid-template-columns: 72px 1fr;
+    gap: 0.75rem;
+    align-items: center;
+}
+
+.markdown-section .team-person h3 {
+    margin: 0 0 0.15rem;
+    font-size: 1rem;
+}
+
+.markdown-section .team-row p {
+    margin: 0.2rem 0;
+}
+
+.markdown-section .team-person p {
+    color: #5E6A71;
+    font-size: 0.9rem;
+}
+
+.markdown-section .team-photo {
+    width: 72px;
+    height: 72px;
+    border-radius: 8px;
+    object-fit: cover;
+    background: #f1f3f5;
+}
+
+.markdown-section .team-photo-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #5E6A71;
+    font-size: 0.78rem;
+    line-height: 1.15;
+    text-align: center;
+    border: 1px dashed rgba(94, 106, 113, 0.6);
+}
+
+@media (max-width: 820px) {
+    .markdown-section .team-header {
+        display: none;
+    }
+
+    .markdown-section .team-row,
+    .markdown-section .team-directory-single .team-row {
+        grid-template-columns: 1fr;
+        gap: 0.5rem;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    .markdown-section .team-directory {
+        border-color: rgba(178, 180, 180, 0.35);
+    }
+
+    .markdown-section .team-row {
+        border-top-color: rgba(178, 180, 180, 0.25);
+    }
+
+    .markdown-section .team-header {
+        color: #6FB1E7;
+        background: rgba(111, 177, 231, 0.1);
+    }
+
+    .markdown-section .team-person p,
+    .markdown-section .team-photo-placeholder {
+        color: #B2B4B4;
+    }
+
+    .markdown-section .team-photo,
+    .markdown-section .team-photo-placeholder {
+        background: #20262c;
+    }
+}
+
 
 :root {
     /* UBC brand colors: primary blue and supporting accents */
