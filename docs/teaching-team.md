@@ -178,7 +178,7 @@ Instead of TA office hours, CPSC 344 offers co-working sessions where everyone i
       <p class="team-section-tags"><span>E</span></p>
       <p>Fri 14:00-16:00</p>
     </div>
-    <p role="cell">CC is studying Cognitive Systems in the Psychology stream and has encountered Gestalt psychology four times at UBC.</p>
+    <p role="cell">CC is studying Cognitive Systems in the Psychology stream and has encountered Gestalt psychology four times at UBC: once in first-year Music Theory class, twice in different Psychology courses, and once in CPSC 344!</p>
   </div>
 </div>
 
