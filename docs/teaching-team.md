@@ -125,7 +125,7 @@ Instead of TA office hours, CPSC 344 offers co-working sessions where everyone i
         <p>he/they</p>
       </div>
     </div>
-    <p role="cell"><a href="mailto:ndsz@student.ubc.ca">ndsz@student.ubc.ca</a></p>
+    <p role="cell"><a href="mailto:andy.zhao@ubc.ca">andy.zhao@ubc.ca</a></p>
     <div class="team-workshops" role="cell">
       <p class="team-section-tags"><span>C</span><span>D</span></p>
       <p>Fri 10:00-12:00; Fri 12:00-14:00</p>
