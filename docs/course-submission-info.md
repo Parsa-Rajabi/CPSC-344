@@ -6,17 +6,14 @@
 |  Date  |            Update            |
 | :----: | :--------------------------: |
 | May 11 | V1 - Initial submission Info |
-
-## Overview
-
-Due to a university-wide restriction on Canvas access, the teaching team is currently exploring alternative platforms and process to keep the course running smoothly. This page will be updated with the latest information as they become available. Please check back here and your course email/slack announcements for the latest updates on the submission process.
+| May 20 | V2 - Canvas access restored  |
 
 
-## Lecture Notes
+## May 20 
 
-For the time being, lecture notes will be posted on the course [home page](home.md) instead of Canvas. 
+As of May 20, canvas access has been restored for all students and instructors. The course will be using Canvas for assignment submission as originally planned. Please submit everything through course canvas: https://canvas.ubc.ca/courses/190096/assignments
 
-## Submission Instructions
+## May 11
 
 As communicated by UBC, the university has restricted access to Canvas for all community members, including students and instructors. For this reason, we may be using a different platform for assignment submission. 
 
