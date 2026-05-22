@@ -48,7 +48,7 @@ CPSC 344 has multiple "workshops" (listed as Discussions on Workday). These sess
 |   D0B   | Thursdays 18:00-20:00 | ICCS X360 |     Mike + Kris     |  [Mike] Monday; 1-2pm in ICCS X360   |
 |   D0C   |  Fridays 10:00-12:00  | ICCS X360 |    Andy + Rubia     | [Andy] Wednesday; 2-3pm in ICCS X360 |
 |   D0D   |  Fridays 12:00-14:00  | ICCS X360 |   Andy + Jessica    | [Andy] Wednesday; 2-3pm in ICCS X360 |
-|   D0E   |  Fridays 14:00-16:00  | ICCS X360 |    CC + Jessica     |            [Jessica] TBD             |
+|   D0E   |  Fridays 14:00-16:00  | ICCS X360 |    CC + Jessica     |[Jessica] Friday; 10-11am in ICCS X339|
 
 There will be no workshops or office hours the first week of class (e.g., May 11-15). Both workshops and co-working sessions will begin starting May 19.
 
