@@ -49,8 +49,8 @@ Instead of TA office hours, CPSC 344 offers co-working sessions where everyone i
   </div>
 
   <div class="team-row" role="row">
-    <p role="cell">TBD</p>
-    <p role="cell">TBD</p>
+    <p role="cell">Friday, 10-11am</p>
+    <p role="cell">ICCS X339</p>
     <p role="cell">Jessica</p>
     <div class="team-workshops" role="cell">
       <p class="team-section-tags"><span>E</span></p>
