@@ -1,22 +1,25 @@
+# Submission Info
 
-# Canvas Outage
+This page summarizes where to submit course work. Unless the teaching team announces otherwise, submit all course deliverables through Canvas.
 
 ## Changelog
-
 |  Date  |            Update            |
 | :----: | :--------------------------: |
 | May 11 | V1 - Initial submission Info |
 | May 20 | V2 - Canvas access restored  |
 
+## Canvas Submissions
 
-## May 20 
+Use the course Canvas assignments page for submissions:
 
-As of May 20, canvas access has been restored for all students and instructors. The course will be using Canvas for assignment submission as originally planned. Please submit everything through course canvas: https://canvas.ubc.ca/courses/190096/assignments
+[https://canvas.ubc.ca/courses/190096/assignments](https://canvas.ubc.ca/courses/190096/assignments)
 
-## May 11
+Canvas access was restored on May 20, so the course is using Canvas for assignment submission as originally planned.
 
-As communicated by UBC, the university has restricted access to Canvas for all community members, including students and instructors. For this reason, we may be using a different platform for assignment submission. 
+## Updates
 
-At this time, we are still finalizing the submission platform and process for this course. Latest updates on the submission process will be shared through course slack announcement and this page will be updated with detailed instructions as soon as possible. 
+Any major changes to the submission process will be announced on course Slack and reflected on this page.
 
-In the meantime, if you have any questions about the submission process, please reach out to the teaching team via Slack.
+## Questions
+
+If you have questions about where or how to submit something, contact the teaching team via Slack before the deadline.

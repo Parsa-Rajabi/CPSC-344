@@ -1,20 +1,26 @@
 - [Home](home.md)
-- [Syllabus](syllabus)
-- [Teaching Team](teaching-team)
-- [Initial Design Assignment](intro-to-HCI.md)
-- [Project](project/overview.md)
+- [Syllabus](syllabus.md)
+
+- **Assignments**
+  - [Initial Design Assignment](intro-to-HCI.md)
+  - [Submission Info](course-submission-info.md)
+  - [Gradescope Access](gradescope-access.md)
+
+- **Course Project**
+  - [Project Overview](project/overview.md)
   - [TCPS Ethics Certification](project/ethics-certification.md)
-- [Feedback](feedback)
-- [Slack](https://join.slack.com/t/cpsc-344-summer-2026/shared_invite/zt-3taqbo6tx-~6AB_wbp9SPjqqEF3FXVyQ)
-<!-- - [AI Policy](ai-policy) -->
-<!-- - [Course Schedule](schedule) -->
-<!-- - [Lecture Notes](lecture-notes) -->
-<!-- - [Assignments & Labs](assignment-lab-details) -->
-<!-- - [Resources](resources) -->
-<!-- - **LMS Links**
-- [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080)Calendar](https://canvas.sfu.ca/courses/44038/calendar)
-- [![Assignments Icon](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080)Assignments](https://canvas.sfu.ca/courses/44038/assignments )
-- [![Quizzes Icon](https://icongr.am/fontawesome/check-circle.svg?size=16&color=808080)Quizzes](https://canvas.sfu.ca/courses/44038/quizzes)
-- [![Class Discussions Icon](https://icongr.am/fontawesome/comments-o.svg?size=16&color=808080)Class Discussions](https://canvas.sfu.ca/courses/44038/discussion_topics)
-- [![Grades Icon](https://icongr.am/fontawesome/calculator.svg?size=16&color=808080)Grades](https://canvas.sfu.ca/courses/44038/gradebook)
-- [![Syllabus Icon](https://icongr.am/fontawesome/list.svg?size=16&color=808080)Syllabus](https://canvas.sfu.ca/courses/44038/assignments/syllabus) -->
+  - [Peer Evaluation](project-peer-evaluation.md)
+  - [Milestone 1](project/milestone-1.md)
+  - [Milestone 2](project/milestone-2.md)
+  - [Milestone 3](project/milestone-3.md)
+  - [Checkpoint A](project/checkpoint-A.md)
+  - [Checkpoint B](project/checkpoint-B.md)
+  - [Milestone 4](project/milestone-4.md)
+  - [Demo Showcase](project/demo-showcase.md)
+
+- **Support**
+  - [Teaching Team](teaching-team.md)
+  - [Feedback](feedback.md)
+  - [Email Etiquette](email-etiquette.md)
+  - [Code of Conduct](code-of-conduct.md)
+  - [Slack](https://join.slack.com/t/cpsc-344-summer-2026/shared_invite/zt-3taqbo6tx-~6AB_wbp9SPjqqEF3FXVyQ)

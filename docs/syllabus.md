@@ -13,7 +13,7 @@ Department of Computer Science, University of British Columbia (Vancouver, Point
     - Wednesdays; 16:50-17:30 in MCLD 2018/ICCS 255 
     - or by appointment (email to schedule)
 
-Refer to [course communication conventions](#course-communication-conventions) for the best way to reach out to the instructor.
+Refer to [Learning Resources](#learning-resources) for the best way to reach out to the instructor.
 
 For teaching team profiles, photos, workshop sections, and co-working sessions, see the [Teaching Team](teaching-team.md) page.
 
