@@ -25,17 +25,17 @@ The project is designed to help you practice the full arc of HCI work, from earl
 
 |                             Project Component                             | Deadline (tentative) | Weight |     Peer Evaluation     |
 | :-----------------------------------------------------------------------: | :------------------: | :----: | :---------------------: |
-|     [TCPS Ethics Certification (individual)](ethics-certification.md)     |        May 29        |   -    |            -            |
-|      [Project Milestone 1: Problem Statement Pitch](milestone-1.md)       |      June 4 + 5      |   5%   |      For Practice       |
-|     [Project Milestone 2: Design Requirements Report](milestone-2.md)     |       June 18        |  15%   |         Graded          |
-|             [Project Milestone 3: Shark Tank](milestone-3.md)             |     July 9 + 10      |   4%   |            -            |
-|         [Project Checkpoint A: Prototyping Plan](checkpoint-A.md)         |     July 16 + 17     |   1%   |            -            |
-|          [Project Checkpoint B: Evaluation Plan](checkpoint-B.md)         |     July 23 + 24     |   1%   |            -            |
-|      [Project Milestone 4: Final Report + Prototype](milestone-4.md)      |        Aug 13        |  15%   |         Graded          |
-|                 [Project Demo Showcase](demo-showcase.md)                 |     Aug 10 + 12      |   4%   | Included in Milestone 4 |
+|  [TCPS Ethics Certification (individual)](project/ethics-certification.md)  |        May 29        |   -    |            -            |
+|   [Project Milestone 1: Problem Statement Pitch](project/milestone-1.md)    |      June 4 + 5      |   5%   |      For Practice       |
+|  [Project Milestone 2: Design Requirements Report](project/milestone-2.md)  |       June 18        |  15%   |         Graded          |
+|          [Project Milestone 3: Shark Tank](project/milestone-3.md)          |     July 9 + 10      |   4%   |            -            |
+|      [Project Checkpoint A: Prototyping Plan](project/checkpoint-A.md)      |     July 16 + 17     |   1%   |            -            |
+|       [Project Checkpoint B: Evaluation Plan](project/checkpoint-B.md)      |     July 23 + 24     |   1%   |            -            |
+|   [Project Milestone 4: Final Report + Prototype](project/milestone-4.md)   |        Aug 13        |  15%   |         Graded          |
+|              [Project Demo Showcase](project/demo-showcase.md)              |     Aug 10 + 12      |   4%   | Included in Milestone 4 |
 
 > [!WARNING]
-> Students must complete and submit the [TCPS Ethics Certification](ethics-certification.md) before participating in any course project work, including Project Milestone 1 work.
+> Students must complete and submit the [TCPS Ethics Certification](project/ethics-certification.md) before participating in any course project work, including Project Milestone 1 work.
  
 ## Project Sequence
 
@@ -51,7 +51,7 @@ The project is designed to help you practice the full arc of HCI work, from earl
 
 ## Submission Information
 
-For the latest information on how to submit project items, refer to the [course submission information page](../course-submission-info.md).
+For the latest information on how to submit project items, refer to the [course submission information page](course-submission-info.md).
 
 Submission processes may change during the term, especially if there are issues with Canvas or other course tools. Any major changes will be communicated through course Slack.
 
@@ -61,33 +61,33 @@ The project is governed by the course syllabus. Students are responsible for rev
 
 |              Policy Area              |                                                     Syllabus Link                                                     |
 | :-----------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
-| Course evaluation and project weights |                                 [Course Evaluation](../syllabus.md#course-evaluation)                                 |
-|          Ethics certification         |                              [TCPS Ethics Certification](ethics-certification.md)                              |
-|         Group peer evaluation         |                             [Group Peer Evaluation](../syllabus.md#group-peer-evaluation)                             |
-|           Passing criteria            |                                  [Passing Criteria](../syllabus.md#passing-criteria)                                  |
-|           Attendance policy           |                                 [Attendance Policy](../syllabus.md#attendance-policy)                                 |
-| Lecture attendance and participation  |                [Lecture Attendance & Participation](../syllabus.md#lecture-attendance--participation)                 |
-| Workshop attendance and participation |               [Workshop Attendance & Participation](../syllabus.md#workshop-attendance--participation)                |
-|     Group work and participation      | [Importance of Group Work and Participation Policy](../syllabus.md#importance-of-group-work-and-participation-policy) |
-|         Academic expectations         |                             [Academic Expectations](../syllabus.md#academic-expectations)                             |
-|  Code of conduct and professionalism  |               [Code of Conduct and Professionalism](../syllabus.md#code-of-conduct-and-professionalism)               |
-|          Academic integrity           |                                [Academic Integrity](../syllabus.md#academic-integrity)                                |
-|    Artificial intelligence policy     |         [Artificial Intelligence / ChatGPT Policy](../syllabus.md#artificial-intelligence-ai--chatgpt-policy)         |
-|           Late deliverables           |                                 [Late Deliverables](../syllabus.md#late-deliverables)                                 |
-|           Remarking policy            |                                  [Remarking Policy](../syllabus.md#remarking-policy)                                  |
-|   Course communication conventions    |                              [Learning Resources](../syllabus.md#learning-resources)                              |
+| Course evaluation and project weights |                                 [Course Evaluation](syllabus.md#course-evaluation)                                 |
+|          Ethics certification         |                              [TCPS Ethics Certification](project/ethics-certification.md)                              |
+|         Group peer evaluation         |                             [Group Peer Evaluation](syllabus.md#group-peer-evaluation)                             |
+|           Passing criteria            |                                  [Passing Criteria](syllabus.md#passing-criteria)                                  |
+|           Attendance policy           |                                 [Attendance Policy](syllabus.md#attendance-policy)                                 |
+| Lecture attendance and participation  |                [Lecture Attendance & Participation](syllabus.md#lecture-attendance--participation)                 |
+| Workshop attendance and participation |               [Workshop Attendance & Participation](syllabus.md#workshop-attendance--participation)                |
+|     Group work and participation      | [Importance of Group Work and Participation Policy](syllabus.md#importance-of-group-work-and-participation-policy) |
+|         Academic expectations         |                             [Academic Expectations](syllabus.md#academic-expectations)                             |
+|  Code of conduct and professionalism  |               [Code of Conduct and Professionalism](syllabus.md#code-of-conduct-and-professionalism)               |
+|          Academic integrity           |                                [Academic Integrity](syllabus.md#academic-integrity)                                |
+|    Artificial intelligence policy     |         [Artificial Intelligence / ChatGPT Policy](syllabus.md#artificial-intelligence-ai--chatgpt-policy)         |
+|           Late deliverables           |                                 [Late Deliverables](syllabus.md#late-deliverables)                                 |
+|           Remarking policy            |                                  [Remarking Policy](syllabus.md#remarking-policy)                                  |
+|   Course communication conventions    |                              [Learning Resources](syllabus.md#learning-resources)                              |
 
 ## Attendance and Participation Reminder
 
 The project depends on active in-person participation. Workshops are used for collaboration, feedback, project progress, and presentation activities.
 
-Some project sessions, including Shark Tank, demo presentations, peer testing sessions, and the final showcase, require all group members to attend in person. Refer to the syllabus for the full [Workshop Attendance & Participation](../syllabus.md#workshop-attendance--participation) policy.
+Some project sessions, including Shark Tank, demo presentations, peer testing sessions, and the final showcase, require all group members to attend in person. Refer to the syllabus for the full [Workshop Attendance & Participation](syllabus.md#workshop-attendance--participation) policy.
 
 ## Peer Evaluation Reminder
 
 Several project components include peer evaluation. Peer evaluation is used to help account for individual contribution within group-based work.
 
-When a project milestone includes peer evaluation, each team member will evaluate their teammates’ contributions using a structured form. Refer to the syllabus section on [Group Peer Evaluation](../syllabus.md#group-peer-evaluation) and the relevant milestone page for details.
+When a project milestone includes peer evaluation, each team member will evaluate their teammates’ contributions using a structured form. Refer to the syllabus section on [Group Peer Evaluation](syllabus.md#group-peer-evaluation) and the relevant milestone page for details.
 
 ## Final Reminder
 
