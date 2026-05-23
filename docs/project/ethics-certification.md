@@ -18,7 +18,7 @@ Complete the TCPS 2: CORE-2022 tutorial here:
 
 The certification is due **May 29 at 11:59pm PT**.
 
-Refer to [Course Submission Information](course-submission-info.md) for details on how to submit your certification.
+Refer to [Course Submission Information](../course-submission-info.md) for details on how to submit your certification.
 
 ## Grading and Late Penalty
 
@@ -26,7 +26,7 @@ The TCPS Ethics Certification is worth **0%** of the course grade. It is a requi
 
 Because the certification is required before project participation, late or missing submissions will affect the student's **Milestone 2 peer evaluation grade**.
 
-For each 24-hour period after the deadline, a **1-point deduction** will be applied to the student's Milestone 2 [peer evaluation score](project-peer-evaluation.md) until the student both completes and submits the certification.
+For each 24-hour period after the deadline, a **1-point deduction** will be applied to the student's Milestone 2 [peer evaluation score](../project-peer-evaluation.md) until the student both completes and submits the certification.
 
 There is no maximum cap on this deduction (rememebr, peer evaluation scores are a multiplicative factor on the Milestone 2 grade, so a score of 0 would result in a Milestone 2 grade of 0 regardless of the quality of the work). The deduction will continue to be applied until the student completes and submits the certification.
 
