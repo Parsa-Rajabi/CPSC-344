@@ -13,7 +13,7 @@
 In this milestone, your team will submit your final prototype and a final design report.
 
 > [!WARNING]
-> Each student must complete and submit the [TCPS Ethics Certification](ethics-certification.md) before participating in any course project work.
+> Each student must complete and submit the [TCPS Ethics Certification](project/ethics-certification.md) before participating in any course project work.
 
 Your report should explain how your design developed over time, how you evaluated it, what you learned, and what you would recommend next. Your prototype should demonstrate the main interaction your team designed and support the central tasks you identified earlier in the project.
 
@@ -44,13 +44,13 @@ Your team will also participate in the **Project Demo Showcase**.
 
 ## Submission
 
-Refer to the [course submission information page](../course-submission-info.md) for the latest information on how to submit items for the course.
+Refer to the [course submission information page](course-submission-info.md) for the latest information on how to submit items for the course.
 
 ## Peer Evaluation
 
 This milestone includes a peer evaluation component. Each team member will evaluate their teammates’ contributions to the project using a structured peer evaluation form.
 
-Refer to the [peer evaluation information page](../project-peer-evaluation.md) for details.
+Refer to the [peer evaluation information page](project-peer-evaluation.md) for details.
 
 ## Formatting and Page Limits
 

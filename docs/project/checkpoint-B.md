@@ -13,7 +13,7 @@
 In this checkpoint, your team will explain how you plan to evaluate your prototype.
 
 > [!WARNING]
-> Each student must complete and submit the [TCPS Ethics Certification](ethics-certification.md) before participating in any course project work.
+> Each student must complete and submit the [TCPS Ethics Certification](project/ethics-certification.md) before participating in any course project work.
 
 By this stage, your team should have a prototype direction and a plan for what needs to be functional, convincing, polished, or simplified. Now, you will plan how to study whether your prototype supports your users and design requirements.
 
@@ -39,7 +39,7 @@ Recommended length: **1 to 2 pages**, not including the appendix.
 
 ## Submission
 
-Refer to the [course submission information page](../course-submission-info.md) for the latest information on how to submit items for the course.
+Refer to the [course submission information page](course-submission-info.md) for the latest information on how to submit items for the course.
 
 ## Evaluation Plan
 

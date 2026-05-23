@@ -13,7 +13,7 @@
 In this milestone, your team will pitch a **human need, design problem, or design opportunity** that you think is worth investigating for your course project.
 
 > [!WARNING]
-> Each student must complete and submit the [TCPS Ethics Certification](ethics-certification.md) before participating in any Milestone 1 or other course project work.
+> Each student must complete and submit the [TCPS Ethics Certification](project/ethics-certification.md) before participating in any Milestone 1 or other course project work.
 
 The goal is not to design a solution yet. Instead, your job is to explain:
 
@@ -45,7 +45,7 @@ This milestones include a **PRACTICE** peer evaluation component. Each team memb
 
 The purpose of this practice peer evaluation is to help you reflect on your teamwork and communication, and to prepare you for the peer evaluations that will be part of later milestones.
 
-Refer to the [peer evaluation information page](../project-peer-evaluation.md) for details.
+Refer to the [peer evaluation information page](project-peer-evaluation.md) for details.
 
 ## What You Are Pitching
 
@@ -142,7 +142,7 @@ Because this is an in-person project milestone, all group members are expected t
 
 ## Submission
 
-Refer to the [course submission information page](../course-submission-info.md) for the latest information on how to submit items for the course.
+Refer to the [course submission information page](course-submission-info.md) for the latest information on how to submit items for the course.
 
 ## Required Slide Structure
 
@@ -194,12 +194,12 @@ On this slide, include:
 **Reference Design 1:** Labelled waste bins  
 These allow different kinds of waste to be placed in different bins so that garbage, recycling, returnables, and compost can be processed separately.
 
-![alt text](../assets/images/Project-M1-Ref-Slide-2A.jpg)
+![alt text](assets/images/Project-M1-Ref-Slide-2A.jpg)
 
 **Reference Design 2:** Waste sorting poster or guide  
 This provides more detailed information about what items belong in each bin.
 
-![alt text](../assets/images/Project-M1-Ref-Slide-2B.png)
+![alt text](assets/images/Project-M1-Ref-Slide-2B.png)
 
 ## Slides 3 and 4: Critique Reference Designs
 

@@ -8,7 +8,7 @@
 The Project Demo Showcase is the public-facing presentation of your final prototype.
 
 > [!WARNING]
-> Each student must complete and submit the [TCPS Ethics Certification](ethics-certification.md) before participating in any course project work.
+> Each student must complete and submit the [TCPS Ethics Certification](project/ethics-certification.md) before participating in any course project work.
 
 During the showcase, your team will demonstrate your prototype, explain your design process, and answer questions from visitors, peers, TAs, and the teaching team.
 

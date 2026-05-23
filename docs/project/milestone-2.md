@@ -13,7 +13,7 @@
 In this milestone, your team will move from an initial project direction to an evidence-based design requirements report.
 
 > [!WARNING]
-> Each student must complete and submit the [TCPS Ethics Certification](ethics-certification.md) before participating in any course project work. Late or missing certification submissions result in a 1-point deduction from the student's Milestone 2 peer evaluation score for each 24-hour period after the certification deadline, with no maximum cap, until the certification is both completed and submitted.
+> Each student must complete and submit the [TCPS Ethics Certification](project/ethics-certification.md) before participating in any course project work. Late or missing certification submissions result in a 1-point deduction from the student's Milestone 2 peer evaluation score for each 24-hour period after the certification deadline, with no maximum cap, until the certification is both completed and submitted.
 
 In Project Milestone 1, your team pitched a human need, design problem, or design opportunity that your team believed was worth investigating. You also identified reference designs, early design considerations, research questions, and possible need-finding methods.
 
@@ -69,13 +69,13 @@ Your report should include:
 
 ## Submission
 
-Refer to the [course submission information page](../course-submission-info.md) for the latest information on how to submit items for the course.
+Refer to the [course submission information page](course-submission-info.md) for the latest information on how to submit items for the course.
 
 ## Peer Evaluation
 
 This milestone includes a peer evaluation component. Each team member will evaluate their teammates’ contributions to the project using a structured peer evaluation form.
 
-Refer to the [peer evaluation information page](../project-peer-evaluation.md) for details.
+Refer to the [peer evaluation information page](project-peer-evaluation.md) for details.
 
 ## Formatting and Page Limits
 

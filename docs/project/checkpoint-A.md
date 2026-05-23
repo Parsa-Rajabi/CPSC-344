@@ -13,7 +13,7 @@
 In this checkpoint, your team will explain how you plan to move from your Shark Tank ideas to a prototype.
 
 > [!WARNING]
-> Each student must complete and submit the [TCPS Ethics Certification](ethics-certification.md) before participating in any course project work.
+> Each student must complete and submit the [TCPS Ethics Certification](project/ethics-certification.md) before participating in any course project work.
 
 Use feedback from your Shark Tank pitch, conceptual models, low-fidelity prototypes, Cognitive Walkthroughs, TA feedback, and team discussion to decide what your prototype needs to accomplish.
 
@@ -39,7 +39,7 @@ Recommended length: **1 to 2 pages**, not including the appendix.
 
 ## Submission
 
-Refer to the [course submission information page](../course-submission-info.md) for the latest information on how to submit items for the course.
+Refer to the [course submission information page](course-submission-info.md) for the latest information on how to submit items for the course.
 
 ## Prototyping Plan
 

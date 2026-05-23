@@ -13,7 +13,7 @@
 In this milestone, your team will present multiple possible design approaches for your project.
 
 > [!WARNING]
-> Each student must complete and submit the [TCPS Ethics Certification](ethics-certification.md) before participating in any course project work.
+> Each student must complete and submit the [TCPS Ethics Certification](project/ethics-certification.md) before participating in any course project work.
 
 In Project Milestone 2, your team investigated a human need, design problem, or design opportunity and translated your findings into user scenarios, central tasks, design requirements, and metrics. In this milestone, you will use that work to brainstorm and communicate possible design directions.
 
@@ -73,7 +73,7 @@ Because this is an in-person project milestone, absence tokens cannot be used fo
 
 ## Submission
 
-Refer to the [course submission information page](../course-submission-info.md) for the latest information on how to submit items for the course.
+Refer to the [course submission information page](course-submission-info.md) for the latest information on how to submit items for the course.
 
 ## Required Slide Structure
 
