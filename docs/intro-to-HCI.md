@@ -65,7 +65,7 @@ To work on the assignment, you will need to make a copy of the template for your
 
 **Deadline: Friday, May 22 at 11:59pm PST**
 
-Refer to [Course Submission Information](course-submission-info) for details on how to submit your assignment.
+Refer to [Course Submission Information](course-submission-info.md) for details on how to submit your assignment.
 
 Only one submission is required per pair.
 
