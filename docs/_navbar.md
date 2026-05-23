@@ -1,5 +1,4 @@
 - [Home](home.md)
 - [Syllabus](syllabus.md)
 - [Project](project/overview.md)
-- [Gradescope](gradescope-access.md)
 - [Slack](https://join.slack.com/t/cpsc-344-summer-2026/shared_invite/zt-3taqbo6tx-~6AB_wbp9SPjqqEF3FXVyQ)

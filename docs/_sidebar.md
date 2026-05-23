@@ -4,7 +4,6 @@
 - **Assignments**
   - [Initial Design Assignment](intro-to-HCI.md)
   - [Submission Info](course-submission-info.md)
-  - [Gradescope Access](gradescope-access.md)
 
 - **Course Project**
   - [Project Overview](project/overview.md)
