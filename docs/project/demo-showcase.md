@@ -28,6 +28,8 @@ Absence tokens cannot be used for the final showcase. Refer to the syllabus for 
 
 Each team member should be prepared to explain the project, demonstrate the prototype, and answer questions.
 
+For help assigning demo roles, planning backups, and making sure every team member is prepared, see the [Group Work Resources](group-work-resources.md).
+
 ## Showcase Format
 
 Each team will run a demo station.

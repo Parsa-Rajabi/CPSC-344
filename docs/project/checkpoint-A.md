@@ -36,6 +36,8 @@ Submit a short written prototyping plan with responses to the sections below.
 
 Your responses should be written directly under each prompt. Your plan should be concise, but specific enough that the teaching team can understand what your team is planning to build and why.
 
+For help assigning prototype tasks, setting owners and backups, and tracking team progress, see the [Group Work Resources](group-work-resources.md).
+
 Recommended length: **1 to 2 pages**, not including the appendix.
 
 ## Submission

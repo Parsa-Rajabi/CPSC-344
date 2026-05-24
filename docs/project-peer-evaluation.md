@@ -142,6 +142,8 @@ Adjustments may be made in cases including, but not limited to:
 
 Students who are experiencing serious group work issues should not wait until the peer evaluation deadline to report them. They should first attempt to address the issue within the group. If the issue continues, they should document the concern and contact the teaching team as early as possible.
 
+For practical guidance on setting team expectations, documenting concerns, running retrospectives, and resolving conflict before issues reach the peer evaluation stage, see the [Group Work Resources](group-work-resources.md).
+
 ---
 
 # Peer Evaluation Criteria

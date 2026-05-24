@@ -303,6 +303,8 @@ To maintain fairness and academic integrity, all group members are expected to c
 
 Non-contribution or “free riding” is not acceptable in this course. Every student is expected to contribute meaningfully to group projects. **Repeated failure to participate will result in penalties.** 
 
+For practical guidance on completing the group contract, setting team expectations, documenting concerns, and resolving conflict, see the [Group Work Resources](group-work-resources.md).
+
 ## Academic Expectations
 
 In addition to all university rules, regulations, and academic guidelines, the following policies will hold in CPSC 344:

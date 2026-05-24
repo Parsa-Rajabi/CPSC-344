@@ -45,7 +45,7 @@ This milestones include a **PRACTICE** peer evaluation component. Each team memb
 
 The purpose of this practice peer evaluation is to help you reflect on your teamwork and communication, and to prepare you for the peer evaluations that will be part of later milestones.
 
-Refer to the [peer evaluation information page](project-peer-evaluation.md) for details.
+Refer to the [peer evaluation information page](project-peer-evaluation.md) and [group work resources](group-work-resources.md) for details.
 
 ## What You Are Pitching
 
@@ -328,3 +328,5 @@ As a team, make sure you:
 - make clear transitions between speakers
 - ensure every team member speaks
 - leave the audience understanding why this problem is worth investigating
+
+For practical guidance on team roles, meeting expectations, and coordination routines, see the [Group Work Resources](group-work-resources.md).

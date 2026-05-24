@@ -20,6 +20,8 @@
 
 Instead of TA office hours, CPSC 344 offers co-working sessions where everyone is welcome to join and work together. At least one TA will be present to answer questions, help students get unstuck, and support project or assignment work. These sessions are also a good opportunity to work alongside classmates and meet people in the course.
 
+If your group is using co-working time to discuss team process, conflict, roles, or accountability, review the [Group Work Resources](group-work-resources.md) before attending so you can bring specific questions.
+
 <div class="team-directory team-directory-compact" role="table" aria-label="Co-working sessions">
   <div class="team-row team-header" role="row">
     <div role="columnheader">Day and Time</div>

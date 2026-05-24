@@ -18,6 +18,8 @@ Team-based work is central to this course. Students are expected to contribute m
 
 Speaking up early or asking for help when facing difficulties is a sign of professionalism, not weakness.
 
+For practical guidance on team expectations, roles, conflict resolution, and peer evaluation preparation, see the [Group Work Resources](group-work-resources.md).
+
 Academic integrity and ethical practice are essential. All submitted work must be honest and appropriately attributed. Students are expected to act responsibly when designing, implementing, and testing software, including respecting ethical considerations such as user trust, privacy, and professional responsibility. 
 
 In situations where data privacy or ethical concerns arise, students should consult with the teaching team to ensure appropriate handling. Students are responsible to be aware of and comply with relevant laws, regulations, and institutional policies related to data privacy and ethics in software development.

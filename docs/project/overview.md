@@ -77,6 +77,7 @@ The project is governed by the course syllabus. Students are responsible for rev
 | :-----------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
 | Course evaluation and project weights |                                 [Course Evaluation](syllabus.md#course-evaluation)                                 |
 |          Ethics certification         |                              [TCPS Ethics Certification](project/ethics-certification.md)                              |
+|          Group work resources         |                                  [Group Work Resources](group-work-resources.md)                                  |
 |         Group peer evaluation         |                             [Group Peer Evaluation](syllabus.md#group-peer-evaluation)                             |
 |           Passing criteria            |                                  [Passing Criteria](syllabus.md#passing-criteria)                                  |
 |           Attendance policy           |                                 [Attendance Policy](syllabus.md#attendance-policy)                                 |
@@ -101,7 +102,7 @@ Some project sessions, including Shark Tank, demo presentations, peer testing se
 
 Several project components include peer evaluation. Peer evaluation is used to help account for individual contribution within group-based work.
 
-When a project milestone includes peer evaluation, each team member will evaluate their teammates’ contributions using a structured form. Refer to the syllabus section on [Group Peer Evaluation](syllabus.md#group-peer-evaluation) and the relevant milestone page for details.
+When a project milestone includes peer evaluation, each team member will evaluate their teammates’ contributions using a structured form. Refer to the syllabus section on [Group Peer Evaluation](syllabus.md#group-peer-evaluation), the [group work resources](group-work-resources.md), and the relevant milestone page for details.
 
 ## Final Reminder
 

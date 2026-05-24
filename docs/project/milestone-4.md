@@ -52,7 +52,7 @@ Refer to the [course submission information page](course-submission-info.md) for
 
 This milestone includes a peer evaluation component. Each team member will evaluate their teammates’ contributions to the project using a structured peer evaluation form.
 
-Refer to the [peer evaluation information page](project-peer-evaluation.md) for details.
+Refer to the [peer evaluation information page](project-peer-evaluation.md) and [group work resources](group-work-resources.md) for details.
 
 ## Formatting and Page Limits
 

@@ -8,6 +8,7 @@
 - **Course Project**
   - [Project Overview](project/overview.md)
   - [TCPS Ethics Certification](project/ethics-certification.md)
+  - [Group Work Resources](group-work-resources.md)
   - [Peer Evaluation](project-peer-evaluation.md)
   - [Milestone 1](project/milestone-1.md)
   - [Milestone 2](project/milestone-2.md)

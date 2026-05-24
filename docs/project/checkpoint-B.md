@@ -36,6 +36,8 @@ Submit a short written evaluation plan with responses to the sections below.
 
 Your responses should be written directly under each prompt. Your plan should be concise, but specific enough that the teaching team can understand what your team plans to evaluate, how you will evaluate it, and what materials you will use.
 
+For help assigning evaluation roles, tracking responsibilities, and preparing for peer evaluation, see the [Group Work Resources](group-work-resources.md).
+
 Recommended length: **1 to 2 pages**, not including the appendix.
 
 ## Submission
