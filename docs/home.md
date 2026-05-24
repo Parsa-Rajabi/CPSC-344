@@ -3,6 +3,18 @@
 > [!NOTE]
 > This is a tentative schedule for the course. It is subject to change as the term progresses. Please check back regularly for updates.
 
+## Policy Shortcuts
+
+Before a deadline, presentation, exam, or group issue, check the relevant policy early:
+
+| Situation | Start here |
+| :-- | :-- |
+| You are submitting work | [Submission Info](course-submission-info.md) and [Late Deliverables](syllabus.md#late-deliverables) |
+| You may miss an exam or deadline because of an emergency | [Academic Concessions](syllabus.md#academic-concessions) |
+| You may miss a workshop, Shark Tank, demo, or showcase | [Workshop Attendance & Participation](syllabus.md#workshop-attendance--participation) |
+| You are working through a group issue | [Group Work Resources](group-work-resources.md) and [Project Peer Evaluation](project-peer-evaluation.md) |
+| You are preparing for an exam | [Midterm](midterm.md), [Final Exam](final-exam.md), and [Passing Criteria](syllabus.md#passing-criteria) |
+
 | **Week** | **Monday** | **Topic**                          | **Wednesday** | **Topic**                   | **Thursday/Friday Workshop** | **Deliverable**                                                                                                                                                             |
 | :------: | :--------: | ---------------------------------- | :-----------: | --------------------------- | :--------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |    1     |   May 11   | Course Introduction                |    May 13     | Design vs. Human            |  No workshops on May 14-15   | [Course Welcome Survey](https://ubc.ca1.qualtrics.com/jfe/form/SV_b2bcxvkcQzBLaNE) (due May 20); Course Welcome Discussion - via Slack (due May 20)                         |

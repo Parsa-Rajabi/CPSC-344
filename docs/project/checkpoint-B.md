@@ -5,7 +5,7 @@
 
 ## Changelog
 
-- May 24: Updated page appearance by adding collapsible dropdowns for examples and appendix guidance.
+- May 24: Updated page readability and added policy reminders.
 - May 23: Added Design Decision Log requirement.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
 - May 11: Initial version of checkpoint description and deliverable requirements.
@@ -44,6 +44,9 @@ Recommended length: **1 to 2 pages**, not including the appendix.
 ## Submission
 
 Refer to the [course submission information page](course-submission-info.md) for the latest information on how to submit items for the course.
+
+> [!IMPORTANT]
+> This checkpoint follows the course [Late Deliverables](syllabus.md#late-deliverables) policy. Because this plan may involve recruiting participants and collecting data, review the [TCPS Ethics Certification](project/ethics-certification.md) requirement and use [Group Work Resources](group-work-resources.md) to assign evaluation roles clearly.
 
 ## Evaluation Plan
 

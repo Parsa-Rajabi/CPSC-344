@@ -5,7 +5,7 @@
 
 ## Changelog
 
-- May 24: Updated page appearance by adding collapsible dropdowns for examples and quality checks.
+- May 24: Updated page readability and added policy reminders.
 - May 23: Replaced Changes Since Milestone 1 with Design Decision Log.
 - May 13: Added TCPS Ethics Certification prerequisite and late penalty notice.
 - May 11: Initial version of milestone description and deliverable requirements.
@@ -72,6 +72,9 @@ Your report should include:
 ## Submission
 
 Refer to the [course submission information page](course-submission-info.md) for the latest information on how to submit items for the course.
+
+> [!IMPORTANT]
+> This milestone has a graded peer evaluation component. Review [Course Submission Info](course-submission-info.md), [Late Deliverables](syllabus.md#late-deliverables), and [Project Peer Evaluation](project-peer-evaluation.md) before the deadline. If an emergency or unanticipated situation affects your work, review [Academic Concessions](syllabus.md#academic-concessions) and contact the teaching team early.
 
 ## Peer Evaluation
 

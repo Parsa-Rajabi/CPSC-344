@@ -69,6 +69,9 @@ Refer to [Course Submission Information](course-submission-info.md) for details 
 
 Only one submission is required per pair.
 
+> [!IMPORTANT]
+> This assignment follows the course [Late Deliverables](syllabus.md#late-deliverables) policy. If an emergency or unanticipated situation affects your ability to submit, review [Academic Concessions](syllabus.md#academic-concessions) and contact the teaching team early.
+
 ---
 
 ## What We Are Looking For

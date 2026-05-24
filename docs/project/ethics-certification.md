@@ -20,6 +20,9 @@ The certification is due **May 29 at 11:59pm PT**.
 
 Refer to [Course Submission Information](course-submission-info.md) for details on how to submit your certification.
 
+> [!IMPORTANT]
+> This deadline affects project participation and the Milestone 2 peer evaluation penalty. If you have an emergency or unanticipated situation, review [Academic Concessions](syllabus.md#academic-concessions) and contact the teaching team before the issue compounds.
+
 ## Grading and Late Penalty
 
 The TCPS Ethics Certification is worth **0%** of the course grade. It is a required prerequisite for project participation, not a graded course component.

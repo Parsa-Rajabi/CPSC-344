@@ -5,6 +5,7 @@
 
 ## Changelog
 
+- May 24: Added policy reminders.
 - May 23: Added Design Decision Log requirement.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
 - May 11: Initial version of checkpoint description and deliverable requirements.
@@ -43,6 +44,9 @@ Recommended length: **1 to 2 pages**, not including the appendix.
 ## Submission
 
 Refer to the [course submission information page](course-submission-info.md) for the latest information on how to submit items for the course.
+
+> [!IMPORTANT]
+> This checkpoint follows the course [Late Deliverables](syllabus.md#late-deliverables) policy. Use [Group Work Resources](group-work-resources.md) to assign owners and backups before the deadline, especially for prototype scope and demo planning.
 
 ## Prototyping Plan
 

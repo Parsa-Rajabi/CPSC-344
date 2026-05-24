@@ -5,7 +5,7 @@
 
 ## Changelog
 
-- May 24: Updated page appearance by adding collapsible dropdowns for examples and design guidance.
+- May 24: Updated page readability and added policy reminders.
 - May 23: Added Design Decision Log requirement.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
 - May 11: Initial version of milestone description and deliverable requirements.
@@ -76,6 +76,9 @@ Because this is an in-person project milestone, absence tokens cannot be used fo
 ## Submission
 
 Refer to the [course submission information page](course-submission-info.md) for the latest information on how to submit items for the course.
+
+> [!IMPORTANT]
+> Shark Tank is an in-person project milestone. Absence tokens cannot be used for this session. Review [Workshop Attendance & Participation](syllabus.md#workshop-attendance--participation), [Course Submission Info](course-submission-info.md), and [Group Work Resources](group-work-resources.md) while planning roles and backups.
 
 ## Required Slide Structure
 

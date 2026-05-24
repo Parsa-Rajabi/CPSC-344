@@ -5,7 +5,7 @@
 
 ## Changelog
 
-- May 24: Updated page appearance by adding collapsible dropdowns for recommendation examples and README guidance.
+- May 24: Updated page readability and added policy reminders.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
 - May 13: Added Design Decision Log requirement.
 - May 11: Initial version of milestone description and deliverable requirements.
@@ -48,6 +48,9 @@ Your team will also participate in the **Project Demo Showcase**.
 ## Submission
 
 Refer to the [course submission information page](course-submission-info.md) for the latest information on how to submit items for the course.
+
+> [!IMPORTANT]
+> This milestone has a graded peer evaluation component and is connected to the Project Demo Showcase. Review [Course Submission Info](course-submission-info.md), [Late Deliverables](syllabus.md#late-deliverables), [Project Peer Evaluation](project-peer-evaluation.md), and the [Project Demo Showcase](project/demo-showcase.md) page before the final deadline.
 
 ## Peer Evaluation
 

@@ -30,6 +30,9 @@ Each team member should be prepared to explain the project, demonstrate the prot
 
 For help assigning demo roles, planning backups, and making sure every team member is prepared, see the [Group Work Resources](group-work-resources.md).
 
+> [!IMPORTANT]
+> The showcase is a required in-person project activity. Review [Workshop Attendance & Participation](syllabus.md#workshop-attendance--participation) and [Academic Concessions](syllabus.md#academic-concessions) early if an emergency or unanticipated situation may affect attendance.
+
 ## Showcase Format
 
 Each team will run a demo station.
