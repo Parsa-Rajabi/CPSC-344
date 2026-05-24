@@ -112,7 +112,7 @@ Students registered with the Centre for Accessibility are responsible for arrang
 
 You must also confirm your exam arrangement with the teaching team by contacting:
 
-<p><a class="button" href="mailto:cpsc344-admin@cs.ubc.ca"><i class="fa-solid fa-envelope"></i> cpsc344-admin@cs.ubc.ca</a></p>
+<p><a class="button button-admin" href="mailto:cpsc344-admin@cs.ubc.ca"><i class="fa-solid fa-envelope"></i> cpsc344-admin@cs.ubc.ca</a></p>
 
 Contact the teaching team **10 to 7 days before the midterm**. For the June 17 midterm, this means **June 7-10, 2026**.
 
@@ -141,7 +141,7 @@ There is no makeup for the midterm. Students who miss the midterm will receive a
 
 If an emergency or serious unexpected situation prevents you from taking the exam, contact your faculty advising office as soon as possible and follow the university's academic concession process. You should also inform the teaching team, but students are expected to follow the university process for concessions.
 
-<p><a class="button" href="mailto:cpsc344-staff@cs.ubc.ca"><i class="fa-solid fa-envelope"></i> cpsc344-staff@cs.ubc.ca</a></p>
+<p><a class="button button-staff" href="mailto:cpsc344-staff@cs.ubc.ca"><i class="fa-solid fa-envelope"></i> cpsc344-staff@cs.ubc.ca</a></p>
 
 Email the teaching team at **cpsc344-staff@cs.ubc.ca** if you cannot attend, may be running late, or are dealing with an emergency that affects the exam. Include your full name, student number, what is happening, and whether you have already contacted your faculty advising office.
 
