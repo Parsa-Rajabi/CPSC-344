@@ -5,6 +5,7 @@
 
 ## Changelog
 
+- May 23: Added Design Decision Log requirement.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
 - May 11: Initial version of checkpoint description and deliverable requirements.
 
@@ -47,7 +48,19 @@ Before answering the questions below, review your design requirements, prototype
 
 Your evaluation plan should focus on usability. Unlike the earlier need-finding study, where research questions may have been more open-ended, your questions here should focus more specifically on how well your prototype supports users, central tasks, and design requirements.
 
-## Section 1: Research Questions
+## Section 1: Design Decision Log
+
+Briefly record the major design decisions your team made after Checkpoint A.
+
+Include **2 to 4 entries** using the following format:
+
+| Decision | What changed? | Why did it change? | Evidence or feedback used |
+| :------: | :-----------: | :----------------: | :-----------------------: |
+| We changed one evaluation focus. | We shifted from testing visual preference to testing whether users can recover from an incorrect choice. | Visual preference did not connect strongly enough to our design requirements. | Checkpoint A feedback and prototype walkthrough notes. |
+
+Your log may describe changes to your prototype, evaluation research questions, study method, participant plan, or study materials. If your team does not accept an important TA suggestion, you must include that decision and explain why.
+
+## Section 2: Research Questions
 
 What are your evaluation research questions?
 
@@ -67,7 +80,7 @@ or:
 
 > How easily can users recover when they make a sorting mistake in the prototype?
 
-## Section 2: Evaluation Methods
+## Section 3: Evaluation Methods
 
 Since this checkpoint focuses on usability, one of your methods must be an **observation**.
 
@@ -80,7 +93,7 @@ Complete the table below.
 |        Observation         |                             |                                             |                                 |
 | Interview or Questionnaire |                             |                                             |                                 |
 
-## Section 3: Study Procedure
+## Section 4: Study Procedure
 
 Briefly describe your planned study procedure.
 
@@ -95,7 +108,7 @@ Include:
 
 Including the study introduction, consent process, tasks, and any interview or questionnaire components, the entire procedure must not exceed **1 hour** of participant time.
 
-## Section 4: Recruitment Plan
+## Section 5: Recruitment Plan
 
 Briefly describe your recruitment plan.
 
@@ -108,7 +121,7 @@ Include:
 
 As a general target, plan for approximately **2 participants per team member** for a study that takes about 30 minutes across all methods. You may adjust this higher or lower depending on the length and effort required for your study.
 
-## Section 5: Study Materials
+## Section 6: Study Materials
 
 List the materials your team will need for the evaluation.
 

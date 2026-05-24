@@ -6,6 +6,7 @@
 ## Changelog
 
 - May 13: Added TCPS Ethics Certification prerequisite notice.
+- May 13: Added Design Decision Log requirement.
 - May 11: Initial version of milestone description and deliverable requirements.
 
 ## Overview
@@ -29,6 +30,7 @@ After completing this milestone, you should be able to:
 - Evaluate your prototype using appropriate HCI methods.
 - Analyze qualitative and/or quantitative evaluation data.
 - Explain how your design changed based on feedback, prototyping, and evaluation.
+- Connect major design revisions to evidence, feedback, feasibility, and design reasoning.
 - Communicate design outcomes through a clear written report and live demo.
 - Reflect critically on your design process and identify future improvements.
 
@@ -74,6 +76,7 @@ The following do **not** count toward the 7-page main body limit:
 
 - cover page
 - table of contents, if included
+- design decision log
 - appendix
 
 |               Section                |    Maximum Length    |
@@ -98,6 +101,20 @@ Your report must begin with a cover page that includes:
 - student IDs
 - document version
 - submission date
+
+## Design Decision Log
+
+After the cover page and table of contents, include a short **Design Decision Log**. This log does **not** count toward the 7-page main report body limit.
+
+Include **3 to 6 entries** showing the most important design decisions your team made from Project Milestone 2 through the final prototype and evaluation.
+
+Use the following format:
+
+| Decision | What changed? | Why did it change? | Evidence or feedback used |
+| :------: | :-----------: | :----------------: | :-----------------------: |
+| We simplified the prototype onboarding flow. | We reduced the first-use setup from five screens to two screens. | Participants were confused before reaching the central task. | Pilot evaluation notes and task completion observations. |
+
+Your log should help the reader understand the project as an evolving design process. Focus on decisions that affected the problem framing, design requirements, conceptual model, prototype, evaluation plan, findings, or recommendations. If your team does not accept an important TA suggestion, you must include that decision and explain why.
 
 ## Section 1: Introduction
 

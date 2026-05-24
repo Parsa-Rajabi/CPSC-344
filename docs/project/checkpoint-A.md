@@ -5,6 +5,7 @@
 
 ## Changelog
 
+- May 23: Added Design Decision Log requirement.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
 - May 11: Initial version of checkpoint description and deliverable requirements.
 
@@ -50,25 +51,37 @@ Before answering the questions below, decide how your prototype will balance two
 
 Your answers should connect back to your design requirements from Milestone 2 and the feedback you received from Milestone 3.
 
-## Section 1: Design Requirements to Evaluate
+## Section 1: Design Decision Log
+
+Briefly record the major design decisions your team made after Project Milestone 3.
+
+Include **2 to 4 entries** using the following format:
+
+| Decision | What changed? | Why did it change? | Evidence or feedback used |
+| :------: | :-----------: | :----------------: | :-----------------------: |
+| We chose a guided decision flow as our prototype direction. | We moved away from a dashboard-style approach. | The guided flow better supports our central task and is feasible to prototype before evaluation. | Shark Tank feedback, Cognitive Walkthrough notes, and team feasibility discussion. |
+
+Your log may describe changes to your chosen design approach, conceptual model, prototype scope, design requirements to evaluate, or planned simplifications. If your team does not accept an important TA suggestion, you must include that decision and explain why.
+
+## Section 2: Design Requirements to Evaluate
 
 Which design requirements are you planning to evaluate through your prototype?
 
 What aspects of the prototype need to be particularly convincing so that you can properly study how people use it?
 
-## Section 2: Functional Scope
+## Section 3: Functional Scope
 
 Which features need to be fully functional so you can achieve your prototyping and evaluation objectives?
 
 Which features or components can you leave out, simplify, or Wizard-of-Oz?
 
-## Section 3: Aesthetic and Interaction Polish
+## Section 4: Aesthetic and Interaction Polish
 
 Which features or components need to be aesthetically or interactively polished so you can achieve your prototyping and evaluation objectives, if any?
 
 Which features or components can remain rough?
 
-## Section 4: Prototype Demo Plan
+## Section 5: Prototype Demo Plan
 
 Complete the table below to show how your team plans to move toward a prototype that is ready for demo and study.
 

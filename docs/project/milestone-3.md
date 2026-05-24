@@ -5,6 +5,7 @@
 
 ## Changelog
 
+- May 23: Added Design Decision Log requirement.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
 - May 11: Initial version of milestone description and deliverable requirements.
 
@@ -107,7 +108,19 @@ Keep this slide concise. The goal is to give enough context for the audience to 
 
 **User Scenario 2:** Alex is a teaching assistant leading an online tutorial. They need to display student-submitted examples, point to specific areas, and make quick annotations while answering questions.
 
-## Slide 2: Design Requirements
+## Slide 2: Design Decision Log
+
+Briefly show how your team carried forward decisions from Project Milestone 2 into your Shark Tank design approaches.
+
+Include **2 to 4 entries** using the following format:
+
+| Decision | What changed? | Why did it change? | Evidence or feedback used |
+| :------: | :-----------: | :----------------: | :-----------------------: |
+| We prioritized one central task. | We focused our design approaches on helping students identify uncertain items before disposal. | This task appeared more frequently in our need-finding data than our original planning task. | Interview themes and Milestone 2 design requirements. |
+
+Your log may describe changes to your scope, central tasks, design requirements, conceptual model, or planned design approaches. If your team does not accept an important TA suggestion, you must include that decision and explain why.
+
+## Slide 3: Design Requirements
 
 On this slide, summarize the five design requirements from Project Milestone 2.
 

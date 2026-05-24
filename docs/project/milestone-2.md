@@ -5,6 +5,7 @@
 
 ## Changelog
 
+- May 23: Replaced Changes Since Milestone 1 with Design Decision Log.
 - May 13: Added TCPS Ethics Certification prerequisite and late penalty notice.
 - May 11: Initial version of milestone description and deliverable requirements.
 
@@ -57,7 +58,7 @@ The report should assume that the reader is learning about your project for the 
 Your report should include:
 
 1. Cover Page
-2. Table of Contents and Changes Since Milestone 1
+2. Table of Contents and Design Decision Log
 3. Background
 4. Need-Finding Study
 5. Results
@@ -98,7 +99,7 @@ The main report body must be **maximum 6 pages**.
 The following do **not** count toward the 6-page main body limit:
 
 - Cover page
-- Table of Contents and Changes Since Milestone 1 page
+- Table of Contents and Design Decision Log page
 - Appendix
 
 Use the following section limits:
@@ -142,18 +143,18 @@ Example:
 > **Version:** v1.0  
 > **Date:** June X, 2026  
 
-## Page 2: Table of Contents and Changes Since Milestone 1
+## Page 2: Table of Contents and Design Decision Log
 
 The second page should include:
 
 1. A table of contents
-2. A short section called **Changes Since Milestone 1**
+2. A short section called **Design Decision Log**
 
-### Changes Since Milestone 1
+### Design Decision Log
 
-In this section, briefly describe any major changes your team made after Project Milestone 1.
+In this section, briefly record the major design decisions your team made after Project Milestone 1.
 
-These changes may be based on:
+Include **2 to 4 entries**. Your entries may describe changes based on:
 
 - feedback from your workshop TA
 - feedback from classmates
@@ -162,11 +163,15 @@ These changes may be based on:
 - changes in your understanding of the problem
 - changes to your research questions, methods, stakeholders, or scope
 
-If your project direction did not change, state that clearly.
+Use the following table format:
 
-Example:
+| Decision | What changed? | Why did it change? | Evidence or feedback used |
+| :------: | :-----------: | :----------------: | :-----------------------: |
+| We narrowed our project context. | From waste sorting at UBC broadly to waste sorting in shared residence kitchens. | The original context was too broad and difficult to investigate within the course timeline. | TA feedback and access to residence students. |
 
-> Since Project Milestone 1, we narrowed our project from waste sorting at UBC broadly to waste sorting in shared residence kitchens. This change was based on TA feedback that our original context was too broad and difficult to investigate within the course timeline. We also revised our research questions to focus more directly on moments of uncertainty during disposal.
+If your project direction did not change, include at least one entry explaining what you considered changing and why you decided to keep the current direction. If your team does not accept an important TA suggestion, you must include that decision and explain why.
+
+The log should be concise, but specific enough that a reader can see how your team is using feedback and evidence to revise the project.
 
 ## Section 1: Background
 
@@ -222,7 +227,7 @@ Your methods may include:
 
 Keep this section concise. Detailed instruments, scripts, questionnaires, or observation sheets should go in the appendix.
 
-If you changed your protocol because of feedback, piloting, feasibility, or access issues, summarize that change briefly here or refer back to your **Changes Since Milestone 1** section.
+If you changed your protocol because of feedback, piloting, feasibility, or access issues, summarize that change briefly here or refer back to your **Design Decision Log**.
 
 ## Section 3: Results
 

@@ -49,6 +49,20 @@ The project is designed to help you practice the full arc of HCI work, from earl
 |  Milestone 4  |           Submit final design work           | Final report and prototype  |
 | Demo Showcase |         Present the final prototype          |      Live demo station      |
 
+## Design Decision Logs
+
+Beginning with Project Milestone 2, each project deliverable includes a short **Design Decision Log**. The purpose of the log is to help your team explain how the project changed over time and why those changes were reasonable design decisions.
+
+Use the log to record substantive changes to your project direction, scope, stakeholders, research questions, design requirements, prototype, evaluation plan, or final recommendations. You do not need to record every small edit.
+
+Each log entry should answer four questions:
+
+| Decision | What changed? | Why did it change? | Evidence or feedback used |
+| :------: | :-----------: | :----------------: | :-----------------------: |
+| We narrowed our user group. | From all commuters to first-year students commuting to campus. | The original scope was too broad for the course timeline. | TA feedback and interview access constraints. |
+
+Strong logs connect revisions to evidence, feedback, feasibility, or a clearer understanding of the problem. If your team does not accept an important TA suggestion, you must include that decision in the log and explain why.
+
 ## Submission Information
 
 For the latest information on how to submit project items, refer to the [course submission information page](course-submission-info.md).
