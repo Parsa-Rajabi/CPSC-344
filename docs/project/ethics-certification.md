@@ -32,7 +32,10 @@ There is no maximum cap on this deduction (rememebr, peer evaluation scores are 
 
 ## Project Participation Restriction
 
-Students may not participate in the course project until they have completed and submitted the TCPS Ethics Certification. This includes, but is not limited to:
+Students may not participate in the course project until they have completed and submitted the TCPS Ethics Certification.
+
+<details>
+<summary><strong>Examples of project work that require certification</strong></summary>
 
 - selecting or refining the project topic;
 - preparing Project Milestone 1 materials;
@@ -41,5 +44,7 @@ Students may not participate in the course project until they have completed and
 - conducting interviews, observations, questionnaires, or other need-finding activities;
 - analyzing data collected from people; or
 - contributing to project deliverables.
+
+</details>
 
 If a student has not completed and submitted the certification, their group must not assign them project work until the certification requirement has been satisfied.

@@ -5,6 +5,7 @@
 
 ## Changelog
 
+- May 24: Updated page appearance by adding collapsible dropdowns for examples and design guidance.
 - May 23: Added Design Decision Log requirement.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
 - May 11: Initial version of milestone description and deliverable requirements.
@@ -95,7 +96,8 @@ This slide should include:
 
 Keep this slide concise. The goal is to give enough context for the audience to understand your design approaches.
 
-### Partial Example
+<details>
+<summary><strong>Partial example: project context and central tasks</strong></summary>
 
 **Need:** A design that helps instructors share visuals with students in an online class in real time.
 
@@ -107,6 +109,8 @@ Keep this slide concise. The goal is to give enough context for the audience to 
 **User Scenario 1:** Samira is a math teacher who usually works through geometry problems on a blackboard. When teaching online, she wants to draw while explaining, but she does not want to spend time learning complex software.
 
 **User Scenario 2:** Alex is a teaching assistant leading an online tutorial. They need to display student-submitted examples, point to specific areas, and make quick annotations while answering questions.
+
+</details>
 
 ## Slide 2: Design Decision Log
 
@@ -131,13 +135,16 @@ For each requirement, include:
 
 You do not need to include the full justification or metrics from Milestone 2 unless they are necessary for understanding your design approaches.
 
-### Partial Example
+<details>
+<summary><strong>Partial example: design requirements</strong></summary>
 
 **Intuitiveness:** The solution should be easy for a first-time user to navigate without confusion or errors.
 
 **Fast Annotation:** The solution should allow instructors to add simple annotations quickly during a live class.
 
 **Visibility:** Students should be able to clearly see the document and annotations during the session.
+
+</details>
 
 ## Remaining Slides: Design Approaches
 
@@ -163,7 +170,10 @@ A design approach is a possible direction for how the interaction could work.
 
 It is more than a single feature, but it does not need to be a complete polished system.
 
-### Too Similar
+<div class="accordion">
+
+<details>
+<summary><strong>Examples of design approaches that are too similar</strong></summary>
 
 These are likely too similar:
 
@@ -173,7 +183,10 @@ These are likely too similar:
 
 These are mostly variations of the same idea.
 
-### More Distinct
+</details>
+
+<details>
+<summary><strong>Examples of meaningfully distinct design approaches</strong></summary>
 
 These are more meaningfully different:
 
@@ -184,6 +197,10 @@ These are more meaningfully different:
 - A collaborative whiteboard-style interface that supports live group work
 
 The goal is to explore different interaction models, not just different visual styles.
+
+</details>
+
+</div>
 
 ## Low-Fidelity Sketches and Throwaway Prototypes
 
@@ -214,6 +231,9 @@ For each design approach, briefly explain the conceptual model.
 
 A conceptual model describes how users are expected to understand and interact with the system.
 
+<details>
+<summary><strong>Common conceptual model examples</strong></summary>
+
 For example, the design might be organized around:
 
 - a checklist
@@ -226,9 +246,12 @@ For example, the design might be organized around:
 - a step-by-step wizard
 - a shared canvas
 
+</details>
+
 Do not only describe what appears on the screen. Explain how the user is supposed to think about the interaction.
 
-### Example
+<details>
+<summary><strong>Conceptual model wording example</strong></summary>
 
 Instead of saying:
 
@@ -237,6 +260,8 @@ Instead of saying:
 say:
 
 > This design uses a guided decision-tree model. Users answer one question at a time, and the system narrows the options until it recommends an action.
+
+</details>
 
 ## Critiquing Your Own Design Approaches
 
@@ -251,6 +276,9 @@ Your critique should be based on:
 - general design principles
 - what your team learned from Milestone 2
 
+<details>
+<summary><strong>Critique wording example</strong></summary>
+
 Avoid vague claims such as:
 
 > This design is user-friendly.
@@ -258,6 +286,8 @@ Avoid vague claims such as:
 Instead, be more specific:
 
 > This design may support first-time users because it breaks the task into small steps, but it may be too slow for users who already know what they want to do.
+
+</details>
 
 ## Presentation Expectations
 
@@ -294,10 +324,15 @@ As a shark, you may be asked to provide feedback on:
 
 Good shark feedback is specific, constructive, and connected to the presenting team’s design goals.
 
-### Weak Feedback
+<details>
+<summary><strong>Weak and stronger shark feedback examples</strong></summary>
+
+**Weak feedback**
 
 > I liked the second idea. It was cool.
 
-### Stronger Feedback
+**Stronger feedback**
 
 > I liked the second idea because the dashboard model seems better suited for users who need to compare multiple options quickly. However, I would be worried about whether first-time users understand which information matters most. You might consider testing whether users can identify the next action within the first few seconds.
+
+</details>

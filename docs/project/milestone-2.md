@@ -5,6 +5,7 @@
 
 ## Changelog
 
+- May 24: Updated page appearance by adding collapsible dropdowns for examples and quality checks.
 - May 23: Replaced Changes Since Milestone 1 with Design Decision Log.
 - May 13: Added TCPS Ethics Certification prerequisite and late penalty notice.
 - May 11: Initial version of milestone description and deliverable requirements.
@@ -134,7 +135,8 @@ The cover page should include:
 - document version
 - submission date
 
-Example:
+<details>
+<summary><strong>Cover page example</strong></summary>
 
 > **Course:** CPSC 344  
 > **Milestone:** Project Milestone 2: Design Requirements Report  
@@ -142,6 +144,8 @@ Example:
 > **Group:** Group A  
 > **Version:** v1.0  
 > **Date:** June X, 2026  
+
+</details>
 
 ## Page 2: Table of Contents and Design Decision Log
 
@@ -189,7 +193,8 @@ Include the following:
 
 Use subheadings as needed.
 
-### Example Structure
+<details>
+<summary><strong>Example background structure</strong></summary>
 
 **Human Need:** A design that helps waste get sorted properly in UBC residence.
 
@@ -204,6 +209,8 @@ Use subheadings as needed.
 1. How often do students feel uncertain about which bin to use?
 2. What kinds of items are most confusing for students to sort?
 3. What parts of the current waste sorting setup help or prevent students from sorting correctly?
+
+</details>
 
 ## Section 2: Need-Finding Study
 
@@ -242,7 +249,10 @@ For each research question, present:
 
 If your data is insufficient to answer a research question, say so directly and explain why.
 
-### Example
+<div class="accordion">
+
+<details>
+<summary><strong>Example result</strong></summary>
 
 **RQ:** How often do students have difficulty sorting their trash?
 
@@ -252,11 +262,18 @@ If your data is insufficient to answer a research question, say so directly and 
 
 **Confidence:** Medium. Our confidence is limited by the small sample size and the fact that most participants were first-year students who may be less familiar with campus waste sorting practices.
 
-### Example of an Insufficient Finding
+</details>
+
+<details>
+<summary><strong>Example of an insufficient finding</strong></summary>
 
 **RQ:** What does the waste sorting system currently look like in UBC residences?
 
 **Result:** We were unable to draw a convincing conclusion for this research question because we could not access residence garbage rooms without a resident keycard and were unable to find detailed public documentation online.
+
+</details>
+
+</div>
 
 ## Section 4: Plots, Diagrams, and/or Tables
 
@@ -303,13 +320,18 @@ Each scenario should include:
 
 The two scenarios should be meaningfully different from each other. The general need may be similar, but the hypothetical user, motivation, context, or constraints should change significantly.
 
-### Partial Example
+<div class="accordion">
+
+<details>
+<summary><strong>Partial user scenario example</strong></summary>
 
 Given the need of “purchase book”:
 
 > Tidus is a university student looking for a book to read on an upcoming flight. He has not read a book in a long time, so he does not have a specific title in mind. He wants to find something enjoyable quickly, but feels overwhelmed by the number of options and reviews.
 
 > Yuna is a librarian at a university purchasing a bulk order of first-year calculus textbooks. She already knows which textbook she needs, but she is worried about price, stock, edition, and delivery timing.
+
+</details>
 
 ### Task Analysis
 
@@ -319,7 +341,8 @@ Write these as step-by-step task lists. Focus on what the user is trying to acco
 
 You may include examples of existing tools or interfaces in brackets, but do not turn the task analysis into a solution proposal.
 
-### Partial Example for Tidus
+<details>
+<summary><strong>Partial task analysis example for Tidus</strong></summary>
 
 - browse books, such as at Indigo or on the VPL website
 - consult recommendations or reviews, such as on Goodreads
@@ -328,7 +351,10 @@ You may include examples of existing tools or interfaces in brackets, but do not
 - choose a book
 - check out
 
-### Partial Example for Yuna
+</details>
+
+<details>
+<summary><strong>Partial task analysis example for Yuna</strong></summary>
 
 - find a specific book by title or ISBN
 - check price
@@ -337,6 +363,10 @@ You may include examples of existing tools or interfaces in brackets, but do not
 - check publication date
 - check shipping or delivery timeline
 - check out
+
+</details>
+
+</div>
 
 ## Section 6: Central Tasks
 
@@ -361,7 +391,8 @@ Justification can be based on:
 
 Each user scenario should be relevant to at least one central task.
 
-### Example
+<details>
+<summary><strong>Central task example</strong></summary>
 
 **Central Task: Narrow Down**  
 A user is trying to narrow down books they would like to read according to some criteria.  
@@ -370,6 +401,8 @@ A user is trying to narrow down books they would like to read according to some 
 **Central Task: Check Details**  
 A user is trying to check important details for a book before purchasing it.  
 **Justification:** One major critique of our reference design was that details such as price and publication date were too difficult to find.
+
+</details>
 
 ## Section 7: Design Requirements and Metrics
 
@@ -432,7 +465,8 @@ Try to include a mix of both.
 
 If a metric is awkward or impossible to state, briefly explain why.
 
-### Partial Example
+<details>
+<summary><strong>Partial requirements and metrics example</strong></summary>
 
 **Central Task: Narrow Down**
 
@@ -461,6 +495,8 @@ Users must be able to see the full price of the book, including shipping fees an
 **Type:** Functional constraint  
 **Metric E1, evaluation-based:** At least 9 out of 10 users can determine the full price before checking out without additional instructions.
 
+</details>
+
 ## Requirement Quality Check
 
 Before submitting, check that your requirements are:
@@ -472,17 +508,22 @@ Before submitting, check that your requirements are:
 - measurable through one or more metrics
 - not just a list of interface features
 
-### Weak Requirement
+<details>
+<summary><strong>Weak and stronger requirement examples</strong></summary>
+
+**Weak requirement**
 
 > The app should have a search bar.
 
 This is too solution-specific. It describes a feature before explaining the underlying design need.
 
-### Stronger Requirement
+**Stronger requirement**
 
 > The design should help users quickly locate relevant information about unfamiliar items.
 
 This leaves room for different design approaches while still defining what the design should support.
+
+</details>
 
 ## Appendix
 

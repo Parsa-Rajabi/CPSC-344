@@ -5,6 +5,7 @@
 
 ## Changelog
 
+- May 24: Updated page appearance by adding collapsible dropdowns for examples and appendix guidance.
 - May 23: Added Design Decision Log requirement.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
 - May 11: Initial version of checkpoint description and deliverable requirements.
@@ -70,7 +71,10 @@ Choose **2 to 3 research questions**.
 
 Your research questions should focus on how well your prototype performs.
 
-For example, instead of asking:
+<details>
+<summary><strong>Evaluation research question examples</strong></summary>
+
+Instead of asking:
 
 > What problems do students have with waste sorting?
 
@@ -81,6 +85,8 @@ ask something more specific, such as:
 or:
 
 > How easily can users recover when they make a sorting mistake in the prototype?
+
+</details>
 
 ## Section 3: Evaluation Methods
 
@@ -145,6 +151,9 @@ Follow all course instructions for ethics, consent, data collection, and data st
 
 Provide links to external materials that support your evaluation plan.
 
+<details>
+<summary><strong>Examples of appendix materials</strong></summary>
+
 These may include:
 
 - study protocol
@@ -155,6 +164,8 @@ These may include:
 - questionnaire
 - prototype files
 - other study materials
+
+</details>
 
 Content without sensitive or participant information can be stored on the platform of your choice.
 

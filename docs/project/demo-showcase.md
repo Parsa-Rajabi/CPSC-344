@@ -53,7 +53,8 @@ Come prepared with:
 - a backup plan in case of technical issues
 - a short visual summary of your project
 
-Your visual summary should include:
+<details>
+<summary><strong>Visual summary checklist</strong></summary>
 
 - need statement
 - central tasks
@@ -61,9 +62,14 @@ Your visual summary should include:
 - chosen design approach
 - prototype usage instructions, if needed
 
+</details>
+
 ## Showcase Materials
 
 Your team should prepare a Demo Materials folder or equivalent collection of links.
+
+<details>
+<summary><strong>Possible showcase materials</strong></summary>
 
 This may include:
 
@@ -72,3 +78,5 @@ This may include:
 - demo script
 - visual summary
 - setup instructions
+
+</details>

@@ -5,6 +5,7 @@
 
 ## Changelog
 
+- May 24: Updated page appearance by adding collapsible dropdowns for recommendation examples and README guidance.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
 - May 13: Added Design Decision Log requirement.
 - May 11: Initial version of milestone description and deliverable requirements.
@@ -210,13 +211,18 @@ This section must be **maximum 1 page**.
 
 Explain what should happen next with the design.
 
-Your recommendations should connect directly to your evaluation findings. For example, you may recommend:
+Your recommendations should connect directly to your evaluation findings.
+
+<details>
+<summary><strong>Possible recommendation types</strong></summary>
 
 - small improvements to the current design
 - major changes to a specific interaction
 - additional evaluation
 - a different design direction
 - further need-finding before continuing
+
+</details>
 
 ### Process Critique
 
@@ -257,10 +263,15 @@ Your prototype submission should make clear:
 
 If your prototype requires setup, include a short README with:
 
+<details>
+<summary><strong>README checklist</strong></summary>
+
 - prototype link or file location
 - required software, account, or device
 - setup instructions
 - known limitations
 - what parts are functional or simulated
+
+</details>
 
 Make sure all links are accessible to the teaching team.

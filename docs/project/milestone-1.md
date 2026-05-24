@@ -5,6 +5,7 @@
 
 ## Changelog
 
+- May 24: Updated page appearance by adding collapsible dropdowns for examples and scope guidance.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
 - May 11: Initial version of milestone description and deliverable requirements.
 
@@ -72,7 +73,12 @@ A good project direction is usually:
 - possible to explore using HCI methods
 - likely to lead to an interface, tool, workflow, app, website, interactive artifact, or similar design outcome
 
-### Good Scope
+<div class="accordion">
+
+<details>
+<summary><strong>Scope Examples</strong></summary>
+
+**Good scope**
 
 Examples of appropriately scoped project directions:
 
@@ -82,7 +88,7 @@ Examples of appropriately scoped project directions:
 - Helping teaching assistants keep track of recurring grading concerns while giving feedback to many students.
 - Helping gym users understand whether equipment is available before walking across campus.
 
-### Too Broad
+**Too broad**
 
 These are likely too broad for this course project:
 
@@ -94,7 +100,7 @@ These are likely too broad for this course project:
 
 These topics may contain useful project ideas, but they need to be narrowed to a specific stakeholder group, context, and interaction.
 
-### Too Narrow
+**Too narrow**
 
 These are likely too narrow for this course project:
 
@@ -106,13 +112,17 @@ These are likely too narrow for this course project:
 
 These may be design changes, but they are not yet a full design problem.
 
-### Hard to Access
+**Hard to access**
 
 Some topics may be difficult because your team cannot realistically investigate the people or context involved.
 
 For example, “redesigning emergency-room triage for nurses and physicians” may be interesting, but it is not a good choice unless your team has realistic access to that setting and stakeholder group.
 
 Choose a problem space where you can reasonably learn from the context during the course.
+
+</details>
+
+</div>
 
 ## Light Preliminary Evidence
 
@@ -165,7 +175,8 @@ On this slide, include:
 
 Be prepared to explain why you chose those stakeholders.
 
-### Running Example
+<details>
+<summary><strong>Running example: Slide 1</strong></summary>
 
 **Need statement:** A design that helps waste get sorted properly in UBC residence.
 
@@ -174,6 +185,8 @@ Be prepared to explain why you chose those stakeholders.
 **Context:** Waste sorting in UBC residence buildings.
 
 In this example, students living in residence are bolded because they are likely the primary users who would directly interact with a potential interface.
+
+</details>
 
 ## Slide 2: Reference Designs
 
@@ -189,7 +202,8 @@ On this slide, include:
 - screenshots, photos, descriptions, GIFs, or diagrams needed to understand each design
 - a brief explanation of how each reference design currently supports the need
 
-### Running Example
+<details>
+<summary><strong>Running example: Slide 2</strong></summary>
 
 **Reference Design 1:** Labelled waste bins  
 These allow different kinds of waste to be placed in different bins so that garbage, recycling, returnables, and compost can be processed separately.
@@ -200,6 +214,8 @@ These allow different kinds of waste to be placed in different bins so that garb
 This provides more detailed information about what items belong in each bin.
 
 ![alt text](assets/images/Project-M1-Ref-Slide-2B.png)
+
+</details>
 
 ## Slides 3 and 4: Critique Reference Designs
 
@@ -226,7 +242,8 @@ For each reference design slide, include:
   - a one-sentence explanation of how the reference design does or does not address it
 - relevant visuals, if helpful
 
-### Running Example
+<details>
+<summary><strong>Running example: Slides 3 and 4</strong></summary>
 
 **Reference Design:** Labelled waste bins
 
@@ -242,6 +259,8 @@ The labelled bins partially support this, but users may still need to stop and r
 A design should help prevent users from placing items in the wrong bin or help them notice mistakes.  
 The labelled bins do not strongly support this because users can put almost any item into almost any bin if it fits.
 
+</details>
+
 ## Slide 5: Need-Finding Research Questions
 
 At this point, your team has an initial sense of why this problem may be worth investigating. However, you have not yet gathered formal information from stakeholders.
@@ -255,13 +274,16 @@ On this slide, include:
 - the stakeholders you want to learn from or observe
 - three research questions your need-finding study will aim to answer
 
-### Running Example
+<details>
+<summary><strong>Running example: Slide 5</strong></summary>
 
 For the waste sorting example, possible research questions include:
 
 1. How often do students in residence feel uncertain about which bin to use?
 2. What kinds of items are most confusing for students to sort?
 3. What parts of the current waste sorting setup help or prevent students from sorting correctly?
+
+</details>
 
 ## Slide 6: Need-Finding Methods
 
@@ -281,7 +303,8 @@ On this slide, include:
 - a brief description of each method
 - a brief justification for why each method is appropriate
 
-### Running Example
+<details>
+<summary><strong>Running example: Slide 6</strong></summary>
 
 **Method 1: Observation**  
 We would observe how students interact with the waste sorting area in a residence building.  
@@ -290,6 +313,8 @@ This method is useful because it lets us see what people actually do in context,
 **Method 2: Interview**  
 We would interview students living in residence about moments when they felt unsure about waste sorting.  
 This method is useful because it helps us understand the reasoning, confusion, and assumptions behind students’ actions.
+
+</details>
 
 ## Slide 7: Research Question and Method Table
 
@@ -307,13 +332,16 @@ Use a table like this:
 
 Not every cell needs to be filled in, but each research question should be addressed by at least one method.
 
-### Running Example
+<details>
+<summary><strong>Running example: Slide 7</strong></summary>
 
 |                        Research Question                         |                                Observation                                |                                       Interview                                       |
 | :--------------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
 |   How often do students feel uncertain about which bin to use?   |    Count hesitation, checking signs, switching bins, or asking others.    |            Ask students to describe recent moments when they were unsure.             |
 |         What kinds of items are most confusing to sort?          |         Record which items seem to cause hesitation or mistakes.          |                 Ask students which items they find difficult and why.                 |
 | What parts of the current setup help or prevent correct sorting? | Note signage, bin placement, openings, labels, and environmental factors. | Ask students what they notice, ignore, trust, or find confusing in the current setup. |
+
+</details>
 
 ## Presentation Expectations
 
