@@ -34,6 +34,39 @@ The final exam date, time, location, and detailed instructions will be posted on
 > [!IMPORTANT]
 > The final exam schedule is controlled by the university. Keep the full August 17-21, 2026 exam period available until the official date and time are posted.
 
+## Exam Average Passing Requirement
+
+The syllabus requires students to achieve at least **50% on the combined weighted average of the midterm and final exam**. This is separate from your overall course grade and other passing requirements.
+
+Because the midterm is worth 20% and the final exam is worth 30%, the exam-only average is calculated as:
+
+```text
+Exam average = ((midterm percentage x 20) + (final exam percentage x 30)) / 50
+```
+
+To meet the 50% exam-average requirement:
+
+```text
+Required final exam percentage = (2500 - (midterm percentage x 20)) / 30
+```
+
+<details>
+<summary><strong>Examples</strong></summary>
+
+| Midterm score | Final exam score needed for a 50% exam average |
+| :-- | :-- |
+| 30% | 63.4% |
+| 40% | 56.7% |
+| 50% | 50.0% |
+| 60% | 43.4% |
+| 70% | 36.7% |
+| 80% | 30.0% |
+
+</details>
+
+> [!NOTE]
+> These calculations only address the midterm/final exam weighted-average requirement. To pass the course, you must also satisfy the other passing criteria listed in the [syllabus](syllabus.md#passing-criteria).
+
 ## How to Prepare Well
 
 The final exam is meant to assess your understanding of course ideas and your ability to reason with them. A good preparation plan should include both studying and taking care of yourself.
