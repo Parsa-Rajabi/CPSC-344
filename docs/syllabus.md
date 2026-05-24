@@ -119,8 +119,8 @@ CPSC 344 and 444 form a two-course undergrad sequence; 444 covers more advanced 
 |                  ″                   |        [Project Checkpoint B](project/checkpoint-B.md)        | July 23 or 24 before workshop |     1%     |
 |                  ″                   |         [Project Milestone 4](project/milestone-4.md)         |     Aug 13 at 11:59pm PT      |    15%     |
 |                  ″                   |                     Project Demo Showcase                     |   Aug 10 + 12; 3:30-5:30pm    |     4%     |
-|                 Exam                 |                            Midterm                            |     June 17; 3:30-5:30pm      |    20%     |
-|                  ″                   |                          Final Exam                           |     Between August 17-21*     |    30%     |
+|                 Exam                 |                     [Midterm](midterm.md)                     |     June 17; 3:30-5:30pm      |    20%     |
+|                  ″                   |                     [Final Exam](final-exam.md)                     |     Between August 17-21*     |    30%     |
 
 *Final Exam: Do not schedule travel or other commitments during the final exam period. Final exam dates are set by the university and are not flexible.
 
@@ -271,7 +271,7 @@ Workshops are a key space for collaboration, feedback, and progress tracking. To
 
 - The course midterm exam is scheduled for **Wednesday, June 17, 2026, from 15:30 to 17:30** (room TBD).
   - There will be no makeup for the midterm. Students who miss the midterm will receive a grade of zero.
-- The course final exam is scheduled for the final exam period between August 17 through August 21, 2026 (date and time TBD by the university).
+- The [course final exam](final-exam.md) is scheduled for the final exam period between August 17 through August 21, 2026 (date and time TBD by the university).
   - Do not schedule travel or other commitments during the final exam period. Final exam dates are set by the university and are not flexible.
 - In case of extenuating circumstances (e.g., medical or family emergency) that prevent you from taking exams, students are expected to contact their respective faculty's advising office as soon as possible to discuss options and next steps. The course instructor should be informed of the situation, but students should follow the university's established procedures for handling such situations. 
 
@@ -406,7 +406,7 @@ The re-marking request will be reviewed by the teaching team and if accepted, th
 In order to protect the integrity of exam questions, exams will not be returned to students. 
 
 - Midterm exam: Students will have the opportunity to review their midterm exam in person with a member of the teaching team during pre-scheduled office hours in the week of July 6–10, 2026. The exact date and time will be announced.
-- Final exam: Students may request an in-person viewing of their final exam. Final exam viewings will be scheduled in September 2026, with the exact date and time to be determined.
+- Final exam: Students may request an in-person viewing of their [final exam](final-exam.md). Final exam viewings may be scheduled in August or September 2026, with the exact date and time to be determined.
 - During an exam viewing, students may review their exam with a member of the teaching team. However, students may not take photos, make copies, or otherwise reproduce any part of the exam.
 
 ### Wellness and Mental Health

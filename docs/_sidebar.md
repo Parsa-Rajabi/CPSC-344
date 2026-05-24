@@ -5,6 +5,9 @@
   - [Initial Design Assignment](intro-to-HCI.md)
   - [Submission Info](course-submission-info.md)
 
+- **Exams**
+  - [Midterm](midterm.md)
+
 - **Course Project**
   - [Project Overview](project/overview.md)
   - [TCPS Ethics Certification](project/ethics-certification.md)
