@@ -37,6 +37,44 @@ body .markdown-section {
     color: inherit !important;
 }
 
+/* Keep Docsify flexible-alert text and links readable on tinted alert backgrounds. */
+.markdown-section .alert,
+.markdown-section .callout,
+.markdown-section .markdown-alert {
+    color: #1f2933 !important;
+}
+
+.markdown-section .alert a:not(.button),
+.markdown-section .callout a:not(.button),
+.markdown-section .markdown-alert a:not(.button),
+.markdown-section blockquote a:not(.button) {
+    color: #002145 !important;
+    font-weight: 700;
+    text-decoration: underline !important;
+    text-underline-offset: 0.12em;
+}
+
+.markdown-section .alert .title,
+.markdown-section .alert-title,
+.markdown-section .markdown-alert-title {
+    color: #2d2359 !important;
+}
+
+.markdown-section .alert.warning .title,
+.markdown-section .alert-title.warning {
+    color: #7a1f1f !important;
+}
+
+.markdown-section .alert.note .title,
+.markdown-section .alert-title.note {
+    color: #002145 !important;
+}
+
+.markdown-section .alert.tip .title,
+.markdown-section .alert-title.tip {
+    color: #175c2f !important;
+}
+
 .markdown-section .team-directory {
     display: grid;
     gap: 0;
