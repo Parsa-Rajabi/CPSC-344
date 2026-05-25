@@ -354,7 +354,9 @@ A more detailed description of academic integrity, including the University’s 
 
 ### Artificial Intelligence (AI) / ChatGPT Policy
 
-The use of AI tools will be discussed through an in-class activity before the add/drop deadline (May 25). The policy will be posted on the syllabus and enforced thereafter. 
+CPSC 344 is a user-centred design course. Since students are the people most directly using AI tools for learning in this course, this policy is informed by student input from the **Week 2B class activity**. In that activity, participating students identified common acceptable uses, such as brainstorming, grammar support, study support, and idea refinement, as well as unacceptable uses, such as AI use during exams, copying AI output directly, using AI for entire assignments, and using AI for peer evaluations.
+
+Review the [CPSC 344 Artificial Intelligence Use Policy](ai-policy.md) for the full course policy, including disclosure requirements and restrictions.
 
 ### Course Waitlist
 

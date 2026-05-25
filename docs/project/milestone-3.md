@@ -78,7 +78,7 @@ Because this is an in-person project milestone, absence tokens cannot be used fo
 Refer to the [course submission information page](course-submission-info.md) for the latest information on how to submit items for the course.
 
 > [!IMPORTANT]
-> Shark Tank is an in-person project milestone. Absence tokens cannot be used for this session. Review [Workshop Attendance & Participation](syllabus.md#workshop-attendance--participation), [Course Submission Info](course-submission-info.md), and [Group Work Resources](group-work-resources.md) while planning roles and backups.
+> Shark Tank is an in-person project milestone. Absence tokens cannot be used for this session. Review [Workshop Attendance & Participation](syllabus.md#workshop-attendance--participation), [Course Submission Info](course-submission-info.md), the [CPSC 344 Artificial Intelligence Use Policy](ai-policy.md), and [Group Work Resources](group-work-resources.md) while planning roles and backups.
 
 ## Required Slide Structure
 

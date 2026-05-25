@@ -50,7 +50,7 @@ Your team will also participate in the **Project Demo Showcase**.
 Refer to the [course submission information page](course-submission-info.md) for the latest information on how to submit items for the course.
 
 > [!IMPORTANT]
-> This milestone has a graded peer evaluation component and is connected to the Project Demo Showcase. Review [Course Submission Info](course-submission-info.md), [Late Deliverables](syllabus.md#late-deliverables), [Project Peer Evaluation](project-peer-evaluation.md), and the [Project Demo Showcase](project/demo-showcase.md) page before the final deadline.
+> This milestone has a graded peer evaluation component and is connected to the Project Demo Showcase. Review [Course Submission Info](course-submission-info.md), [Late Deliverables](syllabus.md#late-deliverables), the [CPSC 344 Artificial Intelligence Use Policy](ai-policy.md), [Project Peer Evaluation](project-peer-evaluation.md), and the [Project Demo Showcase](project/demo-showcase.md) page before the final deadline.
 
 ## Peer Evaluation
 

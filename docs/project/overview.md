@@ -87,7 +87,7 @@ The project is governed by the course syllabus. Students are responsible for rev
 |         Academic expectations         |                             [Academic Expectations](syllabus.md#academic-expectations)                             |
 |  Code of conduct and professionalism  |               [Code of Conduct and Professionalism](syllabus.md#code-of-conduct-and-professionalism)               |
 |          Academic integrity           |                                [Academic Integrity](syllabus.md#academic-integrity)                                |
-|    Artificial intelligence policy     |         [Artificial Intelligence / ChatGPT Policy](syllabus.md#artificial-intelligence-ai--chatgpt-policy)         |
+|    Artificial intelligence policy     |                         [CPSC 344 Artificial Intelligence Use Policy](ai-policy.md)                         |
 |           Late deliverables           |                                 [Late Deliverables](syllabus.md#late-deliverables)                                 |
 |           Remarking policy            |                                  [Remarking Policy](syllabus.md#remarking-policy)                                  |
 |   Course communication conventions    |                              [Learning Resources](syllabus.md#learning-resources)                              |

@@ -1,5 +1,6 @@
 - [Home](home.md)
 - [Syllabus](syllabus.md)
+- [AI Policy](ai-policy.md)
 
 - **Assignments**
   - [Initial Design Assignment](intro-to-HCI.md)

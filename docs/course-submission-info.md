@@ -22,6 +22,7 @@ Canvas access was restored on May 20, so the course is using Canvas for assignme
 - Check the relevant assignment or milestone page before submitting.
 - Unless the assignment says otherwise, submit one final PDF or required file set through Canvas.
 - For group work, make sure the submitted file has the correct team members, project name, and accessible links.
+- If AI contributed to submitted work, follow the [CPSC 344 Artificial Intelligence Use Policy](ai-policy.md), including the disclosure requirement.
 - Late submissions are governed by the [Late Deliverables](syllabus.md#late-deliverables) policy.
 - If an emergency or unanticipated situation affects your ability to submit, review [Academic Concessions](syllabus.md#academic-concessions) and contact the teaching team as early as possible.
 

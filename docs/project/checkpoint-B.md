@@ -46,7 +46,7 @@ Recommended length: **1 to 2 pages**, not including the appendix.
 Refer to the [course submission information page](course-submission-info.md) for the latest information on how to submit items for the course.
 
 > [!IMPORTANT]
-> This checkpoint follows the course [Late Deliverables](syllabus.md#late-deliverables) policy. Because this plan may involve recruiting participants and collecting data, review the [TCPS Ethics Certification](project/ethics-certification.md) requirement and use [Group Work Resources](group-work-resources.md) to assign evaluation roles clearly.
+> This checkpoint follows the course [Late Deliverables](syllabus.md#late-deliverables) policy and the [CPSC 344 Artificial Intelligence Use Policy](ai-policy.md). Because this plan may involve recruiting participants and collecting data, review the [TCPS Ethics Certification](project/ethics-certification.md) requirement and use [Group Work Resources](group-work-resources.md) to assign evaluation roles clearly.
 
 ## Evaluation Plan
 

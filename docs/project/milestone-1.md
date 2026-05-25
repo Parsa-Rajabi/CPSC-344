@@ -155,7 +155,7 @@ Because this is an in-person project milestone, all group members are expected t
 Refer to the [course submission information page](course-submission-info.md) for the latest information on how to submit items for the course.
 
 > [!IMPORTANT]
-> This milestone is an in-person presentation milestone. Review [Workshop Attendance & Participation](syllabus.md#workshop-attendance--participation), [Course Submission Info](course-submission-info.md), and the [Milestone 1 practice peer evaluation](project-peer-evaluation.md#milestone-1-practice-peer-evaluation) expectations before the deadline.
+> This milestone is an in-person presentation milestone. Review [Workshop Attendance & Participation](syllabus.md#workshop-attendance--participation), [Course Submission Info](course-submission-info.md), the [CPSC 344 Artificial Intelligence Use Policy](ai-policy.md), and the [Milestone 1 practice peer evaluation](project-peer-evaluation.md#milestone-1-practice-peer-evaluation) expectations before the deadline.
 
 ## Required Slide Structure
 

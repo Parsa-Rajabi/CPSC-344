@@ -46,7 +46,7 @@ Recommended length: **1 to 2 pages**, not including the appendix.
 Refer to the [course submission information page](course-submission-info.md) for the latest information on how to submit items for the course.
 
 > [!IMPORTANT]
-> This checkpoint follows the course [Late Deliverables](syllabus.md#late-deliverables) policy. Use [Group Work Resources](group-work-resources.md) to assign owners and backups before the deadline, especially for prototype scope and demo planning.
+> This checkpoint follows the course [Late Deliverables](syllabus.md#late-deliverables) policy and the [CPSC 344 Artificial Intelligence Use Policy](ai-policy.md). Use [Group Work Resources](group-work-resources.md) to assign owners and backups before the deadline, especially for prototype scope and demo planning.
 
 ## Prototyping Plan
 

@@ -10,6 +10,8 @@ Milestone 1 will be used as a practice peer evaluation to make sure the peer eva
 
 The purpose of this policy is to recognize meaningful contribution, reliability, collaboration, and professionalism within team-based work. Peer evaluation is not intended to reward popularity or penalize personality differences. It is intended to help the teaching team assess how work was actually distributed within the group.
 
+Peer evaluations are also governed by the [CPSC 344 Artificial Intelligence Use Policy](ai-policy.md). AI tools may not be used to generate peer evaluation ratings or comments.
+
 Students must also complete and submit the [TCPS Ethics Certification](project/ethics-certification.md) before participating in any course project work, including Milestone 1 work. Late or missing certification submissions result in a 1-point deduction from the student's Milestone 2 peer evaluation score for each 24-hour period after the certification deadline, with no maximum cap, until the certification is both completed and submitted.
 
 ---
