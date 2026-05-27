@@ -147,6 +147,19 @@ body .markdown-section {
     grid-template-columns: minmax(150px, 1fr) minmax(140px, 1fr) minmax(120px, 0.8fr) minmax(180px, 1.2fr);
 }
 
+.markdown-section .team-directory-workshops .team-row {
+    grid-template-columns: minmax(80px, 0.55fr) minmax(140px, 1fr) minmax(150px, 1fr) minmax(150px, 1fr);
+}
+
+.markdown-section .team-directory-workshops .team-row:not(.team-header) {
+    align-items: center;
+}
+
+.markdown-section .team-directory-workshops .team-row:not(.team-header) > p:nth-of-type(3) {
+    color: #002145;
+    font-weight: 700;
+}
+
 .markdown-section .team-row:first-child {
     border-top: 0;
 }
@@ -209,9 +222,66 @@ body .markdown-section {
     gap: 0.35rem;
 }
 
-.markdown-section .team-workshops p:last-child {
+.markdown-section .team-workshops p:last-child,
+.markdown-section .team-role-time {
     color: #5E6A71;
     font-size: 0.9rem;
+}
+
+.markdown-section .team-workshop-roles {
+    gap: 0.55rem;
+}
+
+.markdown-section .team-role {
+    display: grid;
+    grid-template-columns: minmax(3.5rem, auto) minmax(6.5rem, 1fr);
+    gap: 0.15rem 0.5rem;
+    align-items: center;
+    padding: 0.5rem 0.65rem;
+    border: 1px solid rgba(94, 106, 113, 0.22);
+    border-left-width: 0.35rem;
+    border-radius: 8px;
+    background: #fff;
+}
+
+.markdown-section .team-role-primary {
+    border-left-color: #002145;
+    background: #f2f6fb;
+}
+
+.markdown-section .team-role-support {
+    border-left-color: #2f6f4e;
+    background: #f4faf6;
+}
+
+.markdown-section .team-role-section {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 3rem;
+    min-height: 1.65rem;
+    padding: 0.1rem 0.45rem;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 0.85rem;
+    font-weight: 700;
+    line-height: 1.2;
+    background: #002145;
+}
+
+.markdown-section .team-role-support .team-role-section {
+    background: #2f6f4e;
+}
+
+.markdown-section .team-role-label {
+    color: #1f2933;
+    font-size: 0.88rem;
+    font-weight: 700;
+}
+
+.markdown-section .team-role-time {
+    grid-column: 2;
+    margin: 0;
 }
 
 .markdown-section .team-photo {
@@ -239,7 +309,9 @@ body .markdown-section {
     }
 
     .markdown-section .team-row,
-    .markdown-section .team-directory-single .team-row {
+    .markdown-section .team-directory-single .team-row,
+    .markdown-section .team-directory-compact .team-row,
+    .markdown-section .team-directory-workshops .team-row {
         grid-template-columns: 1fr;
         gap: 0.65rem;
         align-items: start;
@@ -260,18 +332,38 @@ body .markdown-section {
         border-top: 1px solid rgba(94, 106, 113, 0.25);
     }
 
-    .markdown-section .team-directory:not(.team-directory-single):not(.team-directory-compact) .team-row:not(.team-header) > p:nth-of-type(1)::before {
+    .markdown-section .team-directory:not(.team-directory-single):not(.team-directory-compact):not(.team-directory-workshops) .team-row:not(.team-header) > p:nth-of-type(1)::before {
         content: "Contact: ";
         font-weight: 700;
     }
 
-    .markdown-section .team-directory:not(.team-directory-single):not(.team-directory-compact) .team-row:not(.team-header) > .team-workshops::before {
+    .markdown-section .team-directory:not(.team-directory-single):not(.team-directory-compact):not(.team-directory-workshops) .team-row:not(.team-header) > .team-workshops::before {
+        content: "Workshop roles: ";
+        font-weight: 700;
+    }
+
+    .markdown-section .team-directory:not(.team-directory-single):not(.team-directory-compact):not(.team-directory-workshops) .team-row:not(.team-header) > p:nth-of-type(2)::before {
+        content: "About: ";
+        font-weight: 700;
+    }
+
+    .markdown-section .team-directory-workshops .team-row:not(.team-header) > p:nth-of-type(1)::before {
         content: "Workshop: ";
         font-weight: 700;
     }
 
-    .markdown-section .team-directory:not(.team-directory-single):not(.team-directory-compact) .team-row:not(.team-header) > p:nth-of-type(2)::before {
-        content: "About: ";
+    .markdown-section .team-directory-workshops .team-row:not(.team-header) > p:nth-of-type(2)::before {
+        content: "Time: ";
+        font-weight: 700;
+    }
+
+    .markdown-section .team-directory-workshops .team-row:not(.team-header) > p:nth-of-type(3)::before {
+        content: "Primary TA: ";
+        font-weight: 700;
+    }
+
+    .markdown-section .team-directory-workshops .team-row:not(.team-header) > p:nth-of-type(4)::before {
+        content: "Support TA: ";
         font-weight: 700;
     }
 
@@ -333,6 +425,8 @@ body .markdown-section {
 
     .markdown-section .team-person p,
     .markdown-section .team-workshops p:last-child,
+    .markdown-section .team-role-label,
+    .markdown-section .team-role-time,
     .markdown-section .team-photo-placeholder {
         color: #B2B4B4;
     }
@@ -341,6 +435,32 @@ body .markdown-section {
         color: #D7E9FA;
         background: rgba(111, 177, 231, 0.14);
         border-color: rgba(111, 177, 231, 0.35);
+    }
+
+    .markdown-section .team-directory-workshops .team-row:not(.team-header) > p:nth-of-type(3) {
+        color: #D7E9FA;
+    }
+
+    .markdown-section .team-role {
+        border-color: rgba(178, 180, 180, 0.28);
+        background: #151b22;
+    }
+
+    .markdown-section .team-role-primary {
+        border-left-color: #6FB1E7;
+    }
+
+    .markdown-section .team-role-support {
+        border-left-color: #8ED1A6;
+    }
+
+    .markdown-section .team-role-section {
+        color: #061018;
+        background: #6FB1E7;
+    }
+
+    .markdown-section .team-role-support .team-role-section {
+        background: #8ED1A6;
     }
 
     .markdown-section .team-photo,

@@ -35,7 +35,7 @@ If your group is using co-working time to discuss team process, conflict, roles,
     <p role="cell">ICCS X360</p>
     <p role="cell">Mike</p>
     <div class="team-workshops" role="cell">
-      <p class="team-section-tags"><span>A</span><span>B</span></p>
+      <p class="team-section-tags"><span>D0A</span><span>D0B</span></p>
       <p>Thu 16:00-18:00; Thu 18:00-20:00</p>
     </div>
   </div>
@@ -45,7 +45,7 @@ If your group is using co-working time to discuss team process, conflict, roles,
     <p role="cell">ICCS X360</p>
     <p role="cell">Andy</p>
     <div class="team-workshops" role="cell">
-      <p class="team-section-tags"><span>C</span><span>D</span></p>
+      <p class="team-section-tags"><span>D0C</span><span>D0D</span></p>
       <p>Fri 10:00-12:00; Fri 12:00-14:00</p>
     </div>
   </div>
@@ -55,9 +55,57 @@ If your group is using co-working time to discuss team process, conflict, roles,
     <p role="cell">ICCS X339</p>
     <p role="cell">Jessica</p>
     <div class="team-workshops" role="cell">
-      <p class="team-section-tags"><span>E</span></p>
+      <p class="team-section-tags"><span>D0E</span></p>
       <p>Fri 14:00-16:00</p>
     </div>
+  </div>
+</div>
+
+## Workshop TA Assignments
+
+Each workshop has one primary TA and one support TA.
+
+<div class="team-directory team-directory-workshops" role="table" aria-label="Workshop TA assignments">
+  <div class="team-row team-header" role="row">
+    <div role="columnheader">Workshop</div>
+    <div role="columnheader">Time</div>
+    <div role="columnheader">Primary Workshop TA</div>
+    <div role="columnheader">Support TA</div>
+  </div>
+
+  <div class="team-row" role="row">
+    <p role="cell"><span class="team-role-section">D0A</span></p>
+    <p role="cell">Thu 16:00-18:00</p>
+    <p role="cell"><strong>Mike</strong></p>
+    <p role="cell">Chinmay</p>
+  </div>
+
+  <div class="team-row" role="row">
+    <p role="cell"><span class="team-role-section">D0B</span></p>
+    <p role="cell">Thu 18:00-20:00</p>
+    <p role="cell"><strong>Kris</strong></p>
+    <p role="cell">Mike</p>
+  </div>
+
+  <div class="team-row" role="row">
+    <p role="cell"><span class="team-role-section">D0C</span></p>
+    <p role="cell">Fri 10:00-12:00</p>
+    <p role="cell"><strong>Andy</strong></p>
+    <p role="cell">Rubia</p>
+  </div>
+
+  <div class="team-row" role="row">
+    <p role="cell"><span class="team-role-section">D0D</span></p>
+    <p role="cell">Fri 12:00-14:00</p>
+    <p role="cell"><strong>Jessica</strong></p>
+    <p role="cell">Andy</p>
+  </div>
+
+  <div class="team-row" role="row">
+    <p role="cell"><span class="team-role-section">D0E</span></p>
+    <p role="cell">Fri 14:00-16:00</p>
+    <p role="cell"><strong>CC</strong></p>
+    <p role="cell">Jessica</p>
   </div>
 </div>
 
@@ -67,7 +115,7 @@ If your group is using co-working time to discuss team process, conflict, roles,
   <div class="team-row team-header" role="row">
     <div role="columnheader">TA</div>
     <div role="columnheader">Contact</div>
-    <div role="columnheader">Workshop Sections</div>
+    <div role="columnheader">Workshop Role(s)</div>
     <div role="columnheader">About</div>
   </div>
 
@@ -80,9 +128,17 @@ If your group is using co-working time to discuss team process, conflict, roles,
       </div>
     </div>
     <p role="cell"><a href="mailto:bjung01@student.ubc.ca">bjung01@student.ubc.ca</a></p>
-    <div class="team-workshops" role="cell">
-      <p class="team-section-tags"><span>A</span><span>B</span></p>
-      <p>Thu 16:00-18:00; Thu 18:00-20:00</p>
+    <div class="team-workshops team-workshop-roles" role="cell">
+      <div class="team-role team-role-primary">
+        <span class="team-role-section">D0A</span>
+        <span class="team-role-label">Primary TA</span>
+        <span class="team-role-time">Thu 16:00-18:00</span>
+      </div>
+      <div class="team-role team-role-support">
+        <span class="team-role-section">D0B</span>
+        <span class="team-role-label">Support TA</span>
+        <span class="team-role-time">Thu 18:00-20:00</span>
+      </div>
     </div>
     <p role="cell">Cognitive Systems student in the Arts Psychology stream. Mike has lived in South Korea, France, Greece, the U.A.E., and Canada for at least two years each.</p>
   </div>
@@ -96,9 +152,12 @@ If your group is using co-working time to discuss team process, conflict, roles,
       </div>
     </div>
     <p role="cell"><a href="mailto:chinmay.bhansali@ubc.ca">chinmay.bhansali@ubc.ca</a></p>
-    <div class="team-workshops" role="cell">
-      <p class="team-section-tags"><span>A</span></p>
-      <p>Thu 16:00-18:00</p>
+    <div class="team-workshops team-workshop-roles" role="cell">
+      <div class="team-role team-role-support">
+        <span class="team-role-section">D0A</span>
+        <span class="team-role-label">Support TA</span>
+        <span class="team-role-time">Thu 16:00-18:00</span>
+      </div>
     </div>
     <p role="cell">Chinmay took CPSC 344 and 444 last academic year and is graduating from Integrated Sciences with a focus on HCI. He was TAed by Andy in 344 and Rubia in 444 which inspired him to TA 344 this year.</p>
   </div>
@@ -112,9 +171,12 @@ If your group is using co-working time to discuss team process, conflict, roles,
       </div>
     </div>
     <p role="cell"><a href="mailto:kristofer.mah@ubc.ca">kristofer.mah@ubc.ca</a></p>
-    <div class="team-workshops" role="cell">
-      <p class="team-section-tags"><span>B</span></p>
-      <p>Thu 18:00-20:00</p>
+    <div class="team-workshops team-workshop-roles" role="cell">
+      <div class="team-role team-role-primary">
+        <span class="team-role-section">D0B</span>
+        <span class="team-role-label">Primary TA</span>
+        <span class="team-role-time">Thu 18:00-20:00</span>
+      </div>
     </div>
     <p role="cell">Computer Science student with a minor in Commerce. Kris survived a hurricane and an earthquake to see BLACKPINK.</p>
   </div>
@@ -128,9 +190,17 @@ If your group is using co-working time to discuss team process, conflict, roles,
       </div>
     </div>
     <p role="cell"><a href="mailto:andy.zhao@ubc.ca">andy.zhao@ubc.ca</a></p>
-    <div class="team-workshops" role="cell">
-      <p class="team-section-tags"><span>C</span><span>D</span></p>
-      <p>Fri 10:00-12:00; Fri 12:00-14:00</p>
+    <div class="team-workshops team-workshop-roles" role="cell">
+      <div class="team-role team-role-primary">
+        <span class="team-role-section">D0C</span>
+        <span class="team-role-label">Primary TA</span>
+        <span class="team-role-time">Fri 10:00-12:00</span>
+      </div>
+      <div class="team-role team-role-support">
+        <span class="team-role-section">D0D</span>
+        <span class="team-role-label">Support TA</span>
+        <span class="team-role-time">Fri 12:00-14:00</span>
+      </div>
     </div>
     <p role="cell">Andy is completing an M.A.Sc. in Biomedical Engineering and enjoys making coffee drinks, cocktails, matcha, and other drinks.</p>
   </div>
@@ -144,9 +214,12 @@ If your group is using co-working time to discuss team process, conflict, roles,
       </div>
     </div>
     <p role="cell"><a href="mailto:rubiarg@cs.ubc.ca">rubiarg@cs.ubc.ca</a></p>
-    <div class="team-workshops" role="cell">
-      <p class="team-section-tags"><span>C</span></p>
-      <p>Fri 10:00-12:00</p>
+    <div class="team-workshops team-workshop-roles" role="cell">
+      <div class="team-role team-role-support">
+        <span class="team-role-section">D0C</span>
+        <span class="team-role-label">Support TA</span>
+        <span class="team-role-time">Fri 10:00-12:00</span>
+      </div>
     </div>
     <p role="cell">Rubia is a fourth-year PhD student in the SPIN Lab researching HCI, affective haptics, and machine learning.</p>
   </div>
@@ -160,9 +233,17 @@ If your group is using co-working time to discuss team process, conflict, roles,
       </div>
     </div>
     <p role="cell"><a href="mailto:jlescano@student.ubc.ca">jlescano@student.ubc.ca</a></p>
-    <div class="team-workshops" role="cell">
-      <p class="team-section-tags"><span>D</span><span>E</span></p>
-      <p>Fri 12:00-14:00; Fri 14:00-16:00</p>
+    <div class="team-workshops team-workshop-roles" role="cell">
+      <div class="team-role team-role-primary">
+        <span class="team-role-section">D0D</span>
+        <span class="team-role-label">Primary TA</span>
+        <span class="team-role-time">Fri 12:00-14:00</span>
+      </div>
+      <div class="team-role team-role-support">
+        <span class="team-role-section">D0E</span>
+        <span class="team-role-label">Support TA</span>
+        <span class="team-role-time">Fri 14:00-16:00</span>
+      </div>
     </div>
     <p role="cell">Jessica recently graduated with a B.Sc. in Cognitive Systems in the Psychology stream and has traveled to four countries in Asia in the last year.</p>
   </div>
@@ -176,9 +257,12 @@ If your group is using co-working time to discuss team process, conflict, roles,
       </div>
     </div>
     <p role="cell"><a href="mailto:ccliang@student.ubc.ca">ccliang@student.ubc.ca</a></p>
-    <div class="team-workshops" role="cell">
-      <p class="team-section-tags"><span>E</span></p>
-      <p>Fri 14:00-16:00</p>
+    <div class="team-workshops team-workshop-roles" role="cell">
+      <div class="team-role team-role-primary">
+        <span class="team-role-section">D0E</span>
+        <span class="team-role-label">Primary TA</span>
+        <span class="team-role-time">Fri 14:00-16:00</span>
+      </div>
     </div>
     <p role="cell">CC is studying Cognitive Systems in the Psychology stream and has encountered Gestalt psychology four times at UBC: once in first-year Music Theory class, twice in different Psychology courses, and once in CPSC 344!</p>
   </div>
