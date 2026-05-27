@@ -178,7 +178,7 @@ On this slide, include:
 
 Be prepared to explain why you chose those stakeholders.
 
-<details>
+<details class="running-example">
 <summary><strong>Running example: Slide 1</strong></summary>
 
 **Need statement:** A design that helps waste get sorted properly in UBC residence.
@@ -205,18 +205,18 @@ On this slide, include:
 - screenshots, photos, descriptions, GIFs, or diagrams needed to understand each design
 - a brief explanation of how each reference design currently supports the need
 
-<details>
+<details class="running-example">
 <summary><strong>Running example: Slide 2</strong></summary>
 
 **Reference Design 1:** Labelled waste bins  
 These allow different kinds of waste to be placed in different bins so that garbage, recycling, returnables, and compost can be processed separately.
 
-![alt text](assets/images/Project-M1-Ref-Slide-2A.jpg)
+![Labelled waste bins](../assets/images/Project-M1-Ref-Slide-2A.jpg)
 
 **Reference Design 2:** Waste sorting poster or guide  
 This provides more detailed information about what items belong in each bin.
 
-![alt text](assets/images/Project-M1-Ref-Slide-2B.png)
+![Waste sorting poster or guide](../assets/images/Project-M1-Ref-Slide-2B.png)
 
 </details>
 
@@ -245,7 +245,7 @@ For each reference design slide, include:
   - a one-sentence explanation of how the reference design does or does not address it
 - relevant visuals, if helpful
 
-<details>
+<details class="running-example">
 <summary><strong>Running example: Slides 3 and 4</strong></summary>
 
 **Reference Design:** Labelled waste bins
@@ -277,7 +277,7 @@ On this slide, include:
 - the stakeholders you want to learn from or observe
 - three research questions your need-finding study will aim to answer
 
-<details>
+<details class="running-example">
 <summary><strong>Running example: Slide 5</strong></summary>
 
 For the waste sorting example, possible research questions include:
@@ -306,7 +306,7 @@ On this slide, include:
 - a brief description of each method
 - a brief justification for why each method is appropriate
 
-<details>
+<details class="running-example">
 <summary><strong>Running example: Slide 6</strong></summary>
 
 **Method 1: Observation**  
@@ -335,7 +335,7 @@ Use a table like this:
 
 Not every cell needs to be filled in, but each research question should be addressed by at least one method.
 
-<details>
+<details class="running-example">
 <summary><strong>Running example: Slide 7</strong></summary>
 
 |                        Research Question                         |                                Observation                                |                                       Interview                                       |
