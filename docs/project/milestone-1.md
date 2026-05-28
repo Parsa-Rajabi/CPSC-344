@@ -4,7 +4,7 @@
 > This milestone is still in development and subject to change as rubrics and templates are finalized. The information below is meant to give you a general sense of what this milestone will be about, but please check back for updates. This banner will be removed once the milestone description is finalized.
 
 ## Changelog
-
+- May 28: Added project M1 [template link](#accessing-the-project-template) and instructions for accessing it.
 - May 24: Updated page readability and added policy reminders.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
 - May 11: Initial version of milestone description and deliverable requirements.
@@ -150,6 +150,22 @@ All team members must speak during the presentation. The presentation should fee
 
 Because this is an in-person project milestone, all group members are expected to attend and participate in person.
 
+## Presentation Expectations
+
+Your presentation should be clear, focused, and easy to follow.
+
+As a team, make sure you:
+
+- stay within the 15-minute limit
+- explain the problem before discussing possible methods
+- use visuals where they help the audience understand the context or reference designs
+- avoid dense slides with too much text
+- make clear transitions between speakers
+- ensure every team member speaks
+- leave the audience understanding why this problem is worth investigating
+
+For practical guidance on team roles, meeting expectations, and coordination routines, see the [Group Work Resources](group-work-resources.md).
+
 ## Submission
 
 Refer to the [course submission information page](course-submission-info.md) for the latest information on how to submit items for the course.
@@ -157,26 +173,16 @@ Refer to the [course submission information page](course-submission-info.md) for
 > [!IMPORTANT]
 > This milestone is an in-person presentation milestone. Review [Workshop Attendance & Participation](syllabus.md#workshop-attendance--participation), [Course Submission Info](course-submission-info.md), the [CPSC 344 Artificial Intelligence Use Policy](ai-policy.md), and the [Milestone 1 practice peer evaluation](project-peer-evaluation.md#milestone-1-practice-peer-evaluation) expectations before the deadline.
 
-## Required Slide Structure
+## Accessing the Project Template
 
-Your slide deck should follow the structure below.
+The template is a Google Doc: [M1 Project Template](https://docs.google.com/document/d/1atp1Uw0clNTdo7-r1RNxE2ap8TUI9eaevMz3VRRbXKs/edit?tab=t.0#heading=h.bx9ltwnuavx4). Your team is expected to select **File → Make a copy** and work from your own copy.
 
-You may include additional supporting material only if it helps your audience understand your pitch, but the required slides should remain clear and easy to follow.
+![gDocs-make-a-copy](../assets/images/gDocs-make-a-copy.png)
 
-## Slide 1: Human Need, Design Problem, or Design Opportunity
+## Running Example:
 
-Select a human need, design problem, or design opportunity that your team may want to address this term.
 
-You can draw from team members’ initial design assignments, shared interests, personal experiences, campus observations, or other contexts your team can realistically investigate.
-
-On this slide, include:
-
-- the human need, design problem, or design opportunity
-- the stakeholders who have this need or are affected by it
-- the context where the need exists
-- bolded stakeholders who would directly interact with a potential interface
-
-Be prepared to explain why you chose those stakeholders.
+### Slide 1: Human Need, Design Problem, or Design Opportunity
 
 <details class="running-example">
 <summary><strong>Running example: Slide 1</strong></summary>
@@ -191,19 +197,7 @@ In this example, students living in residence are bolded because they are likely
 
 </details>
 
-## Slide 2: Reference Designs
-
-With your team, brainstorm existing products, services, designs, tools, signs, workflows, or other systems that already try to support your stakeholders in addressing the need.
-
-These are your **reference designs**.
-
-Choose 1 to 2 reference designs that are most relevant to your project direction.
-
-On this slide, include:
-
-- the reference designs your team selected
-- screenshots, photos, descriptions, GIFs, or diagrams needed to understand each design
-- a brief explanation of how each reference design currently supports the need
+### Slide 2: Reference Designs
 
 <details class="running-example">
 <summary><strong>Running example: Slide 2</strong></summary>
@@ -220,30 +214,7 @@ This provides more detailed information about what items belong in each bin.
 
 </details>
 
-## Slides 3 and 4: Critique Reference Designs
-
-For each reference design, critique how well it supports the human need, design problem, or design opportunity.
-
-Start by brainstorming:
-
-- **Pros:** ways the reference design supports the need
-- **Cons:** ways the reference design does not fully support the need
-
-Then, use your critique to identify **three early design considerations**.
-
-An early design consideration is a possible design goal or concern that your team may need to investigate further. These are not final requirements yet because you have not completed your need-finding study.
-
-Try to include at least two early design considerations that go beyond simple visual changes, such as making a button larger or changing colours.
-
-For each reference design slide, include:
-
-- the name of the reference design
-- three early design considerations
-- for each consideration:
-  - a 1 to 3 word label
-  - a one-sentence description
-  - a one-sentence explanation of how the reference design does or does not address it
-- relevant visuals, if helpful
+### Slides 3 and 4: Critique Reference Designs
 
 <details class="running-example">
 <summary><strong>Running example: Slides 3 and 4</strong></summary>
@@ -264,18 +235,7 @@ The labelled bins do not strongly support this because users can put almost any 
 
 </details>
 
-## Slide 5: Need-Finding Research Questions
-
-At this point, your team has an initial sense of why this problem may be worth investigating. However, you have not yet gathered formal information from stakeholders.
-
-Your next step is to plan a need-finding study.
-
-Need-finding helps you learn more about the people, context, behaviours, challenges, and priorities connected to your project direction. Since this is an early stage of design, your questions may be somewhat open-ended, but they should still be focused enough to guide your investigation.
-
-On this slide, include:
-
-- the stakeholders you want to learn from or observe
-- three research questions your need-finding study will aim to answer
+### Slide 5: Need-Finding Research Questions
 
 <details class="running-example">
 <summary><strong>Running example: Slide 5</strong></summary>
@@ -288,23 +248,7 @@ For the waste sorting example, possible research questions include:
 
 </details>
 
-## Slide 6: Need-Finding Methods
-
-Choose two methods that your team could use to investigate your research questions.
-
-For this milestone, choose from the following HCI methods:
-
-- observation
-- interview
-- questionnaire
-
-Choose methods that are realistic for your team to carry out within the course timeline. Your plan should consider access to stakeholders, available time, and whether the method can actually help answer your research questions.
-
-On this slide, include:
-
-- the two methods your team selected
-- a brief description of each method
-- a brief justification for why each method is appropriate
+### Slide 6: Need-Finding Methods
 
 <details class="running-example">
 <summary><strong>Running example: Slide 6</strong></summary>
@@ -319,21 +263,7 @@ This method is useful because it helps us understand the reasoning, confusion, a
 
 </details>
 
-## Slide 7: Research Question and Method Table
-
-Create a table that connects your research questions to your methods.
-
-The goal is to show that your methods are not random. Each method should help your team learn something specific.
-
-Use a table like this:
-
-|  Research Question  |               Method 1               |               Method 2               |
-| :-----------------: | :----------------------------------: | :----------------------------------: |
-| Research Question 1 | What data would this method produce? | What data would this method produce? |
-| Research Question 2 | What data would this method produce? | What data would this method produce? |
-| Research Question 3 | What data would this method produce? | What data would this method produce? |
-
-Not every cell needs to be filled in, but each research question should be addressed by at least one method.
+### Slide 7: Research Question and Method Table
 
 <details class="running-example">
 <summary><strong>Running example: Slide 7</strong></summary>
@@ -346,18 +276,3 @@ Not every cell needs to be filled in, but each research question should be addre
 
 </details>
 
-## Presentation Expectations
-
-Your presentation should be clear, focused, and easy to follow.
-
-As a team, make sure you:
-
-- stay within the 15-minute limit
-- explain the problem before discussing possible methods
-- use visuals where they help the audience understand the context or reference designs
-- avoid dense slides with too much text
-- make clear transitions between speakers
-- ensure every team member speaks
-- leave the audience understanding why this problem is worth investigating
-
-For practical guidance on team roles, meeting expectations, and coordination routines, see the [Group Work Resources](group-work-resources.md).
