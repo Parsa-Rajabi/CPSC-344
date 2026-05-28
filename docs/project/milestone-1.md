@@ -4,7 +4,7 @@
 > This milestone is still in development and subject to change as rubrics and templates are finalized. The information below is meant to give you a general sense of what this milestone will be about, but please check back for updates. This banner will be removed once the milestone description is finalized.
 
 ## Changelog
-
+- May 28: Added project M1 [template link](#accessing-the-project-template) and instructions for accessing it.
 - May 24: Updated page readability and added policy reminders.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
 - May 11: Initial version of milestone description and deliverable requirements.
@@ -173,11 +173,11 @@ Refer to the [course submission information page](course-submission-info.md) for
 > [!IMPORTANT]
 > This milestone is an in-person presentation milestone. Review [Workshop Attendance & Participation](syllabus.md#workshop-attendance--participation), [Course Submission Info](course-submission-info.md), the [CPSC 344 Artificial Intelligence Use Policy](ai-policy.md), and the [Milestone 1 practice peer evaluation](project-peer-evaluation.md#milestone-1-practice-peer-evaluation) expectations before the deadline.
 
-## Accessing the Assignment Template
+## Accessing the Project Template
 
-You can find the assignment template here [Assignment Template]([https://docs.google.com/document/d/1SzmPzNvcPXkNAry0RoxmsWciw_TzF7rNdWjtFvqbtbo/edit?usp=sharing](https://docs.google.com/document/d/1atp1Uw0clNTdo7-r1RNxE2ap8TUI9eaevMz3VRRbXKs/edit?usp=sharing)).
+The template is a Google Doc: [M1 Project Template](https://docs.google.com/document/d/1atp1Uw0clNTdo7-r1RNxE2ap8TUI9eaevMz3VRRbXKs/edit?tab=t.0#heading=h.bx9ltwnuavx4). Your team is expected to select **File → Make a copy** and work from your own copy.
 
-![gDocs-make-a-copy](assets/images/gDocs-make-a-copy.png)
+![gDocs-make-a-copy](../assets/images/gDocs-make-a-copy.png)
 
 ## Running Example:
 
