@@ -222,8 +222,7 @@ body .markdown-section {
     gap: 0.35rem;
 }
 
-.markdown-section .team-workshops p:last-child,
-.markdown-section .team-role-time {
+.markdown-section .team-workshops p:last-child {
     color: #5E6A71;
     font-size: 0.9rem;
 }
@@ -233,8 +232,8 @@ body .markdown-section {
 }
 
 .markdown-section .team-role {
-    display: grid;
-    grid-template-columns: minmax(3.5rem, auto) minmax(6.5rem, 1fr);
+    display: flex;
+    flex-wrap: wrap;
     gap: 0.15rem 0.5rem;
     align-items: center;
     padding: 0.5rem 0.65rem;
@@ -274,14 +273,12 @@ body .markdown-section {
 }
 
 .markdown-section .team-role-label {
+    flex: 1 1 6.5rem;
+    min-width: 0;
     color: #1f2933;
     font-size: 0.88rem;
     font-weight: 700;
-}
-
-.markdown-section .team-role-time {
-    grid-column: 2;
-    margin: 0;
+    overflow-wrap: anywhere;
 }
 
 .markdown-section .team-photo {
@@ -426,7 +423,6 @@ body .markdown-section {
     .markdown-section .team-person p,
     .markdown-section .team-workshops p:last-child,
     .markdown-section .team-role-label,
-    .markdown-section .team-role-time,
     .markdown-section .team-photo-placeholder {
         color: #B2B4B4;
     }

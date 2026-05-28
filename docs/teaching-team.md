@@ -132,12 +132,10 @@ Each workshop has one primary TA and one support TA.
       <div class="team-role team-role-primary">
         <span class="team-role-section">D0A</span>
         <span class="team-role-label">Primary TA</span>
-        <span class="team-role-time">Thu 16:00-18:00</span>
       </div>
       <div class="team-role team-role-support">
         <span class="team-role-section">D0B</span>
         <span class="team-role-label">Support TA</span>
-        <span class="team-role-time">Thu 18:00-20:00</span>
       </div>
     </div>
     <p role="cell">Cognitive Systems student in the Arts Psychology stream. Mike has lived in South Korea, France, Greece, the U.A.E., and Canada for at least two years each.</p>
@@ -156,7 +154,6 @@ Each workshop has one primary TA and one support TA.
       <div class="team-role team-role-support">
         <span class="team-role-section">D0A</span>
         <span class="team-role-label">Support TA</span>
-        <span class="team-role-time">Thu 16:00-18:00</span>
       </div>
     </div>
     <p role="cell">Chinmay took CPSC 344 and 444 last academic year and is graduating from Integrated Sciences with a focus on HCI. He was TAed by Andy in 344 and Rubia in 444 which inspired him to TA 344 this year.</p>
@@ -175,7 +172,6 @@ Each workshop has one primary TA and one support TA.
       <div class="team-role team-role-primary">
         <span class="team-role-section">D0B</span>
         <span class="team-role-label">Primary TA</span>
-        <span class="team-role-time">Thu 18:00-20:00</span>
       </div>
     </div>
     <p role="cell">Computer Science student with a minor in Commerce. Kris survived a hurricane and an earthquake to see BLACKPINK.</p>
@@ -194,12 +190,10 @@ Each workshop has one primary TA and one support TA.
       <div class="team-role team-role-primary">
         <span class="team-role-section">D0C</span>
         <span class="team-role-label">Primary TA</span>
-        <span class="team-role-time">Fri 10:00-12:00</span>
       </div>
       <div class="team-role team-role-support">
         <span class="team-role-section">D0D</span>
         <span class="team-role-label">Support TA</span>
-        <span class="team-role-time">Fri 12:00-14:00</span>
       </div>
     </div>
     <p role="cell">Andy is completing an M.A.Sc. in Biomedical Engineering and enjoys making coffee drinks, cocktails, matcha, and other drinks.</p>
@@ -218,7 +212,6 @@ Each workshop has one primary TA and one support TA.
       <div class="team-role team-role-support">
         <span class="team-role-section">D0C</span>
         <span class="team-role-label">Support TA</span>
-        <span class="team-role-time">Fri 10:00-12:00</span>
       </div>
     </div>
     <p role="cell">Rubia is a fourth-year PhD student in the SPIN Lab researching HCI, affective haptics, and machine learning.</p>
@@ -237,12 +230,10 @@ Each workshop has one primary TA and one support TA.
       <div class="team-role team-role-primary">
         <span class="team-role-section">D0D</span>
         <span class="team-role-label">Primary TA</span>
-        <span class="team-role-time">Fri 12:00-14:00</span>
       </div>
       <div class="team-role team-role-support">
         <span class="team-role-section">D0E</span>
         <span class="team-role-label">Support TA</span>
-        <span class="team-role-time">Fri 14:00-16:00</span>
       </div>
     </div>
     <p role="cell">Jessica recently graduated with a B.Sc. in Cognitive Systems in the Psychology stream and has traveled to four countries in Asia in the last year.</p>
@@ -261,7 +252,6 @@ Each workshop has one primary TA and one support TA.
       <div class="team-role team-role-primary">
         <span class="team-role-section">D0E</span>
         <span class="team-role-label">Primary TA</span>
-        <span class="team-role-time">Fri 14:00-16:00</span>
       </div>
     </div>
     <p role="cell">CC is studying Cognitive Systems in the Psychology stream and has encountered Gestalt psychology four times at UBC: once in first-year Music Theory class, twice in different Psychology courses, and once in CPSC 344!</p>
