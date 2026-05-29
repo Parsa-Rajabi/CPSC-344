@@ -55,7 +55,7 @@ If your group is using co-working time to discuss team process, conflict, roles,
     <p role="cell">ICCS X337</p>
     <p role="cell">Jessica</p>
     <div class="team-workshops" role="cell">
-      <p class="team-section-tags"><span>D0E</span></p>
+      <p class="team-section-tags"><span>D0D</span><span>D0E</span></p>
       <p>Fri 14:00-16:00</p>
     </div>
   </div>
