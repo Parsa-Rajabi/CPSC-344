@@ -115,6 +115,7 @@ Use the following formatting:
 - **Spacing:** single-spaced or 1.15-spaced
 - **Captions and tables:** 9 pt minimum
 - **Visuals:** clear and legible when printed at 8.5 x 11 inches (normal paper size). Add annotations or labels as needed to ensure clarity when printed at this size.
+- **Appendix references:** where relevant, reference the appendix in-text (e.g., "see Appendix A.1").
 - **File format:** PDF, unless otherwise stated by the teaching team
 
 Do not shrink font sizes, margins, spacing, figures, or tables to fit more content into the page limit.
