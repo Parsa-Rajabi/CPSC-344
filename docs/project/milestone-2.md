@@ -101,7 +101,7 @@ Your report must include the following study documents:
 
 <div class="required-study-materials" markdown="1">
 
-<a class="study-material-card" href="https://docs.google.com/document/d/1U0UkV55jduFoAttqm8nHNbhiKKNKzOh4/edit?usp=sharing&ouid=108685589802336152892&rtpof=true&sd=true">
+<a class="study-material-card" href="https://docs.google.com/document/d/1U0UkV55jduFoAttqm8nHNbhiKKNKzOh4/edit?usp=sharing">
   <strong>CPSC 344 - Consent Form</strong>
   <span>Copy the template and edit it to fit your study.</span>
 </a>
