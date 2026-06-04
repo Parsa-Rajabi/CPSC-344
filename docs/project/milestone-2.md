@@ -2,7 +2,7 @@
 
 ## Changelog
 
-- June 3: Added template link and added Ethical Considerations.
+- June 4: Added template link and added Ethical Considerations.
 - May 24: Updated page readability and added policy reminders.
 - May 23: Replaced Changes Since Milestone 1 with Design Decision Log.
 - May 13: Added TCPS Ethics Certification prerequisite and late penalty notice.
@@ -11,9 +11,6 @@
 ## Overview
 
 In this milestone, your team will move from an initial project direction to an evidence-based design requirements report.
-
-> [!WARNING]
-> Each student must complete and submit the [TCPS Ethics Certification](project/ethics-certification.md) before participating in any course project work. Late or missing certification submissions result in a 1-point deduction from the student's Milestone 2 peer evaluation score for each 24-hour period after the certification deadline, with no maximum cap, until the certification is both completed and submitted.
 
 In Project Milestone 1, your team pitched a human need, design problem, or design opportunity that your team believed was worth investigating. You also identified reference designs, early design considerations, research questions, and possible need-finding methods.
 
@@ -68,23 +65,58 @@ Your report should include:
 10. Appendix
 
 ## Ethical Considerations for Studies
-- Participant Inclusion/Exclusion Criteria: in this first study, participants can consist entirely of other CPSC344 students. Please write down who you would have wanted to recruit in an ideal case. 
-  - You can only recruit participants that are 19+, or 17+ if they are UBC students. 
-- Modality: for this case, all studies will happen in-person during CPSC344 lectures next week. Should you need additional study participants, they would need to happen outside of class time.
-- Duration: for this case, your study should be around 30 minutes. 
-- Data Collection and Storage: How will you collect and store data? Note that according to CPSC344’s ethics plan, data can never be collected or stored using online services hosted outside of Canada. That means:
-  - Only use your UBC email to receive consent forms.
-  - Questionnaires must be hosted through UBC Qualtrics.
-  - If screen-recording using Zoom, you must use a UBC Zoom account.
-    - You can email av.helpdesk@ubc.ca asking for access to UBC Zoom account WITH YOUR INSTRUCTOR IN CC
-  - Cloud data storage should only be done on UBC OneDrive.
-    - Automated transcription of audio is allowed, but only through UBC OneDrive’s built-in transcription software. 
-   Explain clearly how you will follow these restrictions.
 
-You will also need to add these additional documents for your report:
-- [Consent form](https://docs.google.com/document/d/1U0UkV55jduFoAttqm8nHNbhiKKNKzOh4/edit?usp=sharing&ouid=108685589802336152892&rtpof=true&sd=true) (copy from template, edit to fit your study)
-- [Call for Participation](https://docs.google.com/document/d/1SP_V32lLen69X_9Oa16AGeZnZkW6xY3r/edit?usp=sharing&ouid=108685589802336152892&rtpof=true&sd=true) (copy from template, edit to fit your study)
-- [Adherence to 344 Ethics Protocol](https://docs.google.com/document/d/1xuNeaHFzao-en0kRA51Aiob6dK-S-Xc1c0-jaAkpa40/edit?usp=drive_link) (copy and ALL TEAM MEMBERS MUST SIGN)
+Your Need-Finding Study section must explain how your team will conduct the study ethically and in line with the CPSC 344 ethics protocol. Include the following information:
+
+- **Participant inclusion and exclusion criteria:** For this first study, participants may consist entirely of other CPSC 344 students. Also describe who your team would ideally recruit if you had more time, access, and flexibility.
+  - You may only recruit participants who are 19 or older, or participants who are 17 or older if they are UBC students.
+- **Modality:** For this milestone, studies will happen in person during lecture. If your team needs additional participants, those study sessions must happen outside of class time.
+- **Duration:** Your study should take approximately 30 minutes per participant.
+- **Data collection and storage:** Explain how your team will collect and store data. Under CPSC 344's ethics plan, participant data must not be collected or stored using online services hosted outside Canada. This means:
+  - Use only your UBC email to receive consent forms.
+  - Host questionnaires only through UBC Qualtrics.
+  - If you screen-record using Zoom, use a UBC Zoom account.
+    - You can email av.helpdesk@ubc.ca to ask for access to a UBC Zoom account, please make sure to CC `cpsc344-staff@cs.ubc.ca` in your email.
+  - Use UBC OneDrive for cloud storage.
+    - Automated transcription of audio is allowed only through UBC OneDrive's built-in transcription software.
+
+## Participant Recruitment Targets
+
+Plan your study size based on your group size and the level of evidence your team is aiming for. The recommended recruitment ranges are:
+
+| Group Size | Recommended Recruitment Range |
+| :--------: | :---------------------------: |
+| 3 students | 5-6 participants |
+| 4 students | 6-8 participants |
+| 5 students | 8-10 participants |
+| 6 students | 9-12 participants |
+
+As a grading guideline, **2 participants per team member** is the target for work that exceeds expectations. **1 participant per team member** meets expectations. Fewer than 1 participant per team member is below expectations.
+
+We recommend that students get more exposure to running studies by recruiting and conducting more study sessions where feasible. However, each group should discuss its own goals, time commitment, and bandwidth, then choose a recruitment plan that matches the grade range the group is aiming for.
+
+### Required Study Materials
+
+Your report must include the following study documents:
+
+<div class="required-study-materials" markdown="1">
+
+<a class="study-material-card" href="https://docs.google.com/document/d/1U0UkV55jduFoAttqm8nHNbhiKKNKzOh4/edit?usp=sharing&ouid=108685589802336152892&rtpof=true&sd=true">
+  <strong>CPSC 344 - Consent Form</strong>
+  <span>Copy the template and edit it to fit your study.</span>
+</a>
+
+<a class="study-material-card" href="https://docs.google.com/document/d/1SP_V32lLen69X_9Oa16AGeZnZkW6xY3r/edit?usp=sharing&ouid=108685589802336152892&rtpof=true&sd=true">
+  <strong>CPSC 344 - Call for Participation</strong>
+  <span>Copy the template and edit it to fit your recruitment plan.</span>
+</a>
+
+<a class="study-material-card study-material-card-critical" href="https://docs.google.com/document/d/1xuNeaHFzao-en0kRA51Aiob6dK-S-Xc1c0-jaAkpa40/edit?usp=drive_link">
+  <strong>CPSC 344 - Ethics Protocol Adherence Agreement</strong>
+  <span>Copy the template. All team members must sign it.</span>
+</a>
+
+</div>
 
 ## Submission
 
@@ -101,7 +133,7 @@ Refer to the [peer evaluation information page](project-peer-evaluation.md) and 
 
 ## Accessing the Project Template
 
-The template is a Google Doc: [M1 Project Template](https://docs.google.com/document/d/1SwoO5VjfzaKE9CHBIn59X6sS6D1I9-CTzMKa5iltUkc/edit?tab=t.0). Your team is expected to select **File → Make a copy** and work from your own copy.
+The template is a Google Doc: [M2 Project Template](https://docs.google.com/document/d/1SwoO5VjfzaKE9CHBIn59X6sS6D1I9-CTzMKa5iltUkc/edit?tab=t.0). Your team is expected to select **File → Make a copy** and work from your own copy.
 
 ![gDocs-make-a-copy](../assets/images/gDocs-make-a-copy.png)
 
