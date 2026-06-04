@@ -22,6 +22,8 @@
   - [Milestone 4](project/milestone-4.md)
   - [Demo Showcase](project/demo-showcase.md)
 
+- [Extra Resources](extra-resources.md)
+
 - **Support**
   - [Teaching Team](teaching-team.md)
   - [Feedback](feedback.md)
