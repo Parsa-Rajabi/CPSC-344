@@ -18,6 +18,8 @@ Across the project, your team will move through the following stages:
 
 The project is designed to help you practice the full arc of HCI work, from early problem framing to evidence-based design recommendations.
 
+For optional references that may help with research questions, need-finding, evaluation metrics, prototyping tools, and design examples, see [Extra Resources](extra-resources.md).
+
 ## Project Pages
 
 > [!NOTE]

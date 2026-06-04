@@ -23,6 +23,7 @@
   - [Demo Showcase](project/demo-showcase.md)
 
 - **Support**
+  - [Extra Resources](extra-resources.md)
   - [Teaching Team](teaching-team.md)
   - [Feedback](feedback.md)
   - [Email Etiquette](email-etiquette.md)

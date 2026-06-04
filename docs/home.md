@@ -3,6 +3,8 @@
 > [!NOTE]
 > This is a tentative schedule for the course. It is subject to change as the term progresses. Please check back regularly for updates.
 
+Looking for optional readings, design examples, research-method references, or tool links? See [Extra Resources](extra-resources.md).
+
 ## Changelog
 
 - May 27: Updated deadlines for project milestone deliverables after break, Milestone 3 onward, by 1 week.
