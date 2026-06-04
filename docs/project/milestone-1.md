@@ -4,6 +4,7 @@
 > This milestone is still in development and subject to change as rubrics and templates are finalized. The information below is meant to give you a general sense of what this milestone will be about, but please check back for updates. This banner will be removed once the milestone description is finalized.
 
 ## Changelog
+- June 3: Added the project M1 rubric.
 - May 28: Added project M1 [template link](#accessing-the-project-template) and instructions for accessing it.
 - May 24: Updated page readability and added policy reminders.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
@@ -276,3 +277,81 @@ This method is useful because it helps us understand the reasoning, confusion, a
 
 </details>
 
+## Rubric
+
+<details class="rubric">
+<summary><strong>Exceeds Expectations (5 points)</strong></summary>
+
+**1. Frame the Need, Stakeholders, & Context (20 points)**  
+The human need is specific, convincing, scoped for a term project, and design-independent. All relevant stakeholders are clearly identified and justified, with the primary stakeholders indicated. The context is specific enough to scope an investigation.
+
+**2. Critique of Reference Designs (20 points)**  
+Both reference designs are distinct, clearly described and critiqued, and highly relevant to the need. Three design considerations per design are identified with succinct labels. Each consideration explains clearly how the design succeeds or falls short. At least two of the three considerations per design go beyond simple visual changes.
+
+**3. Need-Finding Research Questions (25 points)**  
+Three research questions are relevant to the need, distinct, and directly informed by the reference design critiques. They are diverse in scope (open-ended and specific) and scoped to pre-design discovery, meaning each question targets stakeholder behaviours, contexts, and pain-points, not solution opinions.
+
+**4. Plan Need-Finding Methods (25 points)**  
+Two methods (observation, interview, questionnaire) are concisely described and are appropriate for the research questions. Justification explains specifically why each method yields the right data and how the methods complement each other for this problem. The method-research question table is complete and shows a clear, logical link to specific data.
+
+**5. Presentation & Team Coordination (10 points)**  
+The presentation is within the time limit. Slides are clear, uncluttered, and use visuals effectively. It follows all template instructions, e.g., required length, conciseness when applicable, presented with visuals, etc. All members speak with equitable time. The team coordinates well to produce a strong presentation and Q&A (e.g., have practiced, seamless transitions, function as a single, unified pitch, etc.).
+
+</details>
+<details class="rubric">
+<summary><strong>Meets Expectations (3 points)</strong></summary>
+
+**1. Frame the Need, Stakeholders, & Context (12 points)**  
+There are minor problems in only one of the following cases: 1) The human need is clear, appropriately scoped, but not entirely design-independent (i.e., it hints at a solution). 2) Stakeholders are mostly identified and justified, with primary stakeholders correctly recognized, but is missing a crucial non-primary stakeholder. 3) The context is described but is either not specific enough or overly specific for this investigation.
+
+**2. Critique of Reference Designs (12 points)**  
+There are minor problems in only one of the following cases: 1) Two reference designs presented, but they are not be entirely distinct. 2) One reference design isn't highly relevant to the human need. 3) Three design considerations per design are identified, but at least one and no more than two considerations does not explain how the design succeeds or falls short. 4) Only one consideration in each design go beyond surface-level visual critique.
+
+**3. Need-Finding Research Questions (15 points)**  
+There are minor problems in only one of the following cases: 1) Three questions are relevant and connect to the design considerations, but two of them are not entirely distinct. 2) One question is not open-ended or specific. 3) One question is not scoped to pre-design stage.
+
+**4. Plan Need-Finding Methods (15 points)**  
+There are minor problems in only one of the following cases: 1) Two appropriate methods are chosen but not clearly described. 2) Justification explains why each is a reasonable choice with connection to the problem but not how they complement each other. 3) The method-question table is mostly complete with a logical relationship, but is missing important information in one cell.
+
+**5. Presentation & Team Coordination (6 points)**  
+There are minor problems in only one of the following cases: 1) The presentation is over the time limit by no more than 30 seconds. 2) Slides are mostly organized with appropriate visuals, with some minor distracting features. 3) It misses only one template instructions. 4) The presentation is coordinated and unified, but not all members speak with reasonably distributed time.
+
+</details>
+<details class="rubric">
+<summary><strong>Approaches Expectations (1 point)</strong></summary>
+
+**1. Frame the Need, Stakeholders, & Context (4 points)**  
+There are more than one minor problem, or it has a major flaw in one of the following cases that makes the revision difficult: 1) The human need is stated but may lack specificity, clear rationale, or is prescribing a solution. 2) Stakeholders are mentioned but may be incomplete, vague, or poorly justified. The primary stakeholders may be incorrectly identified. 3) The context lacks important details to scope investigation.
+
+**2. Critique of Reference Designs (4 points)**  
+There are more than one minor problems, or it has one major flaw in one of the following cases that makes the revision difficult: 1) The two reference designs are highly similar. 2) Only two design considerations per design are identified. 3) Explanations for design considerations or critique of reference designs are vague or superficial. 4) Critique relies entirely on visual observations.
+
+**3. Need-Finding Research Questions (5 points)**  
+There are more than one minor problem, or it has a major flaw in only one of the following cases that makes revision difficult: 1) The three research questions are related. 2) The questions do not connect to the design considerations. 3) Two questions are not open-ended or specific. 4) Two questions are not scoped to pre-design stage. 5) Only two suitable research questions are provided.
+
+**4. Plan Need-Finding Methods (5 points)**  
+There are more than one minor problem, or it has a major flaw in only one of the following cases that make the revision difficult: 1) Methods are vaguely described or poorly matched to questions. 2) Justification is generic and does not explain why each is suitable. 3) The method-question table is clearly incomplete or show weak links between methods and data.
+
+**5. Presentation & Team Coordination (2 points)**  
+There are more than one minor problem, or it has a major flaw in only one of the following cases that makes revision difficult: 1) The presentation is over the time limit by at least 30 seconds but no longer than 2 minutes. 2) Slides are cluttered, text-heavy, or have ineffective visuals. 3) It missed more than one but no more than three template instructions. 4) Speaking time is clearly uneven between members. 5) The presentation and Q&A feel uncoordinated and not unified.
+
+</details>
+<details class="rubric">
+<summary><strong>Not Demonstrated (0 points)</strong></summary>
+
+**1. Frame the Need, Stakeholders, & Context (0 points)**  
+There are more than one major flaws, or it meets one or more of the following cases: 1) The human need is missing. 2) Stakeholders are absent and/or not identified. 3) The context is missing.
+
+**2. Critique of Reference Designs (0 points)**  
+There are more than one major flaws, or it meets one or more of the following cases: 1) Reference designs are missing, only one provided, or irrelevant. 2) Considerations are absent, unlabelled, or fail to explain success or shortfall. 3) No critique of reference designs provided.
+
+**3. Need-Finding Research Questions (0 points)**  
+There are more than one major flaw, or no more than one suitable research question provided.
+
+**4. Plan Need-Finding Methods (0 points)**  
+There are more than one major flaw, or it meets one of more of the following cases: 1) Methods are missing, only one provided, or not from the specified set. 2) Descriptions or justifications are absent or irrelevant. 3) The method-question table is absent or illogical.
+
+**5. Presentation & Team Coordination (0 points)**  
+There are more than one major flaw, or it meets one or more of the following: 1) The presentation is very significantly over time by more than 2 minutes. 2) Slides are missing, inappropriate, or highly distracting. 3) More than three template instructions are not followed. 4) At least one member does not speak during the presentation. 5) The presentation is clearly unprepared.
+
+</details>
