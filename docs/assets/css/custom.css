@@ -179,6 +179,72 @@ body .markdown-section {
     box-shadow: 0 0.55rem 1.3rem rgba(0, 33, 69, 0.25);
 }
 
+.markdown-section .required-study-materials {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.85rem;
+    margin: 1rem 0 1.5rem;
+}
+
+.markdown-section .study-material-card {
+    position: relative;
+    display: block;
+    min-height: 8.5rem;
+    padding: 2.25rem 1rem 1rem;
+    border: 2px solid rgba(3, 116, 181, 0.45);
+    border-top: 0.35rem solid #0374B5;
+    border-radius: 8px;
+    color: #1f2933 !important;
+    text-decoration: none !important;
+    background: #f5fbff;
+    box-shadow: 0 0.25rem 0.85rem rgba(0, 33, 69, 0.12);
+}
+
+.markdown-section .study-material-card::before {
+    content: "Required";
+    position: absolute;
+    top: 0.7rem;
+    left: 1rem;
+    padding: 0.15rem 0.45rem;
+    border-radius: 999px;
+    color: #fff;
+    font-size: 0.74rem;
+    font-weight: 700;
+    line-height: 1.25;
+    background: #0374B5;
+}
+
+.markdown-section .study-material-card strong {
+    display: block;
+    margin-bottom: 0.45rem;
+    color: #002145 !important;
+    font-size: 1.03rem;
+}
+
+.markdown-section .study-material-card span {
+    display: block;
+    color: #394b59;
+    font-size: 0.94rem;
+    line-height: 1.35;
+}
+
+.markdown-section .study-material-card:hover,
+.markdown-section .study-material-card:focus {
+    border-color: rgba(0, 33, 69, 0.75);
+    box-shadow: 0 0.35rem 1rem rgba(0, 33, 69, 0.2);
+    transform: translateY(-1px);
+}
+
+.markdown-section .study-material-card-critical {
+    border-color: rgba(122, 31, 31, 0.5);
+    border-top-color: #7a1f1f;
+    background: #fff7f7;
+}
+
+.markdown-section .study-material-card-critical::before {
+    background: #7a1f1f;
+}
+
 .markdown-section .team-directory {
     display: grid;
     gap: 0;
@@ -456,6 +522,10 @@ body .markdown-section {
         padding-right: 14px;
     }
 
+    .markdown-section .required-study-materials {
+        grid-template-columns: 1fr;
+    }
+
     .markdown-section .team-person {
         grid-template-columns: 80px 1fr;
     }
@@ -568,6 +638,38 @@ body .markdown-section {
     .markdown-section h2#accessing-the-project-template + p + p img {
         border-color: rgba(111, 177, 231, 0.6);
         box-shadow: 0 0.55rem 1.3rem rgba(0, 0, 0, 0.5);
+    }
+
+    .markdown-section .study-material-card {
+        color: #D7E9FA !important;
+        border-color: rgba(111, 177, 231, 0.55);
+        border-top-color: #6FB1E7;
+        background: #182430;
+        box-shadow: 0 0.25rem 0.85rem rgba(0, 0, 0, 0.35);
+    }
+
+    .markdown-section .study-material-card::before {
+        color: #061018;
+        background: #6FB1E7;
+    }
+
+    .markdown-section .study-material-card strong {
+        color: #D7E9FA !important;
+    }
+
+    .markdown-section .study-material-card span {
+        color: #B2B4B4;
+    }
+
+    .markdown-section .study-material-card-critical {
+        border-color: rgba(255, 156, 156, 0.6);
+        border-top-color: #ff9c9c;
+        background: #2a1d21;
+    }
+
+    .markdown-section .study-material-card-critical::before {
+        color: #1c0f12;
+        background: #ffb3b3;
     }
 }
 
