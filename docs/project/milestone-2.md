@@ -2,7 +2,7 @@
 
 ## Changelog
 
-- June 4: Added template link and added Ethical Considerations.
+- June 4: Added template link and Ethical Considerations section.
 - May 24: Updated page readability and added policy reminders.
 - May 23: Replaced Changes Since Milestone 1 with Design Decision Log.
 - May 13: Added TCPS Ethics Certification prerequisite and late penalty notice.
