@@ -106,7 +106,7 @@ Your report must include the following study documents:
   <span>Copy the template and edit it to fit your study.</span>
 </a>
 
-<a class="study-material-card" href="https://docs.google.com/document/d/1SP_V32lLen69X_9Oa16AGeZnZkW6xY3r/edit?usp=sharing&ouid=108685589802336152892&rtpof=true&sd=true">
+<a class="study-material-card" href="https://docs.google.com/document/d/1SP_V32lLen69X_9Oa16AGeZnZkW6xY3r/edit?usp=sharing">
   <strong>CPSC 344 - Call for Participation</strong>
   <span>Copy the template and edit it to fit your recruitment plan.</span>
 </a>
