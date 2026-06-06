@@ -4,6 +4,7 @@
 > This milestone is still in development and subject to change as rubrics and templates are finalized. The information below is meant to give you a general sense of what this milestone will be about, but please check back for updates. This banner will be removed once the milestone description is finalized.
 
 ## Changelog
+
 - June 3: Added the project M1 rubric.
 - May 28: Added project M1 [template link](#accessing-the-project-template) and instructions for accessing it.
 - May 24: Updated page readability and added policy reminders.
