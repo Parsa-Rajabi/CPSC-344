@@ -279,6 +279,8 @@ Workshops are a key space for collaboration, feedback, and progress tracking. To
 
 Students in CPSC 344 have diverse backgrounds and learning needs. Various resources are available to help you explore topics of interest in depth, including co-working sessions, office hours, and online resources. Some students find that just attending lectures and workshops is not enough, and you are strongly advised to use the available resources. Lecture materials are there to guide your learning but not to provide exhaustive coverage of the topics. In most cases, the lecture materials will introduce concepts and provide a framework for understanding, but you will need to seek additional **hands-on learning** resources to fully grasp the material.
 
+For optional readings, design examples, research-method references, prototyping tools, and AI learning support, see the [Extra Resources](extra-resources.md) page.
+
 Note that you should not take needing to seek extra ways to practice what you've learned as a sign that you're "not good at" the material; it's simply that you need more practice. The people in the class who you see who seem to be having no trouble at all have almost certainly had more practice than you (or they're having trouble and don't show it - or both!). Don't freak out. Ask questions and use the help resources: that's what they're for.
 
 TAs and your instructor have office hours or co-working sessions. If you require an appointment, contact us with at least a few days' notice. TAs are also available during scheduled workshop times. (Note that the TAs will be prioritizing helping students in their assigned workshop). 

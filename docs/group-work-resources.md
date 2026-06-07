@@ -8,6 +8,7 @@ Use this page alongside:
 - [Group Contract Info](assets/group-resources/group-contract-info.pdf)
 - [Project Peer Evaluation](project-peer-evaluation.md)
 - [Importance of Group Work and Participation Policy](syllabus.md#importance-of-group-work-and-participation-policy)
+- [Extra Resources](extra-resources.md) for optional references on research methods, prototyping tools, evaluation metrics, and AI learning support
 
 ## Start Here
 

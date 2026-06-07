@@ -1,11 +1,9 @@
 # Project Milestone 2: Design Requirements Report 
 
-> [!NOTE]
-> This milestone is still in development and subject to change as rubrics and templates are finalized. The information below is meant to give you a general sense of what this milestone will be about, but please check back for updates. This banner will be removed once the milestone description is finalized.
-
 ## Changelog
 
-- June 6: Added the project M2 rubric.
+- June 6: Added M2 rubric.
+- June 4: Added template link and Ethical Considerations section.
 - May 24: Updated page readability and added policy reminders.
 - May 23: Replaced Changes Since Milestone 1 with Design Decision Log.
 - May 13: Added TCPS Ethics Certification prerequisite and late penalty notice.
@@ -14,9 +12,6 @@
 ## Overview
 
 In this milestone, your team will move from an initial project direction to an evidence-based design requirements report.
-
-> [!WARNING]
-> Each student must complete and submit the [TCPS Ethics Certification](project/ethics-certification.md) before participating in any course project work. Late or missing certification submissions result in a 1-point deduction from the student's Milestone 2 peer evaluation score for each 24-hour period after the certification deadline, with no maximum cap, until the certification is both completed and submitted.
 
 In Project Milestone 1, your team pitched a human need, design problem, or design opportunity that your team believed was worth investigating. You also identified reference designs, early design considerations, research questions, and possible need-finding methods.
 
@@ -70,6 +65,60 @@ Your report should include:
 9. Design Requirements and Metrics
 10. Appendix
 
+## Ethical Considerations for Studies
+
+Your Need-Finding Study section must explain how your team will conduct the study ethically and in line with the CPSC 344 ethics protocol. Include the following information:
+
+- **Participant inclusion and exclusion criteria:** For this first study, participants may consist entirely of other CPSC 344 students. Also describe who your team would ideally recruit if you had more time, access, and flexibility.
+  - You may only recruit participants who are 19 or older, or participants who are 17 or older if they are UBC students.
+- **Modality:** For this milestone, studies will happen in person during lecture. If your team needs additional participants, those study sessions must happen outside of class time.
+- **Duration:** Your study should take approximately 30 minutes per participant.
+- **Data collection and storage:** Explain how your team will collect and store data. Under CPSC 344's ethics plan, participant data must not be collected or stored using online services hosted outside Canada. This means:
+  - Use only your UBC email to receive consent forms.
+  - Host questionnaires only through UBC Qualtrics.
+  - If you screen-record using Zoom, use a UBC Zoom account.
+    - You can email av.helpdesk@ubc.ca to ask for access to a UBC Zoom account, please make sure to CC `cpsc344-staff@cs.ubc.ca` in your email.
+  - Use UBC OneDrive for cloud storage.
+    - Automated transcription of audio is allowed only through UBC OneDrive's built-in transcription software.
+
+## Participant Recruitment Targets
+
+Plan your study size based on your group size and the level of evidence your team is aiming for. The recommended recruitment ranges are:
+
+| Group Size | Recommended Recruitment Range |
+| :--------: | :---------------------------: |
+| 3 students | 5-6 participants |
+| 4 students | 6-8 participants |
+| 5 students | 8-10 participants |
+| 6 students | 9-12 participants |
+
+As a grading guideline, **2 participants per team member** is the target for work that exceeds expectations. **1 participant per team member** meets expectations. Fewer than 1 participant per team member is below expectations.
+
+We recommend that students get more exposure to running studies by recruiting and conducting more study sessions where feasible. However, each group should discuss its own goals, time commitment, and bandwidth, then choose a recruitment plan that matches the grade range the group is aiming for.
+
+### Required Study Materials
+
+Your report must include the following study documents:
+
+<div class="required-study-materials" markdown="1">
+
+<a class="study-material-card" href="https://docs.google.com/document/d/1U0UkV55jduFoAttqm8nHNbhiKKNKzOh4/edit?usp=sharing">
+  <strong>CPSC 344 - Consent Form</strong>
+  <span>Copy the template and edit it to fit your study.</span>
+</a>
+
+<a class="study-material-card" href="https://docs.google.com/document/d/1SP_V32lLen69X_9Oa16AGeZnZkW6xY3r/edit?usp=sharing">
+  <strong>CPSC 344 - Call for Participation</strong>
+  <span>Copy the template and edit it to fit your recruitment plan.</span>
+</a>
+
+<a class="study-material-card study-material-card-critical" href="https://docs.google.com/document/d/1xuNeaHFzao-en0kRA51Aiob6dK-S-Xc1c0-jaAkpa40/edit?usp=drive_link">
+  <strong>CPSC 344 - Ethics Protocol Adherence Agreement</strong>
+  <span>Copy the template. All team members must sign it.</span>
+</a>
+
+</div>
+
 ## Submission
 
 Refer to the [course submission information page](course-submission-info.md) for the latest information on how to submit items for the course.
@@ -83,6 +132,12 @@ This milestone includes a peer evaluation component. Each team member will evalu
 
 Refer to the [peer evaluation information page](project-peer-evaluation.md) and [group work resources](group-work-resources.md) for details.
 
+## Accessing the Project Template
+
+The template is a Google Doc: [M2 Project Template](https://docs.google.com/document/d/1SwoO5VjfzaKE9CHBIn59X6sS6D1I9-CTzMKa5iltUkc/edit?tab=t.0). Your team is expected to select **File → Make a copy** and work from your own copy.
+
+![gDocs-make-a-copy](../assets/images/gDocs-make-a-copy.png)
+
 ## Formatting and Page Limits
 
 Use the following formatting:
@@ -93,6 +148,7 @@ Use the following formatting:
 - **Spacing:** single-spaced or 1.15-spaced
 - **Captions and tables:** 9 pt minimum
 - **Visuals:** clear and legible when printed at 8.5 x 11 inches (normal paper size). Add annotations or labels as needed to ensure clarity when printed at this size.
+- **Appendix references:** where relevant, reference the appendix in-text (e.g., "see Appendix A.1").
 - **File format:** PDF, unless otherwise stated by the teaching team
 
 Do not shrink font sizes, margins, spacing, figures, or tables to fit more content into the page limit.
@@ -124,80 +180,37 @@ The page limits are meant to help you prioritize. The most important parts of th
 
 Do not use the appendix to hide required content. The main report must be understandable on its own.
 
-## Page 1: Cover Page
+## Running Example
 
-Your report must begin with a cover page.
+### Page 1: Cover Page
 
-The cover page should include:
-
-- course code
-- milestone title
-- project title
-- group name or group number
-- student names
-- student IDs
-- document version
-- submission date
-
-<details>
+<details class="running-example">
 <summary><strong>Cover page example</strong></summary>
 
 > **Course:** CPSC 344  
 > **Milestone:** Project Milestone 2: Design Requirements Report  
 > **Project Title:** Supporting Waste Sorting in UBC Residence  
-> **Group:** Group A  
+> **Group:** Group Z-G0: Aliens  
 > **Version:** v1.0  
-> **Date:** June X, 2026  
+> **Date:** June XX, 2026  
 
 </details>
 
-## Page 2: Table of Contents and Design Decision Log
+### Page 2: Table of Contents and Design Decision Log
 
-The second page should include:
 
-1. A table of contents
-2. A short section called **Design Decision Log**
-
-### Design Decision Log
-
-In this section, briefly record the major design decisions your team made after Project Milestone 1.
-
-Include **2 to 4 entries**. Your entries may describe changes based on:
-
-- feedback from your workshop TA
-- feedback from classmates
-- conversations within your group
-- feasibility or access issues
-- changes in your understanding of the problem
-- changes to your research questions, methods, stakeholders, or scope
-
-Use the following table format:
+<details class="running-example">
+<summary><strong>Design Log example</strong></summary>
 
 | Decision | What changed? | Why did it change? | Evidence or feedback used |
 | :------: | :-----------: | :----------------: | :-----------------------: |
 | We narrowed our project context. | From waste sorting at UBC broadly to waste sorting in shared residence kitchens. | The original context was too broad and difficult to investigate within the course timeline. | TA feedback and access to residence students. |
 
-If your project direction did not change, include at least one entry explaining what you considered changing and why you decided to keep the current direction. If your team does not accept an important TA suggestion, you must include that decision and explain why.
+</details>
 
-The log should be concise, but specific enough that a reader can see how your team is using feedback and evidence to revise the project.
+### Section 1: Background
 
-## Section 1: Background
-
-This section must be **maximum 1 page**.
-
-Your report should assume that the reader is learning about your project for the first time. Briefly summarize the project direction from your pitch.
-
-Include the following:
-
-- the human need, design problem, or design opportunity
-- stakeholders and context
-- reference designs
-- early design considerations from Project Milestone 1
-- three research questions
-
-Use subheadings as needed.
-
-<details>
+<details class="running-example">
 <summary><strong>Example background structure</strong></summary>
 
 **Human Need:** A design that helps waste get sorted properly in UBC residence.
@@ -216,46 +229,12 @@ Use subheadings as needed.
 
 </details>
 
-## Section 2: Need-Finding Study
+### Section 2: Need-Finding Study
 
-This section must be **maximum 0.5 page**.
+### Section 3: Results
 
-Briefly describe the study your team conducted.
 
-Include:
-
-- methods used
-- participant inclusion/exclusion criteria, in the ideal case
-- participant sample description, meaning who you actually collected data from
-- brief protocol summary
-- list of collected data and which research question each data source addressed
-
-Your methods may include:
-
-- observation
-- interview
-- questionnaire
-
-Keep this section concise. Detailed instruments, scripts, questionnaires, or observation sheets should go in the appendix.
-
-If you changed your protocol because of feedback, piloting, feasibility, or access issues, summarize that change briefly here or refer back to your **Design Decision Log**.
-
-## Section 3: Results
-
-This section must be **maximum 1 page**.
-
-For each research question, present:
-
-- the claim you are making based on the data
-- the evidence that supports the claim
-- your confidence in the claim
-- any limitations affecting validity or generalizability
-
-If your data is insufficient to answer a research question, say so directly and explain why.
-
-<div class="accordion">
-
-<details>
+<details class="running-example">
 <summary><strong>Example result</strong></summary>
 
 **RQ:** How often do students have difficulty sorting their trash?
@@ -268,7 +247,7 @@ If your data is insufficient to answer a research question, say so directly and 
 
 </details>
 
-<details>
+<details class="running-example">
 <summary><strong>Example of an insufficient finding</strong></summary>
 
 **RQ:** What does the waste sorting system currently look like in UBC residences?
@@ -277,56 +256,13 @@ If your data is insufficient to answer a research question, say so directly and 
 
 </details>
 
-</div>
 
-## Section 4: Plots, Diagrams, and/or Tables
+### Section 4: Plots, Diagrams, and/or Tables
 
-This section must be **maximum 1 page**.
 
-Include visualizations that help explain your results. These may include:
+### Section 5: User Scenarios and Task Analysis
 
-- charts
-- tables
-- graphs
-- affinity diagrams
-- coding summaries
-- word clouds
-- task flow diagrams
-- comparison tables
-
-Each visualization should:
-
-- be labelled clearly, such as “Figure 1” or “Table 1”
-- include a one-sentence caption
-- be referenced in the Results section
-- support a specific finding
-
-Do not include visuals that are not discussed in the report.
-
-## Section 5: User Scenarios and Task Analysis
-
-This section must be **maximum 1.5 pages**.
-
-### User Scenarios
-
-Include **two user scenarios**.
-
-A user scenario is a short narrative that describes a user, their need, their context, and the situation in which the need occurs.
-
-Each scenario should include:
-
-- who the user is
-- what they are trying to do
-- the context they are in
-- what motivates them
-- what makes the situation difficult
-- why the need matters in that moment
-
-The two scenarios should be meaningfully different from each other. The general need may be similar, but the hypothetical user, motivation, context, or constraints should change significantly.
-
-<div class="accordion">
-
-<details>
+<details class="running-example">
 <summary><strong>Partial user scenario example</strong></summary>
 
 Given the need of “purchase book”:
@@ -337,15 +273,8 @@ Given the need of “purchase book”:
 
 </details>
 
-### Task Analysis
 
-For each user scenario, list the tasks the user would need to complete to address their need.
-
-Write these as step-by-step task lists. Focus on what the user is trying to accomplish, not on the interface your team wants to build.
-
-You may include examples of existing tools or interfaces in brackets, but do not turn the task analysis into a solution proposal.
-
-<details>
+<details class="running-example">
 <summary><strong>Partial task analysis example for Tidus</strong></summary>
 
 - browse books, such as at Indigo or on the VPL website
@@ -357,7 +286,7 @@ You may include examples of existing tools or interfaces in brackets, but do not
 
 </details>
 
-<details>
+<details class="running-example">
 <summary><strong>Partial task analysis example for Yuna</strong></summary>
 
 - find a specific book by title or ISBN
@@ -370,32 +299,10 @@ You may include examples of existing tools or interfaces in brackets, but do not
 
 </details>
 
-</div>
 
-## Section 6: Central Tasks
+### Section 6: Central Tasks
 
-This section must be **maximum 0.5 page**.
-
-Choose and describe **two central tasks**.
-
-A central task is a task that the design must allow the user to perform in support of the need. These are the tasks your future design exploration will focus on.
-
-For each central task, include:
-
-- a brief label
-- a one-sentence description
-- a one-sentence justification
-
-Justification can be based on:
-
-- your study results
-- reference design critique from Project Milestone 1
-- previous work your team completed
-- a reasoned judgment call made by your team
-
-Each user scenario should be relevant to at least one central task.
-
-<details>
+<details class="running-example">
 <summary><strong>Central task example</strong></summary>
 
 **Central Task: Narrow Down**  
@@ -408,68 +315,9 @@ A user is trying to check important details for a book before purchasing it.
 
 </details>
 
-## Section 7: Design Requirements and Metrics
+### Section 7: Design Requirements and Metrics
 
-This section must be **maximum 1 page**.
-
-List **five distinct design requirements**.
-
-Your requirements should collectively address both central tasks. Each central task must have at least **two connected requirements**.
-
-Your five requirements must include:
-
-- at least **two design constraints**
-- at least **two design goals**
-- one additional requirement that may be either a design constraint or a design goal
-
-### Design Constraints
-
-Design constraints describe functions, circumstances, or conditions that a design must, could, or should support.
-
-Consider different kinds of constraints, such as:
-
-- functional constraints
-- environmental constraints
-- data constraints
-- user characteristic constraints
-
-### Design Goals
-
-Design goals describe what would make a design good at supporting the user’s completion of the central task.
-
-Consider goals related to:
-
-- usability
-- user experience
-- clarity
-- efficiency
-- accessibility
-- trust
-- satisfaction
-
-### For Each Requirement
-
-For each requirement, include:
-
-- a brief label
-- whether it is a design constraint or design goal
-- a one-sentence description
-- the central task or tasks it connects to
-- a one-sentence justification based on study results, reference design critique, or clear reasoning
-- one or more metrics
-
-A metric specifies how to verify whether a design satisfies the constraint or goal.
-
-Metrics may be:
-
-- **heuristic-based**, meaning they can be evaluated without user testing
-- **evaluation-based**, meaning they require users to test a prototype
-
-Try to include a mix of both.
-
-If a metric is awkward or impossible to state, briefly explain why.
-
-<details>
+<details class="running-example">
 <summary><strong>Partial requirements and metrics example</strong></summary>
 
 **Central Task: Narrow Down**
@@ -501,7 +349,7 @@ Users must be able to see the full price of the book, including shipping fees an
 
 </details>
 
-## Requirement Quality Check
+#### Requirement Quality Check
 
 Before submitting, check that your requirements are:
 
@@ -512,7 +360,7 @@ Before submitting, check that your requirements are:
 - measurable through one or more metrics
 - not just a list of interface features
 
-<details>
+<details class="running-example">
 <summary><strong>Weak and stronger requirement examples</strong></summary>
 
 **Weak requirement**

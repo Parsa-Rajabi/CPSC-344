@@ -75,6 +75,8 @@ You remain responsible for the accuracy, quality, ethics, and originality of the
 
 Private studying with AI does not need to be disclosed unless it directly contributes to submitted work. AI is still not permitted during exams.
 
+For optional AI literacy material, see the [AI Learning Support section of Extra Resources](extra-resources.md#ai-learning-support).
+
 ---
 
 ## Acceptable AI Uses
