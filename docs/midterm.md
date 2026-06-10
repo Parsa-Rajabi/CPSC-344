@@ -2,19 +2,21 @@
 
 ## Changelog
 
+- June 10: Added the handwritten cheat sheet policy.
 - May 24: Added exam logistics, preparation guidance, attendance/concession instructions, and student support resources.
 
 ## Quick Facts
 
-| Item | Details |
-| :-- | :-- |
-| Date | Wednesday, June 17, 2026 |
-| Time | 15:30-17:30 |
-| Location | TBD |
-| Weight | 20% of the course grade |
-| Format | In person, on paper |
+| Item                   | Details                                                                                       |
+| :--------------------- | :-------------------------------------------------------------------------------------------- |
+| Date                   | Wednesday, June 17, 2026                                                                      |
+| Time                   | 15:30-17:30                                                                                   |
+| Location               | TBD                                                                                           |
+| Weight                 | 20% of the course grade                                                                       |
+| Format                 | In person, on paper                                                                           |
 | Course material cutoff | Material covered up to one week before the exam, unless the teaching team announces otherwise |
-| Required ID | UBC student ID |
+| Cheatsheet             | One letter-size page, double sided, handwritten cheat sheet                                   |
+| Required ID            | UBC student ID                                                                                |
 
 > [!TIP]
 > Plan to arrive at least **30 minutes before the exam**. There is typically a class before ours, so there may be a transition period before students are allowed into the room.
@@ -62,12 +64,13 @@ Useful UBC support links:
 
 ## What to Bring
 
-| Bring | Why |
-| :-- | :-- |
-| UBC student ID | Required for identity verification. |
-| Pencil | Required for the Scantron portion. |
-| Eraser | Required so you can correct Scantron answers cleanly. |
-| Pen, optional | You may choose to use pen for written-answer questions. |
+| Bring                             | Why                                                                       |
+| :-------------------------------- | :------------------------------------------------------------------------ |
+| UBC student ID                    | Required for identity verification.                                       |
+| Pencil                            | Required for the Scantron portion.                                        |
+| Eraser                            | Required so you can correct Scantron answers cleanly.                     |
+| Pen, optional                     | You may choose to use pen for written-answer questions.                   |
+| Handwritten cheat sheet, optional | You may bring one letter-size page, double sided. It must be handwritten. |
 
 <details>
 <summary><strong>Exam writing expectations</strong></summary>
