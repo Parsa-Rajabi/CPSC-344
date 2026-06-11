@@ -2,6 +2,7 @@
 
 ## Changelog
 
+- June 11: Added TA office hours. 
 - June 10: Added the handwritten cheat sheet policy.
 - May 24: Added exam logistics, preparation guidance, attendance/concession instructions, and student support resources.
 
@@ -11,7 +12,7 @@
 | :--------------------- | :-------------------------------------------------------------------------------------------- |
 | Date                   | Wednesday, June 17, 2026                                                                      |
 | Time                   | 15:30-17:30                                                                                   |
-| Location               | TBD                                                                                           |
+| Location               | MCLD 2018 (same room as lectures)                                                             |
 | Weight                 | 20% of the course grade                                                                       |
 | Format                 | In person, on paper                                                                           |
 | Course material cutoff | Material covered up to one week before the exam, unless the teaching team announces otherwise |
@@ -27,8 +28,10 @@
 | :-- | :-- | :-- |
 | Wednesday, June 10 | Midterm content cutoff | Course material after this point is not expected to be tested on the midterm unless announced otherwise. |
 | Monday, June 15 | Pre-midterm drop-in review | Time TBD. Use this for review questions, study support, and TA Q&A. |
+| Monday, June 15 | Pre-midterm drop-in review | 12:00 - 13:00, ICCS X360, Mike. |
 | Monday, June 15 | Regular co-working session | 13:00-14:00, ICCS X360, Mike. |
-| Tuesday, June 16 | Pre-midterm drop-in review | Time TBD. Use this for review questions, study support, and TA Q&A. |
+| Monday, June 15 | Pre-midterm drop-in review | 14:00 - 15:00, ICCS X360, Chinmay. |
+| Tuesday, June 16 | Pre-midterm drop-in review | 13:00 - 15:00, ICCS X360, Mike + Chinmay. |
 | Wednesday, June 17 | Regular co-working session | 14:00-15:00, ICCS X360, Andy. |
 | Wednesday, June 17 | Midterm exam | 15:30-17:30, location TBD. |
 | Thursday, June 18 | No workshops after the midterm | There are no workshops on June 18 or 19. |
@@ -42,6 +45,42 @@
 
 > [!IMPORTANT]
 > The midterm, Project Milestone 2, and the Milestone 2 peer evaluation are separate course requirements. They happen close together, so plan your week early and do not leave the project submission or peer evaluation until after the exam.
+
+## Office Hours
+Extra office hours to support you!
+
+<div class="team-directory team-directory-compact" role="table" aria-label="Co-working sessions">
+  <div class="team-row team-header" role="row">
+    <div role="columnheader">Day and Time</div>
+    <div role="columnheader">Location</div>
+    <div role="columnheader">TA</div>
+  </div>
+
+  <div class="team-row" role="row">
+    <p role="cell">Monday, 12-1pm</p>
+    <p role="cell">ICCS X360</p>
+    <p role="cell">Mike</p>
+  </div>
+
+  <div class="team-row" role="row">
+    <p role="cell">Monday, 2-3pm</p>
+    <p role="cell">ICCS X360</p>
+    <p role="cell">Chinmay</p>
+  </div>
+
+  <div class="team-row" role="row">
+    <p role="cell">Tuesday, 1-2pm</p>
+    <p role="cell">ICCS X360</p>
+    <p role="cell">Mike</p>
+  </div>
+
+  <div class="team-row" role="row">
+    <p role="cell">Tuesday, 2-3pm</p>
+    <p role="cell">ICCS X360</p>
+    <p role="cell">Chinmay</p>
+  </div>
+  
+</div>
 
 ## How to Prepare Well
 
