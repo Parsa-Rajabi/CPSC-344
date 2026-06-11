@@ -43,6 +43,42 @@
 > [!IMPORTANT]
 > The midterm, Project Milestone 2, and the Milestone 2 peer evaluation are separate course requirements. They happen close together, so plan your week early and do not leave the project submission or peer evaluation until after the exam.
 
+## Office Hours
+Extra office hours to support you!
+
+<div class="team-directory team-directory-compact" role="table" aria-label="Co-working sessions">
+  <div class="team-row team-header" role="row">
+    <div role="columnheader">Day and Time</div>
+    <div role="columnheader">Location</div>
+    <div role="columnheader">TA</div>
+  </div>
+
+  <div class="team-row" role="row">
+    <p role="cell">Monday, 12-1pm</p>
+    <p role="cell">ICCS X360</p>
+    <p role="cell">Mike</p>
+  </div>
+
+  <div class="team-row" role="row">
+    <p role="cell">Monday, 2-3pm</p>
+    <p role="cell">ICCS X360</p>
+    <p role="cell">Chinmay</p>
+  </div>
+
+  <div class="team-row" role="row">
+    <p role="cell">Tuesday, 1-2pm</p>
+    <p role="cell">ICCS X360</p>
+    <p role="cell">Mike</p>
+  </div>
+
+  <div class="team-row" role="row">
+    <p role="cell">Tuesday, 2-3pm</p>
+    <p role="cell">ICCS X360</p>
+    <p role="cell">Chinmay</p>
+  </div>
+  
+</div>
+
 ## How to Prepare Well
 
 The midterm is meant to assess your understanding of course ideas, not your ability to stay awake through last-minute cramming. A good preparation plan should include both studying and taking care of yourself.
