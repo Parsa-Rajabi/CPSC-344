@@ -7,6 +7,7 @@ Looking for optional readings, design examples, research-method references, or t
 
 ## Changelog
 
+- June 11: Updated the Project Milestone 2 deadline to Friday, June 26.
 - May 27: Updated deadlines for project milestone deliverables after break, Milestone 3 onward, by 1 week.
 - May 11: Initial course home page created with course overview, schedule, and key dates.
 
@@ -17,8 +18,8 @@ Looking for optional readings, design examples, research-method references, or t
 |    3     |   May 25   | Design Principles                  |    May 27     | Pre-Design Research         |          Workshop 2          | [TCPS Ethics Certification (due May 29)](project/ethics-certification.md)                                                                                                   |
 |    4     |   Jun 1    | Observation + Interviews           |     Jun 3     | Interviews + Questionnaires |          Workshop 3          | [Project Milestone 1 (due June 4 or 5 before workshop)](project/milestone-1.md)                                                                                             |
 |    5     |   Jun 8    | Data Analysis                      |    Jun 10     | Design Brief                |          Workshop 4          |                                                                                                                                                                             |
-|    6     |   Jun 15   | Data Collection                    |    Jun 17     | `Midterm Exam`              |  No workshops on Jun 18-19   | Midterm Exam (June 17, 3:30-5:30pm); [Project Milestone 2 (due June 18)](project/milestone-2.md)                                                                            |
-|    -     |   Jun 22   | No Class; Break                    |    Jun 24     | No Class; Break             |     No workshops; Break      |                                                                                                                                                                             |
+|    6     |   Jun 15   | Data Collection                    |    Jun 17     | `Midterm Exam`              |  No workshops on Jun 18-19   | Midterm Exam (June 17, 3:30-5:30pm)                                                                                                                                        |
+|    -     |   Jun 22   | No Class; Break                    |    Jun 24     | No Class; Break             |     No workshops; Break      | [Project Milestone 2 (due June 26)](project/milestone-2.md)                                                                                                                 |
 |    -     |   Jun 29   | No Class; Break                    |     Jul 1     | No Class; Break             |     No workshops; Break      |                                                                                                                                                                             |
 |    7     |   Jul 6    | Conceptual Models                  |     Jul 8     | Prototype Planning          |          Workshop 5          |                                                                                                                                                                             |
 |    8     |   Jul 13   | Mental Models                      |    Jul 15     | Cognitive Walkthrough       |          Workshop 6          | [Project Milestone 3 (due July 16 or 17 before workshop)](project/milestone-3.md)                                                                                           |

@@ -2,6 +2,7 @@
 
 ## Changelog
 
+- June 11: Updated Project Milestone 2 timing after the deadline moved to June 26.
 - June 11: Added TA office hours. 
 - June 10: Added the handwritten cheat sheet policy.
 - May 24: Added exam logistics, preparation guidance, attendance/concession instructions, and student support resources.
@@ -35,16 +36,13 @@
 | Wednesday, June 17 | Regular co-working session | 14:00-15:00, ICCS X360, Andy. |
 | Wednesday, June 17 | Midterm exam | 15:30-17:30, location TBD. |
 | Thursday, June 18 | No workshops after the midterm | There are no workshops on June 18 or 19. |
-| Thursday, June 18 | [Project Milestone 2](project/milestone-2.md) due | Due at 11:59pm PT. This deadline is separate from the midterm, but it falls on a similar timeline. |
 | Friday, June 19 | No regular co-working session | The regular Friday co-working session is not running. |
-| Friday, June 19 | [Milestone 2 peer evaluation](project-peer-evaluation.md) reminder | Complete the Milestone 2 peer evaluation by the posted deadline. This is separate from the midterm and Milestone 2 submission, but it is part of the same project timeline. |
+| Friday, June 26 | [Project Milestone 2](project/milestone-2.md) due | Due at 11:59pm PT. (Extended from June 18) |
 | Week of July 6 | Midterm grades and viewing | Grades are expected to be released during this week. Exam viewing details will be announced. |
 
 > [!NOTE]
 > Attending the pre-midterm drop-in sessions is strongly recommended, even if you do not have specific questions. These sessions are useful for studying with classmates, hearing common questions, and checking your understanding with TAs.
 
-> [!IMPORTANT]
-> The midterm, Project Milestone 2, and the Milestone 2 peer evaluation are separate course requirements. They happen close together, so plan your week early and do not leave the project submission or peer evaluation until after the exam.
 
 ## Office Hours
 Extra office hours to support you!

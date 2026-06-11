@@ -2,6 +2,7 @@
 
 ## Changelog
 
+- June 11: Updated the Milestone 2 deadline to June 26 from June 18.
 - June 10: Updated the point breakdown and criteria description for M2 rubric.
 - June 6: Added the project M2 rubric.
 - June 4: Added template link and Ethical Considerations section.
@@ -127,6 +128,8 @@ Your report must include the following study documents:
 </div>
 
 ## Submission
+
+**Deadline: Friday, June 26, 2026 at 11:59pm PT.**
 
 Refer to the [course submission information page](course-submission-info.md) for the latest information on how to submit items for the course.
 

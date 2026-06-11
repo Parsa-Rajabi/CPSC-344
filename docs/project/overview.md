@@ -29,7 +29,7 @@ For optional references that may help with research questions, need-finding, eva
 | :-----------------------------------------------------------------------: | :------------------: | :----: | :---------------------: |
 |  [TCPS Ethics Certification (individual)](project/ethics-certification.md)  |        May 29        |   -    |            -            |
 |   [Project Milestone 1: Problem Statement Pitch](project/milestone-1.md)    |      June 4 + 5      |   5%   |      For Practice       |
-|  [Project Milestone 2: Design Requirements Report](project/milestone-2.md)  |       June 18        |  15%   |         Graded          |
+|  [Project Milestone 2: Design Requirements Report](project/milestone-2.md)  |       June 26        |  15%   |         Graded          |
 |          [Project Milestone 3: Shark Tank](project/milestone-3.md)          |     July 9 + 10      |   4%   |            -            |
 |      [Project Checkpoint A: Prototyping Plan](project/checkpoint-A.md)      |     July 16 + 17     |   1%   |            -            |
 |       [Project Checkpoint B: Evaluation Plan](project/checkpoint-B.md)      |     July 23 + 24     |   1%   |            -            |
