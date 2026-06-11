@@ -18,6 +18,7 @@ Use these when you want broader context for user-centred design, everyday intera
 
 - [The Design of Everyday Things by Don Norman](https://ebookcentral.proquest.com/lib/ubc/detail.action?docID=1167019)
 - [Revamped Double Diamond: How to apply a design thinking, HCD, UX or any creative process from scratch](https://medium.com/user-experience-design-1/how-to-solve-problems-applying-a-uxdesign-designthinking-hcd-or-any-design-process-from-scratch-v2-aa16e2dd550b)
+- [Addiction by Design - Machine Gambling in Las Vegas](https://www.degruyterbrill.com/document/doi/10.1515/9780691278278/html)
 
 ## Need-Finding and Research
 
