@@ -2,6 +2,7 @@
 
 ## Changelog
 
+- June 11: Added TA office hours. 
 - June 10: Added the handwritten cheat sheet policy.
 - May 24: Added exam logistics, preparation guidance, attendance/concession instructions, and student support resources.
 
