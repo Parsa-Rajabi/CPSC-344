@@ -2,7 +2,8 @@
 
 ## Changelog
 
-- June 6: Added M2 rubric.
+- June 10: Updated the point breakdown and criteria description for M2 rubric.
+- June 6: Added the project M2 rubric.
 - June 4: Added template link and Ethical Considerations section.
 - May 24: Updated page readability and added policy reminders.
 - May 23: Replaced Changes Since Milestone 1 with Design Decision Log.
@@ -407,78 +408,97 @@ The main report must still be understandable without relying on the appendix.
 ## Rubric
 
 <details class="rubric">
-<summary><strong>Exceeds Expectations (5 points)</strong></summary>
+<summary><strong>Exceeds Expectations</strong></summary>
 
-**1. Design Decision Log & Background (15 points)**  
+**1. Design Decision Log & Background (14-15 points)**  
 The log includes 2–4 specific, insightful entries that are clearly linked to feedback or evidence. Alternatively, it features at least one detailed entry that discusses the considerations and decisions behind maintaining the project direction, if no changes were made. The background succinctly summarizes the problem statement pitch, including all required components and incorporating feedback from the pitch as needed.
 
-**2. Need-Finding Study & Results (25 points)**  
+**2. Need-Finding Study & Results (23-25 points)**  
 The study description includes sufficient information, particularly for summarizing the study protocol. In-text references are used effectively to direct readers to the appendix and/or the Design Decision Log. For exceeding expectations, the total number of participants equals twice the number of team members. The results section presents a clear claim, specific evidence, stated confidence, and insightful limitations for all three research questions. Any insufficient findings are explicitly acknowledged and explained, with at most one research question affected. Visualizations are effective, correctly referenced, and directly support the claims.
 
-**3. User Scenarios & Task Analysis (20 points)**  
-The two scenarios are highly relevant to the human need yet meaningfully different across user, motivation, context, and constraints. Each scenario includes all required elements: who, what, context, motivation, situational difficulty, and why the need matters. The task analyses are step-by-step, design-independent (not proposing a solution), and clearly linked to their respective scenarios.
+**3. User Scenarios & Task Analysis (18-20 points)**  
+The two scenarios are highly relevant to the human need yet meaningfully different across user, motivation, context, and constraints. Each scenario includes all required elements: persona (who), what, context, motivation, situational difficulty, and why the need matters. The task analyses are comprehensive, detailed, design-independent (not proposing a solution), and clearly linked to their respective scenarios. The user scenarios are obviously derived from findings in the studies.
 
-**4. Central Tasks, Design Requirements & Metrics (30 points)**  
-Two central tasks are clearly labeled, described, justified with evidence, and connected to the user scenarios. Four distinct requirements (one constraint, two goals, and one additional requirement) address both central tasks. In other words, each task has at least two associated requirements. The requirements are design-independent, specific, grounded in evidence or clear reasoning, and include one or more specific metrics. These metrics are measurable, appropriate, and represent a mix of heuristic and evaluation-based approaches.
+**4. Central Tasks, Design Requirements & Metrics (27-30 points)**  
+Two central tasks are clearly labelled, described, justified with evidence, and connected to the user scenarios. Four distinct requirements (one constraint, two goals, and one additional requirement) address both central tasks. In other words, each task has at least two associated requirements. The requirements are design-independent, specific, grounded in evidence or clear reasoning, and include one or more specific metrics. These metrics are measurable, appropriate, and represent a mix of heuristic and evaluation-based approaches.
 
-**5. Report Quality, Clarity, & Formatting (10 points)**  
+**5. Report Quality, Clarity, & Formatting (9-10 points)**  
 The main report body and each section (excluding the cover page, table of contents/log, and appendix) adhere to the specified page limit. All formatting rules are strictly followed. The cover page and table of contents include all required information correctly. All figures and tables have numbered labels and captions. The writing is clear, concise, and professional, with no grammatical mistakes or typos. The report is fully understandable without reference to the appendix.
 
 </details>
 <details class="rubric">
-<summary><strong>Meets Expectations (3 points)</strong></summary>
+<summary><strong>Meets Expectations</strong></summary>
 
-**1. Design Decision Log & Background (9 points)**  
-There is one minor problem in only one of the following cases: (1) The log has 2–4 entries but one is vague. (2) The entries for no changes made do not provide sufficient details about the considerations and decisions. (3) The background has a minor issue: need hints at a solution, a stakeholder is missing, or one research question is slightly redundant or not fully pre-designed. (4) TA feedback from the pitch was not incorporated, but no explanation is given in the design decision log.
+**1. Design Decision Log & Background (12-13 points)**  
+There is one minor problem in only one of the following cases: (1) The log has 2–4 entries but one is vague. (2) The entries for no changes made do not provide sufficient details about the considerations and decisions. (3) The background has a minor issue: the need is solution-oriented/implies a solution or interface, an obvious stakeholder is missing, or one research question is slightly redundant or not fully aligned with pre-design. (4) TA feedback from the pitch was not incorporated, but no explanation is given in the design decision log.
 
-**2. Need-Finding Study & Results (15 points)**  
-There is one minor problem in only one of the following: (1) The study description is vague in only one component. (2) In-text references are mostly correct but miss a few instances. (3) The total number of participants meets the minimum requirement (depends on group size), but less than twice that number. (4) One claim is vague or does not provide clear evidence. (5) The limitations could be more in-depth. (6) Insufficient findings are not acknowledged or not clearly explained. (7) All visualizations are effective but one is not referenced or supportive. (8) One visualization is ineffective.
+**2. Need-Finding Study & Results (20-22 points)**  
+There is one minor problem in only one of the following: (1) The study description is vague in only one component. (2) In-text references are mostly correct but miss a few instances. (3) The total number of participants meets the minimum requirement (depends on group size), but less than double the group size. (4) One claim is vague, does not respond to the research questions, or does not provide clear evidence. (5) The limitations could be more in-depth. (6) Insufficient findings are not acknowledged or not clearly explained. (7) All visualizations are effective but one is not referenced or supportive. (8) One visualization is ineffective.
 
-**3. User Scenarios & Task Analysis (12 points)**  
-There is a minor problem in only one of the following: 1) The two user scenarios are highly relevant but somewhat similar. 2) One user scenario is not highly relevant to the human need. 3) One scenario is missing only one required element. 4) The task analysis for one scenario has at least one but no more than two solution-oriented steps. 5) At least one but no more than two tasks is not clearly linked to one scenario. 6) Some steps for the task are not in a logical order.
+**3. User Scenarios & Task Analysis (16-17 points)**  
+There is a minor problem in only one of the following: 1) The two user scenarios are highly relevant but somewhat similar. 2) One user scenario is not highly relevant to the human need. 3) One scenario is missing only one required element. 4) The task analysis for one scenario has at least one but no more than two solution-oriented steps. 5) At least one but no more than two tasks are not clearly linked to one scenario. 6) Some steps for the task are obviously not in a logical order.
 
-**4. Central Tasks, Design Requirements & Metrics (18 points)**  
+**4. Central Tasks, Design Requirements & Metrics (24-26 points)**  
 There is a minor problem in only one of the following: 1) One central task is not clearly described, justified, or connected to the user scenarios. 2) Two design requirements are similar. 3) One design requirement is not design-independent, specific, or grounded in evidence or reasoning. 4) One central task has only one connected design requirement. 5) The metrics are not a mix of heuristic and evaluation-based approaches. 6) One metric is vague, not measurable, or not appropriate.
 
-**5. Report Quality, Clarity, & Formatting (6 points)**  
+**5. Report Quality, Clarity, & Formatting (8 points)**  
 There is a minor problem in only one of the following: 1) The main report body is over six but fewer than seven pages. 2) One section is over the page limit by no more than 1.5 times the maximum length. 3) There is at least one but no more than three minor formatting errors. 4) The cover page and table of contents contain mostly correct information with some minor oversights. 5) Figures and/or tables are missing captions. 6) There is at least one but no more than three grammatical mistakes or typos. 7) The report is mostly understandable but requires some reference to the appendix.
 
 </details>
 <details class="rubric">
-<summary><strong>Approaches Expectations (1 point)</strong></summary>
+<summary><strong>Approaches Expectations</strong></summary>
 
-**1. Design Decision Log & Background (3 points)**  
-There are more than one minor problem, or it has one major flaw in only one of the following cases that makes revision difficult: (1) The log has only 1 entry. (2) At least two but no more than three log entries are vague. (3) The background lacks clarity on need, the context is very broad, or the research questions are poorly scoped or disconnected from reference designs. (4) The background is missing one required component.
+**1. Design Decision Log & Background (10-11 points)**  
+There multiple minor problems, or one major flaw in only one of the following cases that makes revision difficult: (1) The log has only 1 entry. (2) At least two but no more than three log entries are vague. (3) The background lacks clarity on need, the context is very broad, or the research questions are poorly scoped or disconnected from reference designs. (4) The background is missing one required component.
 
-**2. Need-Finding Study & Results (5 points)**  
-There is more than one minor problem, or it has a major flaw in only one of the following that makes revision difficult: (1) The study description is vague in at least two but no more than three components. (2) In-text references are ineffective or missing. (3) The total number of participants equal the number of team member but is less than the minimum requirement. (4) More than one claim is unsupported or speculative. (5) Insufficient findings are not acknowledged. (6) Multiple visualizations are not referenced or effective.
+**2. Need-Finding Study & Results (17-20 points)**  
+There is more than one minor problem, or it has a major flaw in only one of the following that makes revision difficult: (1) The study description is vague in at least two but no more than three components. (2) In-text references are ineffective or missing. (3) The total number of participants equal to the number of team members but is less than the minimum requirement. (4) More than one claim is unsupported or speculative. (5) Insufficient findings are not acknowledged. (6) Multiple visualizations are not referenced or effective.
 
-**3. User Scenarios & Task Analysis (4 points)**  
-There is more than one minor problem, or it has a major flaw in only one of the following that makes revision difficult: 1) The two scenarios are nearly identical or very generic. 2) Neither user scenario is relevant to the human need. 3) One scenario is missing at least two but no more than three required elements. 4) The task analyses for one scenario are just feature lists. 5) Many tasks are not clearly linked to scenarios.
+**3. User Scenarios & Task Analysis (13-15 points)**  
+There is more than one minor problem, or it has a major flaw in only one of the following that makes revision difficult: 1) The two scenarios are nearly identical or very generic. 2) Neither user scenario is relevant to the human need. 3) The user scenarios contradict the research findings. 4) One scenario is missing at least two but no more than three required elements. 4) The task analyses for one scenario are just feature lists. 5) Many tasks are not clearly linked to scenarios.
 
-**4. Central Tasks, Design Requirements & Metrics (6 points)**  
+**4. Central Tasks, Design Requirements & Metrics (20-23 points)**  
 There is more than one minor problem, or it has a major flaw in only one of the following that makes revision difficult: 1) Only one central task is provided. 2) Both central tasks are not clearly described, justified, or connected to the user scenarios. 3) Only three design requirements are provided. 4) The design requirements do not include at least one constraint and two goals. 5) Three or more design requirements are similar. 6) At least two but no more than three design requirements are not design-independent, specific, or grounded in evidence or reasoning. 7) No metric is provided for at least one but no more than two design requirements. 8) At least two but no more than three metrics are vague, not measurable, or not appropriate.
 
-**5. Report Quality, Clarity, & Formatting (2 points)**  
+**5. Report Quality, Clarity, & Formatting (7 points)**  
 There is more than one minor problem, or it has a major flaw in only one of the following cases that makes revision difficult: 1) The main report body is longer than seven but no more than eight pages. 2) At least two but no more than three sections are over the page limit by no more than 1.5 times the maximum length. 3) One section is at least double the maximum length. 4) There are more than three formatting errors, but the report demonstrates an attempt to follow the guidelines. 5) The cover page or table of contents is missing. 6) Figures and/or tables are missing both the labels and captions. 7) There are at least four but fewer than ten grammatical mistakes or typos.
 
 </details>
 <details class="rubric">
-<summary><strong>Not Demonstrated (0 points)</strong></summary>
+<summary><strong>Not Yet Meeting Expectations</strong></summary>
 
-**1. Design Decision Log & Background (0 points)**  
-There is more than one major flaw, or it meets at least one of the following: (1) The log is missing or all entries are vague or superficial. (2) The background is missing multiple components.
+**1. Design Decision Log & Background (8-9 points)**  
+There are more than one major flaw or more than three minor flaws that make revision difficult. Attempts to complete the section are obvious but unsatisfactory.
 
-**2. Need-Finding Study & Results (0 points)**  
-There is more than one major flaw, or it meets at least one of the following: (1) The study description is missing more than three components or is missing entirely. (2) No study conducted or the number of participants is less than one per team member. (3) All claims are unsupported. (4) No data or analysis is presented.
+**2. Need-Finding Study & Results (13-16 points)**  
+There is more than one major flaw or several minor flaws that make revision difficult, or it meets at least one of the following: (1) The study description is missing more than three components. (2) The number of participants is less than one per team member. (3) Multiple claims do not respond to the research questions. (4) Some claims are missing sufficient evidence or analysis.
 
-**3. User Scenarios & Task Analysis (0 points)**  
-There is more than one major flaw, or it meets at least one of the following: 1) Zero or one user scenario is provided. 2) A user scenario is missing more than three required elements. 3) Zero or one task analysis is provided. 4) The task analyses for both scenarios are just solution feature lists or irrelevant.
+**3. User Scenarios & Task Analysis (10-12 points)**  
+There is more than one major flaw, or it meets at least one of the following: 1) Only one user scenario is provided. 2) A user scenario is missing more than three required elements. 3) Only one task analysis is provided. 4) The task analyses for both scenarios are very solution-oriented, feature lists, or irrelevant.
 
-**4. Central Tasks, Design Requirements & Metrics (0 points)**  
-There is more than one major flaw, or it meets at least one of the following: 1) No central tasks are provided. 2) Fewer than three design requirements are provided. 3) More than three design requirements do not meet the needs. 4) Metrics are missing for more than two design requirements. 5) More than three metrics are vague, not measurable, or not appropriate.
+**4. Central Tasks, Design Requirements & Metrics (15-19 points)**  
+There is more than one major flaw, or it meets at least one of the following: 1) Only one central task is provided, and the task is poorly justified. 2) Fewer than three design requirements are provided. 3) More than three design requirements do not satisfy the need. 4) Metrics are missing for more than two design requirements. 5) More than three metrics are vague, not measurable, or not appropriate.
 
-**5. Report Quality, Clarity, & Formatting (0 points)**  
-There is more than one major flaw, or it meets at least one of the following: 1) The main report body is longer than eight pages. 2) More than one section is at least double the maximum length. 3) The report does not attempt to adhere to the formatting guidelines or severely violates the formatting rules. 4) The report requires proofreading, with many grammatical mistakes and typos.
+**5. Report Quality, Clarity, & Formatting (5-6 points)**  
+There is more than one major flaw, or it meets at least one of the following: 1) The main report body is longer than eight pages. 2) The report body is significantly less than the expected page number, and sections are not informative 3) More than one section is at least double the maximum length. 4) The report has several instances where it does not adhere to the formatting guidelines or severely violates the formatting rules. 5) The report includes more than three grammatical mistakes and typos that require significant revision.
+
+</details>
+<details class="rubric">
+<summary><strong>Not Demonstrated</strong></summary>
+
+**1. Design Decision Log & Background (0-7 points)**  
+The work meets at least one of the following: (1) The log is missing or all entries are vague and superficial. (2) The background is missing multiple components. (3) The section is incomplete or missing.
+
+**2. Need-Finding Study & Results (0-12 points)**  
+There are multiple major flaws, or it meets at least one of the following: (1) The study description is missing entirely. (2) No study conducted. (3) All claims are unrelated to the research questions, and are unsupported. (4) No data or analysis is presented.
+
+**3. User Scenarios & Task Analysis (0-9 points)**  
+One or more of the following are true: 1) Only one user scenario is provided and it is quite sparse/missing important components. 2) Both scenarios are missing. 3) Task analysis is missing entirely. 4) Both task analyses or user scenarios are very unreasonable given design scope and study results.
+
+**4. Central Tasks, Design Requirements & Metrics (0-14 points)**  
+The submission meets at least one of the following: 1) No central tasks are provided. 2) Design requirements are missing. 3) Design requirements obviously do not satisfy the need. 4) Metrics are missing for all design requirements. 5) Chosen metrics are vague, not measurable, or not appropriate.
+
+**5. Report Quality, Clarity, & Formatting (0-4 points)**  
+The submission meets at least one of the following: 1) The main report body is less than 5 pages, or major sections are missing. 2) More than one section is incomplete or exceeds the maximum length. 3) The report does not attempt to adhere to the formatting guidelines or severely violates the formatting rules. 4) The report requires significant proofreading and revision, with many grammatical mistakes and typos.
 
 </details>
