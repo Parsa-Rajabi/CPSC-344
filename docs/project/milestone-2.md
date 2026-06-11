@@ -117,6 +117,12 @@ Your report must include the following study documents:
   <span>Copy the template. All team members must sign it.</span>
 </a>
 
+<a class="study-material-card study-material-card-critical" href="https://drive.google.com/file/d/1PCrKC7hBi3clY86QYFZp1NEu-ydWcrp7/view">
+  <strong>UBC CPSC 344 Ethics Protocol</strong>
+  <span>Review this before signing the Ethics Protocol Adherence Agreement.</span>
+</a>
+
+
 </div>
 
 ## Submission
