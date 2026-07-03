@@ -2,7 +2,7 @@
 
 ## Changelog
 
-- June 17: Added submission template, formatted running example
+- July 3: Added submission template, formatted running example
 - May 24: Updated page readability and added policy reminders.
 - May 23: Added Design Decision Log requirement.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
