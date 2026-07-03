@@ -1,10 +1,8 @@
 # Project Milestone 3: Shark Tank
 
-> [!NOTE]
-> This milestone is still in development and subject to change as rubrics and templates are finalized. The information below is meant to give you a general sense of what this milestone will be about, but please check back for updates. This banner will be removed once the milestone description is finalized.
-
 ## Changelog
 
+- July 3: Added submission template, formatted running example
 - May 24: Updated page readability and added policy reminders.
 - May 23: Added Design Decision Log requirement.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
@@ -80,24 +78,22 @@ Refer to the [course submission information page](course-submission-info.md) for
 > [!IMPORTANT]
 > Shark Tank is an in-person project milestone. Absence tokens cannot be used for this session. Review [Workshop Attendance & Participation](syllabus.md#workshop-attendance--participation), [Course Submission Info](course-submission-info.md), the [CPSC 344 Artificial Intelligence Use Policy](ai-policy.md), and [Group Work Resources](group-work-resources.md) while planning roles and backups.
 
+## Accessing the Project Template
+
+The template is a Google Doc: [M3 Project Template](https://docs.google.com/document/d/1atp1Uw0clNTdo7-r1RNxE2ap8TUI9eaevMz3VRRbXKs/edit?tab=t.0#heading=h.bx9ltwnuavx4](https://docs.google.com/document/d/1-23PQoDUHWpm4BIhlk7vtW3LK9f1DCR-VfrZ5oP6Yts/edit?tab=t.0). Your team is expected to select **File → Make a copy** and work from your own copy.
+
+![gDocs-make-a-copy](../assets/images/gDocs-make-a-copy.png)
+
+
 ## Required Slide Structure
 
 Your slide deck should include the sections below.
 
 You may design the slides in a way that best supports your pitch, but the required information must be easy to find and understand.
 
-## Slide 1: Project Context and Central Tasks
+## Running Example
 
-Begin by briefly reminding the audience what your project is about.
-
-This slide should include:
-
-- your project title or short project label
-- your human need, design problem, or design opportunity
-- your two central tasks from Project Milestone 2
-- a short summary of each user scenario from Project Milestone 2
-
-Keep this slide concise. The goal is to give enough context for the audience to understand your design approaches.
+### Slide 1: Project Context and Central Tasks
 
 <details>
 <summary><strong>Partial example: project context and central tasks</strong></summary>
@@ -115,28 +111,18 @@ Keep this slide concise. The goal is to give enough context for the audience to 
 
 </details>
 
-## Slide 2: Design Decision Log
+### Slide 2: Design Decision Log
 
-Briefly show how your team carried forward decisions from Project Milestone 2 into your Shark Tank design approaches.
+<details>
+<summary><strong>Partial example: design decision log</strong></summary>
 
-Include **2 to 4 entries** using the following format:
 
 | Decision | What changed? | Why did it change? | Evidence or feedback used |
 | :------: | :-----------: | :----------------: | :-----------------------: |
 | We prioritized one central task. | We focused our design approaches on helping students identify uncertain items before disposal. | This task appeared more frequently in our need-finding data than our original planning task. | Interview themes and Milestone 2 design requirements. |
+</details>
 
-Your log may describe changes to your scope, central tasks, design requirements, conceptual model, or planned design approaches. If your team does not accept an important TA suggestion, you must include that decision and explain why.
-
-## Slide 3: Design Requirements
-
-On this slide, summarize the five design requirements from Project Milestone 2.
-
-For each requirement, include:
-
-- a brief label
-- a one-sentence description
-
-You do not need to include the full justification or metrics from Milestone 2 unless they are necessary for understanding your design approaches.
+### Slide 3: Design Requirements
 
 <details>
 <summary><strong>Partial example: design requirements</strong></summary>
@@ -149,23 +135,8 @@ You do not need to include the full justification or metrics from Milestone 2 un
 
 </details>
 
-## Remaining Slides: Design Approaches
+### Remaining Slides: Design Approaches
 
-In the remaining slides, present **2 to 3 distinct design approaches**.
-
-These approaches should be different from each other in meaningful ways. They should not be the same design with minor visual changes.
-
-Each central task must be supported by at least one design approach.
-
-For each design approach, include:
-
-- a short label
-- image(s) of your low-fidelity sketch or throwaway prototype
-- the conceptual model for the design approach
-- a one-sentence description of how the approach addresses the need and supports the central task(s)
-- what your team likes about the approach
-- what your team dislikes, worries about, or sees as a weakness
-- how your critique connects to user scenarios, central tasks, design requirements, or general design principles
 
 ## What Counts as a Design Approach?
 
