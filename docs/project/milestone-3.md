@@ -2,6 +2,7 @@
 
 ## Changelog
 
+- July 6: Added the project M3 rubric.
 - July 3: Added submission template, formatted running example
 - May 24: Updated page readability and added policy reminders.
 - May 23: Added Design Decision Log requirement.
@@ -308,5 +309,103 @@ Good shark feedback is specific, constructive, and connected to the presenting t
 **Stronger feedback**
 
 > I liked the second idea because the dashboard model seems better suited for users who need to compare multiple options quickly. However, I would be worried about whether first-time users understand which information matters most. You might consider testing whether users can identify the next action within the first few seconds.
+
+</details>
+
+## Rubric
+
+<details class="rubric">
+<summary><strong>Exceeds Expectations</strong></summary>
+
+**1. Project Context, Central Tasks & Design Decision Log (9-10 points)**  
+The presentation clearly and concisely includes all required background components: project title, human need/problem, two central tasks, and a short summary of each user scenario. The Design Decision Log includes 2–4 specific, insightful entries clearly linked to evidence or feedback from Milestone 2. If no changes were made or if a suggestion was not accepted, the log includes at least one detailed entry explaining the reasoning behind maintaining the project direction.
+
+**2. Design Requirements (14-15 points)**  
+The presentation summarizes all four design requirements with clear labels and one-sentence descriptions. Requirements are design-independent, specific, and revised according to feedback from Milestone 2 as needed.
+
+**3. Design Approaches: Distinctness, Conceptual Models & Prototypes (27-30 points)**  
+The team presents 3 meaningfully distinct design approaches appropriate for the current design stage. Each central task is supported by at least one approach. For each approach, there is a short label, a clear low-fidelity sketch/prototype, a clear conceptual model that explains what users think they can do, what happens after each action, and how the design helps them complete the central task(s), and a one-sentence description of how it addresses the need. Prototypes are visually clear enough to understand the main interaction steps, how it supports the central task, and how it differs from other approaches. Each conceptual model clearly shows how the user is supposed to think about the interaction.
+
+**4. Self-Critique & Evidence-Based Reasoning (23-25 points)**  
+For each design approach, the team clearly states both what they like (strengths) and what they dislike, worry about, or see as a weakness. The critique is specific and explicitly connected to user scenarios, central tasks, design requirements, general design principles, and what your team learned from Milestone 2. Critiques of approaches demonstrate thoughtful and honest consideration of both pros and cons. Every design approach is presented with evidence of critique against the original context.
+
+**5. Presentation Quality, Clarity, Team Coordination & AI Use Disclosure (18-20 points)**  
+The presentation is 10 minutes or less. All group members participate meaningfully with clear transitions between speakers. Slides are visual, easy to read and follow, and support the verbal pitch. All team members are prepared for the Q&A. The presentation feels like a coordinated design exploration, not separate individual sections. Milestone submission includes the Team Contributions Table and the AI Use Disclosure form, both filled out properly.
+
+</details>
+<details class="rubric">
+<summary><strong>Meets Expectations</strong></summary>
+
+**1. Project Context, Central Tasks & Design Decision Log (8 points)**  
+There is one minor problem in only one of the following: (1) The project context is slightly vague. (2) The log has 2–4 entries but one is vague. (3) The log for no changes mades or suggestion rejection lacks sufficient detail about reasoning. (4) Feedback from Project Milestone 2 was not incorporated.
+
+**2. Design Requirements (12-13 points)**  
+There is one minor problem in only one of the following: (1) One requirement label or description is vague. (2) One requirement description include unnecessary justification or metrics for understanding the design approaches. (3) Some feedback from Milestone 2 are not incorporated, but the requirements are still design-independent, specific, and relevant to the human need.
+
+**3. Design Approaches: Distinctness, Conceptual Models & Prototypes (24-26 points)**  
+There is one minor problem in only one of the following: (1) Only two meaningfully distinct design approaches are presented. (2) One design approach is not appropriate for the current design stage. (3) Two of the three approaches are somewhat similar but still meaningfully different. (4) For one approach, the conceptual model is interface-dependent, poorly aligned to the problem, or unclear such that the model is not fully interpretable. 5) The presentation describe but not show or explain how the user is supposed to think about the interaction. (6) At least one but no more than two prototypes are slightly unclear but still understandable. (7) It is unclear how at least one but no more than two prototypes support the chosen central task(s).
+
+**4. Self-Critique & Evidence-Based Reasoning (20-22 points)**  
+There is one minor problem in only one of the following: (1) One approach has a slightly vague critique, meaning it's either unclear to interpret or doesn't demonstrate depth of consideration. (2) One critique is not clearly connected to evidence or principles. (3) One weakness or trade-off is acknowledged but very superficial.
+
+**5. Presentation Quality, Clarity, Team Coordination & AI Use Disclosure (16-17 points)**  
+There is one minor problem in only one of the following: (1) Presentation is over time but by no more than 30 seconds. (2) One team member’s contribution is slightly uneven. (3) At least one but no more than two transitions are awkward but still understandable. (4) One slide is slightly text-heavy but still clear. (5) At least one but no more than half of the team is not well-prepared for the Q&A. (6) One team member dominates the Q&A. (7) Milestone submission includes both the Team Contributions Table and the AI Use Disclosure form, but one lacks essential information.
+
+</details>
+<details class="rubric">
+<summary><strong>Approaches Expectations</strong></summary>
+
+**1. Project Context, Central Tasks & Design Decision Log (7 points)**  
+There are multiple minor problems, or one major flaw in only one of the following: (1) The log has only 1 entry despite changes were made. (2) At least one but no more than two log entries are clear. (3) The project context lacks important clarity on the human need. (4) One central task or user scenario is missing.
+
+**2. Design Requirements (10-11 points)**  
+There are multiple minor problems, or one major flaw in only one of the following: (1) Only three of the four requirements are presented. (2) The labels or descriptions are unclear. (3) Some feedback from Milestone 2 are not incorporated, and only one design requirement cannot connect to the design approaches.
+
+**3. Design Approaches: Distinctness, Conceptual Models & Prototypes (20-23 points)**  
+There are multiple minor problems, or one major flaw in only one of the following: (1) Only two approaches are presented and they are somewhat similar. (2) Two of the design approaches are not appropriate for the current design stages. (3) All three approaches are very similar. (4) For two approaches, the conceptual model is interface-dependent, poorly aligned to the problem, or unclear such that the model is not fully interpretable. (5) All prototypes are slightly unclear but still somewhat understandable. (6) At least one but no more than two prototypes are unclear that makes understanding difficult. (7) It is unclear how all prototypes support the central tasks. (8) One approach has no prototype or conceptual model, or it is very misleading. (9) It is unclear how all prototypes support the chosen central tasks. (10) One central task is not supported by any approach.
+
+**4. Self-Critique & Evidence-Based Reasoning (17-20 points)**  
+There are multiple minor problems, or one major flaw in only one of the following: (1) At least two approaches have vague or speculative critique. (2) One approach is missing either strengths or weaknesses entirely. (3) Two critiques are not clearly connected to evidence or principles. (4) One critique is not connected to any evidence or requirements at all. (4) A crucial weakness or trade-off is not acknowledged.
+
+**5. Presentation Quality, Clarity, Team Coordination & AI Use Disclosure (13-15 points)**  
+There are multiple minor problems, or one major flaw in only one of the following: (1) Presentation exceeds 10.5 but less than 11 minutes. (2) About half of the team members have very uneven participation. (3) Slides are hard to read or too dense. (4) Most transitions are awkward but still understandable. (5) No more than two transitions are not understandable. (6) The team rushes or is clearly unprepared for Q&A. (7) Milestone submission includes only one of the Team Contributions Table and the AI Use Disclosure form. (8) Milestone submission includes the Team Contributions Table and the AI Use Disclosure form, but both lacks essential information.
+
+</details>
+<details class="rubric">
+<summary><strong>Not Yet Meeting Expectations</strong></summary>
+
+**1. Project Context, Central Tasks & Design Decision Log (5-6 points)**  
+There is more than one major flaw or meets one of the following unsatisfactory cases: (1) All log entries are vague despite an attempt was made. (2) The log for no changes or suggestion rejection is missing. (3) The project context is very unclearful, missing only one of human need, both central tasks, or both user scenarios.
+
+**2. Design Requirements (8-9 points)**  
+There is more than one major flaw, or it meets at least one of the following: (1) Fewer than three design requirements are presented. (2) The labels and descriptions are very unclear, despite an attempt was made. (3) Requirements are irrelevant to the design approaches shown. (4) Feedback from Milestone 2 is not incorporated at all with no justification.
+
+**3. Design Approaches: Distinctness, Conceptual Models & Prototypes (15-19 points)**  
+There is more than one major flaw, or it meets at least one of the following: (1) Only one design approach is presented. (2) No design approach is appropriate for the current design stages. (3) For all approaches, the conceptual model is interface-dependent, poorly aligned to the problem, or unclear such that the model is not fully interpretable. (4) All prototypes are unclear that makes understanding difficult. (5) Prototypes or conceptual models are missing for at least one but no more than two approaches. (6) Neither central task is supported by any approach.
+
+**4. Self-Critique & Evidence-Based Reasoning (13-16 points)**  
+There is more than one major flaw, or it meets at least one of the following: (1) Only strengths are presented, no weaknesses. (2) Critiques are generic and not specific to the design approach. (3) At least two critiques are not connected to any evidence or requirements at all. (4) One design approach lacks critique entirely.
+
+**5. Presentation Quality, Clarity, Team Coordination & AI Use Disclosure (10-12 points)**  
+There is more than one major flaw, or it meets at least one of the following: (1) Presentation exceeds 11 minutes. (2) One team member does not speak at all. (3) One team member dominates the presentation. (4) Slides are missing or incomprehensible. (5) The transition is unacceptable, and the presentation feels like separate individual sections. (6) The team cannot answer basic questions about their design approaches during the Q&A. (7) Milestone submission does not include the Team Contributions Table or the AI Use Disclosure form.
+
+</details>
+<details class="rubric">
+<summary><strong>Not Demonstrated</strong></summary>
+
+**1. Project Context, Central Tasks & Design Decision Log (0-4 points)**  
+The work meets at least one of the following: (1) The log is missing or all entries are superficial. (2) Project context is missing at least two of human need, central tasks, and user scenarios.
+
+**2. Design Requirements (0-7 points)**  
+The work meets at least one of the following: (1) Requirements are missing entirely. (2) Requirements presented do not address the human need.
+
+**3. Design Approaches: Distinctness, Conceptual Models & Prototypes (0-14 points)**  
+The work meets at least one of the following: (1) No clear design approaches are presented. (2) Design approaches lack prototypes or are completely incomprehensible. (3) Design approaches lack conceptual models or are completely incomprehensible.
+
+**4. Self-Critique & Evidence-Based Reasoning (0-12 points)**  
+The work meets at least one of the follwing: (1) At least two design approaches lack critique entirely. (2) All design approaches have critiques that are completely disconnected.
+
+**5. Presentation Quality, Clarity, Team Coordination & AI Use Disclosure (0-9 points)**  
+The work meets at least one of the following: (1) Multiple members do not speak at all. (2) The presentation is not prepared or delivered. (3) No team member attempts to answer questions during the Q&A.
 
 </details>
