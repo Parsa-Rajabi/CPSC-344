@@ -2,7 +2,7 @@
 
 ## Changelog
 
-- July 6: Added the project M3 rubric.
+- July 8: Added the project M3 rubric.
 - July 3: Added submission template, formatted running example
 - May 24: Updated page readability and added policy reminders.
 - May 23: Added Design Decision Log requirement.
