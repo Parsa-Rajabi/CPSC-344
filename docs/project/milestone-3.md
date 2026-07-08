@@ -3,7 +3,7 @@
 ## Changelog
 
 - July 8: Added the project M3 rubric.
-- July 3: Added submission template, formatted running example
+- July 3: Formatted running example
 - May 24: Updated page readability and added policy reminders.
 - May 23: Added Design Decision Log requirement.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
@@ -78,12 +78,6 @@ Refer to the [course submission information page](course-submission-info.md) for
 
 > [!IMPORTANT]
 > Shark Tank is an in-person project milestone. Absence tokens cannot be used for this session. Review [Workshop Attendance & Participation](syllabus.md#workshop-attendance--participation), [Course Submission Info](course-submission-info.md), the [CPSC 344 Artificial Intelligence Use Policy](ai-policy.md), and [Group Work Resources](group-work-resources.md) while planning roles and backups.
-
-## Accessing the Project Template
-
-The template is a Google Doc: [M3 Project Template](https://docs.google.com/document/d/1atp1Uw0clNTdo7-r1RNxE2ap8TUI9eaevMz3VRRbXKs/edit?tab=t.0#heading=h.bx9ltwnuavx4](https://docs.google.com/document/d/1-23PQoDUHWpm4BIhlk7vtW3LK9f1DCR-VfrZ5oP6Yts/edit?tab=t.0). Your team is expected to select **File → Make a copy** and work from your own copy.
-
-![gDocs-make-a-copy](../assets/images/gDocs-make-a-copy.png)
 
 
 ## Required Slide Structure
