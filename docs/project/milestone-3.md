@@ -86,9 +86,18 @@ Your slide deck should include the sections below.
 
 You may design the slides in a way that best supports your pitch, but the required information must be easy to find and understand.
 
-## Running Example
+## Slide 1: Project Context and Central Tasks
 
-### Slide 1: Project Context and Central Tasks
+Begin by briefly reminding the audience what your project is about.
+
+This slide should include:
+
+- your project title or short project label
+- your human need, design problem, or design opportunity
+- your two central tasks from Project Milestone 2
+- a 2 sentence summary of each user scenario from Project Milestone 2
+
+Keep this slide concise. The goal is to give enough context for the audience to understand your design approaches.
 
 <details>
 <summary><strong>Partial example: project context and central tasks</strong></summary>
@@ -106,18 +115,28 @@ You may design the slides in a way that best supports your pitch, but the requir
 
 </details>
 
-### Slide 2: Design Decision Log
+## Slide 2: Design Decision Log
 
-<details>
-<summary><strong>Partial example: design decision log</strong></summary>
+Briefly show how your team carried forward decisions from Project Milestone 2 into your Shark Tank design approaches.
 
+Include **2 to 4 entries** using the following format:
 
 | Decision | What changed? | Why did it change? | Evidence or feedback used |
 | :------: | :-----------: | :----------------: | :-----------------------: |
 | We prioritized one central task. | We focused our design approaches on helping students identify uncertain items before disposal. | This task appeared more frequently in our need-finding data than our original planning task. | Interview themes and Milestone 2 design requirements. |
-</details>
 
-### Slide 3: Design Requirements
+Your log may describe changes to your scope, central tasks, design requirements, conceptual model, or planned design approaches. If your team does not accept an important TA suggestion, you must include that decision and explain why.
+
+## Slide 3: Design Requirements
+
+On this slide, summarize the five design requirements from Project Milestone 2.
+
+For each requirement, include:
+
+- a brief label
+- a one-sentence description
+
+You do not need to include the full justification or metrics from Milestone 2 unless they are necessary for understanding your design approaches.
 
 <details>
 <summary><strong>Partial example: design requirements</strong></summary>
@@ -130,7 +149,22 @@ You may design the slides in a way that best supports your pitch, but the requir
 
 </details>
 
-### Remaining Slides: Design Approaches
+## Remaining Slides: Design Approaches
+
+In the remaining slides, present **2 to 3 distinct design approaches**.
+
+These approaches should be different from each other in meaningful ways. They should not be the same design with minor visual changes.
+
+Each central task must be supported by at least one design approach.
+
+For each design approach, include:
+
+- a short label
+- image(s) of your low-fidelity sketch or throwaway prototype
+- the conceptual model for the design approach
+- a one-sentence description of how the approach addresses the need and supports the central task(s)
+- what your team likes about the approach (based on your Milestone 2 user scenarios, central tasks, design requirements, and general design principles)
+- what your team dislikes, worries about, or sees as a weakness (based on your Milestone 2 user scenarios, central tasks, design requirements, and general design principles)
 
 
 ## What Counts as a Design Approach?
