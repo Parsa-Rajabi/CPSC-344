@@ -5,7 +5,7 @@
 
 ## Changelog
 
-- July 9: Added the Checkpoint A rubric.
+- July 10: Added the Checkpoint A rubric.
 - May 24: Added policy reminders.
 - May 23: Added Design Decision Log requirement.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
