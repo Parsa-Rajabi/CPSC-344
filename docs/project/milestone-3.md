@@ -2,6 +2,7 @@
 
 ## Changelog
 
+- July 10: Added explicit requirement for distinct conceptual models between design approaches
 - July 8: Added the project M3 rubric.
 - July 3: Formatted running example
 - May 24: Updated page readability and added policy reminders.
@@ -153,7 +154,7 @@ You do not need to include the full justification or metrics from Milestone 2 un
 
 In the remaining slides, present **2 to 3 distinct design approaches**.
 
-These approaches should be different from each other in meaningful ways. They should not be the same design with minor visual changes.
+These approaches should be different from each other in meaningful ways. They should not be the same design with minor visual changes. To be distinct, each approach should also be supported by a **distinct conceptual model**.
 
 Each central task must be supported by at least one design approach.
 
@@ -265,6 +266,8 @@ say:
 > This design uses a guided decision-tree model. Users answer one question at a time, and the system narrows the options until it recommends an action.
 
 </details>
+
+Between each of your design approaches, make sure that your conceptual models are meaningfully distinct from each other.
 
 ## Critiquing Your Own Design Approaches
 
