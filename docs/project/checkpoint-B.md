@@ -5,6 +5,7 @@
 
 ## Changelog
 
+- July 9: Added the Checkpoint B rubric.
 - May 24: Updated page readability and added policy reminders.
 - May 23: Added Design Decision Log requirement.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
@@ -173,3 +174,23 @@ These may include:
 Content without sensitive or participant information can be stored on the platform of your choice.
 
 Sensitive or participant-related materials must follow the course instructions for ethics, consent, data collection, and data storage.
+
+## Rubric
+<details class="rubric">
+<summary><strong>Full Marks (1 point)</strong></summary>
+
+All required sections are present and submitted on time. The report includes a Design Decision Log (2–4 entries), 2–3 clear Research Questions, an Evaluation Methods table with both Observation and Interview/Questionnaire, a Study Procedure (≤1 hour), a Recruitment Plan (≥2 participants per team member), a Study Materials list, and an Appendix with relevant materials.
+
+</details>
+<details class="rubric">
+<summary><strong>Partial Marks (0.5 points)</strong></summary>
+
+The submission is either late OR has one missing/incomplete section (e.g., missing Appendix, fewer than 2 log entries, only one evaluation method specified, no participant count, or vague research questions), but not both.
+
+</details>
+<details class="rubric">
+<summary><strong>No Marks (0 points)</strong></summary>
+
+The submission is missing multiple sections, is incomprehensible, or is not submitted at all.
+
+</details>
