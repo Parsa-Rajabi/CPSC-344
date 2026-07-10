@@ -5,6 +5,7 @@
 
 ## Changelog
 
+- July 9: Added the Checkpoint A rubric.
 - May 24: Added policy reminders.
 - May 23: Added Design Decision Log requirement.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
@@ -113,3 +114,23 @@ These may include:
 - Shark Tank feedback notes
 
 Content without sensitive or participant information can be stored on the platform of your choice.
+
+## Rubric
+<details class="rubric">
+<summary><strong>Full Marks (1 point)</strong></summary>
+
+All required sections are present and submitted on time. The report includes a Design Decision Log (2–4 entries), a clear Requirements & Scope Definition, a detailed Polish & Demo Plan with weekly tasks and ownership, an Appendix with relevant materials, and a completed AI Use Disclosure form.
+
+</details>
+<details class="rubric">
+<summary><strong>Partial Marks (0.5 points)</strong></summary>
+
+The submission is either late OR has one missing/incomplete section (e.g., missing Appendix, no ownership assigned, fewer than 2 log entries, or vague scope definition), but not both.
+
+</details>
+<details class="rubric">
+<summary><strong>No Marks (0 points)</strong></summary>
+
+The submission is missing multiple sections, is incomprehensible, or is not submitted at all.
+
+</details>
