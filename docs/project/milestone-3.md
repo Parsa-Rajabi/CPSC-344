@@ -1,7 +1,7 @@
 # Project Milestone 3: Shark Tank
 
 ## Changelog
-
+- July 13: removed last instance "five" design requirements. only 4 needed this semester
 - July 10: Added explicit requirement for distinct conceptual models between design approaches
 - July 8: Added the project M3 rubric.
 - July 3: Formatted running example
@@ -130,7 +130,7 @@ Your log may describe changes to your scope, central tasks, design requirements,
 
 ## Slide 3: Design Requirements
 
-On this slide, summarize the five design requirements from Project Milestone 2.
+On this slide, summarize the four design requirements from Project Milestone 2.
 
 For each requirement, include:
 
