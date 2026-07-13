@@ -78,7 +78,7 @@ What aspects of the prototype need to be particularly convincing so that you can
 
 Fill in the following table with every feature your prototype will have. 
 
-| Feature/Component | Fully Functional or Simplified/Simulated? | Visually Polished or Rough? | Why |
+| Feature/Component | Fully Functional or Simplified/Simulated or Wizard-of-Oz? | Visually Polished or Rough? | Why |
 | :------: | :-----------: | :----------------: | :-----------------------: |
 | Cafe map screen | Simplified: static, non-interactive image | Rough | Hard to implement a functional map on Figma and not necessary for user testing |
 
