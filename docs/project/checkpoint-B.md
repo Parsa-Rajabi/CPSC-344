@@ -34,9 +34,7 @@ After completing this checkpoint, you should be able to:
 
 ## Deliverable
 
-Submit a short written evaluation plan with responses to the sections below.
-
-Your responses should be written directly under each prompt. Your plan should be concise, but specific enough that the teaching team can understand what your team plans to evaluate, how you will evaluate it, and what materials you will use.
+Write up a short evaluation plan by answering each section's prompt. Your plan should be concise, but specific enough that the teaching team can understand what your team is planning to build and why.
 
 For help assigning evaluation roles, tracking responsibilities, and preparing for peer evaluation, see the [Group Work Resources](group-work-resources.md).
 
@@ -111,43 +109,14 @@ Briefly describe your planned study procedure.
 
 Include:
 
-- what participants will do
-- what tasks they will complete
-- what order the study will follow
+- what participants will do, in what order
 - how long the study will take
-- how you will introduce the prototype
 - what data you will collect during each part of the study
-
-Including the study introduction, consent process, tasks, and any interview or questionnaire components, the entire procedure must not exceed **1 hour** of participant time.
-
-## Section 5: Recruitment Plan
-
-Briefly describe your recruitment plan.
-
-Include:
-
-- your target participant population
-- how you plan to contact participants
+- your target participant population and count
 - when you plan to recruit them
-- approximately how many participants you plan to recruit
+- all the study materials that need to be prepared (ex. consent form, call for participation, researcher script, questions, coding sheet, etc)
 
-As a general target, plan for approximately **2 participants per team member** for a study that takes about 30 minutes across all methods. You may adjust this higher or lower depending on the length and effort required for your study.
-
-## Section 6: Study Materials
-
-List the materials your team will need for the evaluation.
-
-Depending on your study, these may include:
-
-- study protocol
-- consent form
-- call for participation
-- researcher script
-- prototype link or files
-- task instructions
-- observation coding sheet
-- interview questions
-- questionnaire questions
+As a general target, plan for approximately **2 participants per team member** for a study that takes about 30 minutes across all methods. You may adjust this higher or lower depending on the length and effort required for your study. However, entire procedure must not exceed **1 hour** of participant time.
 
 Follow all course instructions for ethics, consent, data collection, and data storage.
 
@@ -179,7 +148,7 @@ Sensitive or participant-related materials must follow the course instructions f
 <details class="rubric">
 <summary><strong>Full Marks (1 point)</strong></summary>
 
-All required sections are present and submitted on time. The report includes a Design Decision Log (2–4 entries), 2–3 clear Research Questions, an Evaluation Methods table with both Observation and Interview/Questionnaire, a Study Procedure (≤1 hour), a Recruitment Plan (≥2 participants per team member), a Study Materials list, and an Appendix with relevant materials.
+All required sections are present and submitted on time. The report includes a Design Decision Log (2–4 entries), 2–3 clear Research Questions, an Evaluation Methods table with both Observation and Interview/Questionnaire, a Study Procedure (≤1 hour; ≥2 participants per team member), and an Appendix with relevant materials.
 
 </details>
 <details class="rubric">
