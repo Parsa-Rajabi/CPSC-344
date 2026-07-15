@@ -116,7 +116,7 @@ Include:
 - when you plan to recruit them
 - all the study materials that need to be prepared (ex. consent form, call for participation, researcher script, questions, coding sheet, etc)
 
-As a general target, plan for approximately **2 participants per team member** for a study that takes about 30 minutes across all methods. You may adjust this higher or lower depending on the length and effort required for your study. However, entire procedure must not exceed **1 hour** of participant time.
+Plan for **2 participants per team member** for a study that takes roughly 30 minutes across all methods. You may adjust this higher or lower depending on the length and effort required for your study. However, entire procedure must not exceed **1 hour** of participant time.
 
 Follow all course instructions for ethics, consent, data collection, and data storage.
 
