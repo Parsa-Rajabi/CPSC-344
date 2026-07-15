@@ -34,9 +34,7 @@ After completing this checkpoint, you should be able to:
 
 ## Deliverable
 
-Submit a short written prototyping plan with responses to the sections below.
-
-Your responses should be written directly under each prompt. Your plan should be concise, but specific enough that the teaching team can understand what your team is planning to build and why.
+Write up a short prototyping plan by answering each section's prompt. Your plan should be concise, but specific enough that the teaching team can understand what your team is planning to build and why.
 
 For help assigning prototype tasks, setting owners and backups, and tracking team progress, see the [Group Work Resources](group-work-resources.md).
 
@@ -51,7 +49,7 @@ Refer to the [course submission information page](course-submission-info.md) for
 
 ## Prototyping Plan
 
-Before answering the questions below, decide how your prototype will balance two goals:
+Before answering the questions below, consider how your prototype will balance two goals:
 
 - **Evaluation:** studying how well the design meets your design goals.
 - **Persuasion:** convincing others that the prototype and team are worth further investment.
@@ -68,27 +66,23 @@ Include **2 to 4 entries** using the following format:
 | :------: | :-----------: | :----------------: | :-----------------------: |
 | We chose a guided decision flow as our prototype direction. | We moved away from a dashboard-style approach. | The guided flow better supports our central task and is feasible to prototype before evaluation. | Shark Tank feedback, Cognitive Walkthrough notes, and team feasibility discussion. |
 
-Your log may describe changes to your chosen design approach, conceptual model, prototype scope, design requirements to evaluate, or planned simplifications. If your team does not accept an important TA suggestion, you must include that decision and explain why.
+Your log may describe changes to your chosen design approach, conceptual model, prototype scope, design requirements to evaluate, or planned simplifications. If your team does not accept an important TA suggestion, please include that decision and explain why.
 
-## Section 2: Design Requirements to Evaluate
+## Section 2: Design Requirements
 
 Which design requirements are you planning to evaluate through your prototype?
 
 What aspects of the prototype need to be particularly convincing so that you can properly study how people use it?
 
-## Section 3: Functional Scope
+## Section 3: Prototype Scope
 
-Which features need to be fully functional so you can achieve your prototyping and evaluation objectives?
+Fill in the following table with every feature your prototype will have. 
 
-Which features or components can you leave out, simplify, or Wizard-of-Oz?
+| Feature/Component | Fully Functional or Simplified/Simulated or Wizard-of-Oz? | Visually Polished or Rough? | Why |
+| :------: | :-----------: | :----------------: | :-----------------------: |
+| Cafe map screen | Simplified: static, non-interactive image | Rough | Hard to implement a functional map on Figma and not necessary for user testing |
 
-## Section 4: Aesthetic and Interaction Polish
-
-Which features or components need to be aesthetically or interactively polished so you can achieve your prototyping and evaluation objectives, if any?
-
-Which features or components can remain rough?
-
-## Section 5: Prototype Demo Plan
+## Section 4: Prototype Demo Plan
 
 Complete the table below to show how your team plans to move toward a prototype that is ready for demo and study.
 
