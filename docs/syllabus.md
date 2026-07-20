@@ -114,11 +114,11 @@ CPSC 344 and 444 form a two-course undergrad sequence; 444 covers more advanced 
 |            Certification             |     [TCPS 2: CORE-2022](project/ethics-certification.md)      |     May 29 at 11:59pm PT      |     0%     |
 | [Group Project](project/overview.md) |         [Project Milestone 1](project/milestone-1.md)         |  June 4 or 5 before workshop  |     5%     |
 |                  ″                   |         [Project Milestone 2](project/milestone-2.md)         |     June 26 at 11:59pm PT     |    15%     |
-|                  ″                   |         [Project Milestone 3](project/milestone-3.md)         | July 9 or 10 before workshop  |     4%     |
-|                  ″                   |        [Project Checkpoint A](project/checkpoint-A.md)        | July 16 or 17 before workshop |     1%     |
-|                  ″                   |        [Project Checkpoint B](project/checkpoint-B.md)        | July 23 or 24 before workshop |     1%     |
+|                  ″                   |         [Project Milestone 3](project/milestone-3.md)         | July 16 or 17 before workshop |     4%     |
+|                  ″                   |        [Project Checkpoint A](project/checkpoint-A.md)        | July 23 or 24 before workshop |     1%     |
+|                  ″                   |        [Project Checkpoint B](project/checkpoint-B.md)        | July 30 or 31 before workshop |     1%     |
 |                  ″                   |         [Project Milestone 4](project/milestone-4.md)         |     Aug 13 at 11:59pm PT      |    15%     |
-|                  ″                   |                     Project Demo Showcase                     |   Aug 10 + 12; 3:30-5:30pm    |     4%     |
+|                  ″                   |                     Project Demo Showcase                     |      Aug 12; 3:30-5:30pm      |     4%     |
 |                 Exam                 |                     [Midterm](midterm.md)                     |     June 17; 3:30-5:30pm      |    20%     |
 |                  ″                   |                     [Final Exam](final-exam.md)                     |     Between August 17-21*     |    30%     |
 
