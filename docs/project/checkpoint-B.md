@@ -5,6 +5,7 @@
 
 ## Changelog
 
+- July 22: Changed to 3 RQs.
 - July 9: Added the Checkpoint B rubric.
 - May 24: Updated page readability and added policy reminders.
 - May 23: Added Design Decision Log requirement.
@@ -69,7 +70,7 @@ Your log may describe changes to your prototype, evaluation research questions, 
 
 What are your evaluation research questions?
 
-Choose **2 to 3 research questions**.
+Choose **3 research questions**.
 
 Your research questions should focus on how well your prototype performs.
 
