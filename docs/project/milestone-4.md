@@ -59,6 +59,12 @@ This milestone includes a peer evaluation component. Each team member will evalu
 
 Refer to the [peer evaluation information page](project-peer-evaluation.md) and [group work resources](group-work-resources.md) for details.
 
+## Accessing the Project Template
+
+The template is a Google Doc: [M4 Project Template](https://docs.google.com/document/d/1In8uZC50t94VmU-GbhyP_NXq_aX0BSt5aPVYeQlmldw/edit?usp=sharing). Your team is expected to select **File → Make a copy** and work from your own copy.
+
+![gDocs-make-a-copy](../assets/images/gDocs-make-a-copy.png)
+
 ## Formatting and Page Limits
 
 Use the following formatting for the final report:
@@ -94,128 +100,40 @@ The following do **not** count toward the 7-page main body limit:
 | Recommendations and Process Critique |        1 page        |
 |               Appendix               | No strict page limit |
 
-## Cover Page
 
-Your report must begin with a cover page that includes:
 
-- course code
-- milestone title
-- project title
-- group name or group number
-- student names
-- student IDs
-- document version
-- submission date
+## Running Example
 
-## Design Decision Log
+### Design Decision Log 
 
-After the cover page and table of contents, include a short **Design Decision Log**. This log does **not** count toward the 7-page main report body limit.
-
-Include **3 to 6 entries** showing the most important design decisions your team made from Project Milestone 2 through the final prototype and evaluation.
-
-Use the following format:
+<details>
+<summary><strong>Possible recommendation types</strong></summary>
 
 | Decision | What changed? | Why did it change? | Evidence or feedback used |
 | :------: | :-----------: | :----------------: | :-----------------------: |
 | We simplified the prototype onboarding flow. | We reduced the first-use setup from five screens to two screens. | Participants were confused before reaching the central task. | Pilot evaluation notes and task completion observations. |
 
-Your log should help the reader understand the project as an evolving design process. Focus on decisions that affected the problem framing, design requirements, conceptual model, prototype, evaluation plan, findings, or recommendations. If your team does not accept an important TA suggestion, you must include that decision and explain why.
+</details>
 
-## Section 1: Introduction
+### Section 1: Introduction
 
-This section must be **maximum 0.5 page**.
 
-Briefly summarize:
+### Section 2: Conceptual Model Iterations
 
-- your need statement
-- your central tasks
-- your design requirements
-- your final design approach
-- any major changes since earlier milestones
 
-Keep this section short. Its purpose is to orient the reader.
+### Section 3: Evaluation and Prototyping Methods
 
-## Section 2: Conceptual Model Iterations
 
-This section must be **maximum 1 page**.
+### Section 4: Analysis
 
-Show how your conceptual model changed over time.
 
-Include:
+### Section 5: Visualizations
 
-- the initial conceptual model, such as the version from Shark Tank
-- key changes made after feedback, Cognitive Walkthroughs, prototyping, or evaluation
-- why those changes mattered
-- the final conceptual model
 
-Use visuals where helpful. Additional sketches or alternatives can go in the appendix.
+### Section 6: Recommendations and Process Critique
 
-## Section 3: Evaluation and Prototyping Methods
 
-This section must be **maximum 2 pages**.
-
-Include:
-
-- your 2 to 3 evaluation research questions
-- the methods you used
-- participant sample
-- study procedure
-- tasks participants completed
-- data collected
-- any changes from your evaluation plan
-- what parts of the prototype were functional, simplified, simulated, or Wizard-of-Oz
-- what parts were visually or interactively polished, and why
-
-Briefly justify why your evaluation plan was appropriate for studying your prototype and design requirements.
-
-## Section 4: Analysis
-
-This section must be **maximum 1 page**.
-
-Present your findings by research question.
-
-For each research question, include:
-
-- **Claim:** what your data suggests
-- **Evidence:** what data supports the claim
-- **Confidence:** how confident you are, including limitations
-
-If your data is insufficient to answer a research question, state that clearly and explain why.
-
-## Section 5: Visualizations
-
-This section must be **maximum 1 page**.
-
-Include visualizations that support your analysis.
-
-These may include:
-
-- charts
-- tables
-- graphs
-- affinity diagrams
-- task completion summaries
-- error or difficulty summaries
-- thematic groupings
-
-Each visualization should:
-
-- be clearly labelled, such as “Figure 1” or “Table 1”
-- include a one-sentence caption
-- be referenced in the Analysis section
-- be legible when printed at normal paper size
-
-Do not include visuals that are not discussed in the report.
-
-## Section 6: Recommendations and Process Critique
-
-This section must be **maximum 1 page**.
-
-### Design Recommendations
-
-Explain what should happen next with the design.
-
-Your recommendations should connect directly to your evaluation findings.
+#### Design Recommendations
 
 <details>
 <summary><strong>Possible recommendation types</strong></summary>
@@ -228,28 +146,11 @@ Your recommendations should connect directly to your evaluation findings.
 
 </details>
 
-### Process Critique
+#### Process Critique
 
-Briefly reflect on your process.
 
-Discuss what worked, what did not work, and what you would change if you continued the project or started again.
+### Appendix
 
-## Appendix
-
-The appendix has **no strict page limit**.
-
-Include supporting materials, such as:
-
-- final prototype link
-- README or access instructions
-- study protocol
-- task instructions
-- interview or questionnaire questions
-- observation or coding sheets
-- raw or summarized data, where appropriate
-- additional prototype images or conceptual model sketches
-
-Content containing sensitive or participant-related information must follow the course instructions for ethics, consent, data collection, and data storage.
 
 ## Prototype Expectations
 
