@@ -1,38 +1,25 @@
 # Final Exam
 
 ## Changelog
-
+- July 28: Added final exam date, time and location.
 - May 24: Added final exam logistics, preparation guidance, attendance/concession instructions, exam-room expectations, and student support resources.
 
 ## Quick Facts
 
-| Item | Details |
-| :-- | :-- |
-| Date | TBD by the university |
-| Exam period | August 17-21, 2026 |
-| Time | TBD |
-| Location | TBD |
-| Weight | 30% of the course grade |
-| Format | In person, on paper, unless announced otherwise |
-| Required ID | UBC student ID |
+| Item        | Details                 |
+| :---------- | :---------------------- |
+| Date        | Friday, August 21, 2026 |
+| Exam period | August 17-21, 2026      |
+| Time        | 8:30-11am               |
+| Location    | LIFE 2302               |
+| Weight      | 30% of the course grade |
+| Format      | In person, on paper     |
+| Required ID | UBC student ID          |
+
+Check latest information via UBC's Exam Page: https://tools.students.ubc.ca/exam-schedule/
 
 > [!WARNING]
 > Do not schedule travel or other commitments during the final exam period. Final exam dates are set by the university and are not flexible.
-
-## Current Status
-
-The final exam date, time, location, and detailed instructions will be posted once they are available.
-
-## Key Dates
-
-| Date | Event | Details |
-| :-- | :-- | :-- |
-| August 17-21, 2026 | Final exam period | The final exam will be scheduled by the university during this period. |
-| TBD | Final exam | Exact date, time, and location will be posted once available. |
-| September 2026 | Final exam viewing | Students may request an in-person viewing. Exact date and time will be determined. |
-
-> [!IMPORTANT]
-> The final exam schedule is controlled by the university. Keep the full August 17-21, 2026 exam period available until the official date and time are posted.
 
 ## Exam Average Passing Requirement
 
@@ -54,13 +41,13 @@ Required final exam percentage = (2500 - (midterm percentage x 20)) / 30
 <summary><strong>Examples</strong></summary>
 
 | Midterm score | Final exam score needed for a 50% exam average |
-| :-- | :-- |
-| 30% | 63.4% |
-| 40% | 56.7% |
-| 50% | 50.0% |
-| 60% | 43.4% |
-| 70% | 36.7% |
-| 80% | 30.0% |
+| :------------ | :--------------------------------------------- |
+| 30%           | 63.4%                                          |
+| 40%           | 56.7%                                          |
+| 50%           | 50.0%                                          |
+| 60%           | 43.4%                                          |
+| 70%           | 36.7%                                          |
+| 80%           | 30.0%                                          |
 
 </details>
 
@@ -71,14 +58,14 @@ Required final exam percentage = (2500 - (midterm percentage x 20)) / 30
 
 The final exam is meant to assess your understanding of course ideas and your ability to reason with them. A good preparation plan should include both studying and taking care of yourself.
 
-| What to do | Why it helps |
-| :-- | :-- |
-| Review the full course arc | The final exam may draw connections across topics from the term. |
-| Revisit project-related concepts | Many HCI ideas become clearer when connected to design decisions, evidence, requirements, prototyping, and evaluation. |
-| Practice explaining concepts in your own words | Many HCI questions require reasoning, not just recognition of terms. |
-| Sleep the night before | Rest improves attention, memory, and judgment during the exam. |
-| Eat, hydrate, and plan your route | Avoid making the exam harder because of preventable stressors. |
-| Pack your UBC ID, pencil, and eraser before exam day | These are required, and packing early reduces day-of-exam friction. |
+| What to do                                           | Why it helps                                                                                                           |
+| :--------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------- |
+| Review the full course arc                           | The final exam may draw connections across topics from the term.                                                       |
+| Revisit project-related concepts                     | Many HCI ideas become clearer when connected to design decisions, evidence, requirements, prototyping, and evaluation. |
+| Practice explaining concepts in your own words       | Many HCI questions require reasoning, not just recognition of terms.                                                   |
+| Sleep the night before                               | Rest improves attention, memory, and judgment during the exam.                                                         |
+| Eat, hydrate, and plan your route                    | Avoid making the exam harder because of preventable stressors.                                                         |
+| Pack your UBC ID, pencil, and eraser before exam day | These are required, and packing early reduces day-of-exam friction.                                                    |
 
 Useful UBC support links:
 
@@ -88,12 +75,12 @@ Useful UBC support links:
 
 ## What to Bring
 
-| Bring | Why |
-| :-- | :-- |
-| UBC student ID | Required for identity verification. |
-| Pencil | Required for any Scantron or machine-readable portion, if used. |
-| Eraser | Required so you can correct Scantron answers cleanly, if used. |
-| Pen, optional | You may choose to use pen for written-answer questions. |
+| Bring          | Why                                                             |
+| :------------- | :-------------------------------------------------------------- |
+| UBC student ID | Required for identity verification.                             |
+| Pencil         | Required for any Scantron or machine-readable portion, if used. |
+| Eraser         | Required so you can correct Scantron answers cleanly, if used.  |
+| Pen, optional  | You may choose to use pen for written-answer questions.         |
 
 <details>
 <summary><strong>Exam writing expectations</strong></summary>
@@ -192,13 +179,13 @@ Important links:
 
 Exams and deadlines can be stressful. If you are feeling overwhelmed, distressed, unwell, or unsafe, use the support resources below. You do not need to wait until things are severe before asking for help.
 
-| Resource | When to use it |
-| :-- | :-- |
-| [UBC Counselling Services](https://students.ubc.ca/health/counselling-services/) | Mental health support, stress, anxiety, test anxiety, or help deciding what support you need. |
-| [Here2Talk](https://here2talk.ca/) | Free 24/7 mental health counselling by phone, app, or online chat for BC post-secondary students. |
-| [UBC Student Assistance Program](https://students.ubc.ca/health/ubc-student-assistance-program-sap) | Free 24/7 wellness support for UBC students. |
-| [UBC Student Health Service](https://students.ubc.ca/health/student-health-service) | Medical or health concerns. |
-| [UBC Health and Wellbeing](https://students.ubc.ca/health/) | Starting point for health, wellbeing, peer support, and self-help resources. |
-| [Syllabus: Wellness and Mental Health](syllabus.md#wellness-and-mental-health) | Course-level list of wellness and mental health resources. |
+| Resource                                                                                            | When to use it                                                                                    |
+| :-------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
+| [UBC Counselling Services](https://students.ubc.ca/health/counselling-services/)                    | Mental health support, stress, anxiety, test anxiety, or help deciding what support you need.     |
+| [Here2Talk](https://here2talk.ca/)                                                                  | Free 24/7 mental health counselling by phone, app, or online chat for BC post-secondary students. |
+| [UBC Student Assistance Program](https://students.ubc.ca/health/ubc-student-assistance-program-sap) | Free 24/7 wellness support for UBC students.                                                      |
+| [UBC Student Health Service](https://students.ubc.ca/health/student-health-service)                 | Medical or health concerns.                                                                       |
+| [UBC Health and Wellbeing](https://students.ubc.ca/health/)                                         | Starting point for health, wellbeing, peer support, and self-help resources.                      |
+| [Syllabus: Wellness and Mental Health](syllabus.md#wellness-and-mental-health)                      | Course-level list of wellness and mental health resources.                                        |
 
 If you or someone else is in immediate danger, call **911** or go to the nearest emergency room.
