@@ -7,7 +7,7 @@
   - [Submission Info](course-submission-info.md)
 
 - **Exams**
-  - [Midterm](midterm.md)
+  - [Final](final.md)
 
 - **Course Project**
   - [Project Overview](project/overview.md)
