@@ -6,15 +6,17 @@
 
 ## Quick Facts
 
-| Item        | Details                 |
-| :---------- | :---------------------- |
-| Date        | Friday, August 21, 2026 |
-| Exam period | August 17-21, 2026      |
-| Time        | 8:30-11am               |
-| Location    | LIFE 2302               |
-| Weight      | 30% of the course grade |
-| Format      | In person, on paper     |
-| Required ID | UBC student ID          |
+| Item                              | Details                                                                       |
+| :-------------------------------- | :---------------------------------------------------------------------------- |
+| Date                              | Friday, August 21, 2026                                                       |
+| Exam period                       | August 17-21, 2026                                                            |
+| Time                              | 8:30-11am                                                                     |
+| Location                          | LIFE 2302                                                                     |
+| Weight                            | 30% of the course grade                                                       |
+| Format                            | In person, on paper                                                           |
+| Required ID                       | UBC student ID                                                                |
+| Handwritten cheat sheet, optional | You may bring TWO (2) letter-size page, double sided. It must be handwritten. |
+
 
 Check latest information via UBC's Exam Page: https://tools.students.ubc.ca/exam-schedule/
 
@@ -75,12 +77,14 @@ Useful UBC support links:
 
 ## What to Bring
 
-| Bring          | Why                                                             |
-| :------------- | :-------------------------------------------------------------- |
-| UBC student ID | Required for identity verification.                             |
-| Pencil         | Required for any Scantron or machine-readable portion, if used. |
-| Eraser         | Required so you can correct Scantron answers cleanly, if used.  |
-| Pen, optional  | You may choose to use pen for written-answer questions.         |
+| Bring                             | Why                                                                       |
+| :-------------------------------- | :------------------------------------------------------------------------ |
+| UBC student ID                    | Required for identity verification.                                       |
+| Pencil                            | Required for any Scantron or machine-readable portion, if used.           |
+| Eraser                            | Required so you can correct Scantron answers cleanly, if used.            |
+| Pen, optional                     | You may choose to use pen for written-answer questions.                   |
+| Handwritten cheat sheet, optional | You may bring TWO letter-size page, double sided. It must be handwritten. |
+
 
 <details>
 <summary><strong>Exam writing expectations</strong></summary>
