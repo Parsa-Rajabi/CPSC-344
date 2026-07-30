@@ -5,6 +5,7 @@
 
 ## Changelog
 
+- July 29: Finalized the M4 project rubric.
 - July 16: Added the M4 project rubric draft.
 - May 24: Updated page readability and added policy reminders.
 - May 13: Added TCPS Ethics Certification prerequisite notice.
@@ -183,9 +184,6 @@ Make sure all links are accessible to the teaching team.
 
 
 ## Rubric
-> [!NOTE]
-> This rubric is still in development and subject to change. This banner will be removed once it is finalized.
-
 <details class="rubric">
 <summary><strong>Exceeds Expectations</strong></summary>
 
