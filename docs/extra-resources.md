@@ -43,6 +43,12 @@ Use these when choosing or learning tools for sketches, wireframes, interactive 
 - [Figma for Education](https://www.figma.com/education/)
 - [ProtoPie](https://www.protopie.io/)
 
+### Diagramming Tools
+
+- [draw.io](https://draw.io/)
+- [Miro](https://miro.com/app/)
+- [Figma](https://www.figma.com/)
+
 ## Design Examples and Commentary
 
 Use these for examples of interface critique, design communication, and product design process. Treat videos as examples to learn from, not as templates for course submissions.
@@ -50,6 +56,13 @@ Use these for examples of interface critique, design communication, and product 
 - [Juxtopposed](https://www.youtube.com/@juxtopposed)
 - [Kole Jain](https://www.youtube.com/@KoleJain)
 - [Uber Eats: Designing for Local Delivery at a Global Scale](https://youtu.be/143Lm4wH63w?si=NcDaXdASqjKP79eq)
+- [Great Impractical Ideas in Computer Science: PowerPoint Programming](https://youtu.be/_3loq22TxSc)
+- [Microsoft Inclusive Design](https://inclusive.microsoft.design/)
+- [Design Notes Podcast](https://design-notes.show/) — Google Design
+- [Design Principles — Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/design-principles)
+
+> [!NOTE]
+> The resources above reflect industry design guidelines and may conflict with course material. Follow CPSC 344 instructions when in doubt.
 
 ## AI Learning Support
 
@@ -130,6 +143,9 @@ Use these for optional AI literacy and study support. For any course work, also 
 
 - [**Figma Tutorial** (video, from 10:08 to the end).](https://youtu.be/T0kRCTOX0zY?t=608)
 - [**Figma for Beginners** (4-part tutorial).](https://help.figma.com/hc/en-us/sections/4405269443991-Figma-for-Beginners-tutorial-4-parts-)
+- [**Getting started with Figma** (Figma Help Centre).](https://help.figma.com/hc/en-us/categories/360002051613-Get-started)
+- [**GeeksForGeeks Figma Tutorial.**](https://www.geeksforgeeks.org/websites-apps/figma-tutorial/)
+- [**Guide to prototyping in Figma** (Figma Help Centre).](https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma)
 - [**User Interface Guideline 101** — Design Guide for Academic Websites (Revan, Medium).](https://medium.com/@revanrgh/user-interface-guideline-101-design-guide-for-academic-website-120f7ad71658)
 - [**Interaction Design Textbook (RSP, 5th ed.).**](https://digilib.stiestekom.ac.id/assets/dokumen/ebook/feb_d2da2b2ae5541cebf7e87884e0a46b395eaff87a_1659872033.pdf) Cognitive Walkthroughs, pp. 561–566 (§16.2.2).
 
