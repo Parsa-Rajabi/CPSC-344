@@ -66,7 +66,7 @@ If your team isn't currently presenting, explore other teams' demos:
 
 ## Showcase Format
 
-Each team will run a demo station.
+Each team will run a demo station. Each presentation will be 15-20 minutes long, where 5-7 minutes will be dedicated to the design process and context. 
 
 Your demo may be:
 
