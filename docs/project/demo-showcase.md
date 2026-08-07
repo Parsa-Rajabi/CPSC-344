@@ -7,6 +7,11 @@ The Project Demo Showcase is the public-facing presentation of your final protot
 > [!WARNING]
 > Each student must complete and submit the [TCPS Ethics Certification](project/ethics-certification.md) before participating in any course project work.
 
+## Changelog
+
+- Aug 7: added submission details.
+- Aug 4: added details and rubric.
+
 During the showcase, your team will demonstrate your prototype, explain your design process, and answer questions from visitors, peers, TAs, and the teaching team.
 
 Visitors should be able to understand:
@@ -98,22 +103,14 @@ Come prepared with:
 
 </details>
 
-## Showcase Materials
+## Showcase Submission
 
-Your team should prepare a Demo Materials folder or equivalent collection of links.
+Your team should upload your prototype to [Canvas](https://canvas.ubc.ca/courses/190096/assignments/2454158) beforehand. It can be in any of the following modalities:
 
-<details>
-<summary><strong>Possible showcase materials</strong></summary>
-
-This may include:
-
-- prototype files or prototype link
-- README or usage instructions
-- demo script
-- visual summary
-- setup instructions
-
-</details>
+- Link to Figma (make sure you check the link)
+- Github Link (public and/or add teaching team to it)
+- Link to website (if hosted publicly)
+- Any file (e.g., PDF, PNG, JPEG, etc.)
 
 ## Rubric
 <details class="rubric">
