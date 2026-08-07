@@ -1,6 +1,7 @@
 # Final Exam
 
 ## Changelog
+- Aug 7: added review sessions and office hours. 
 - July 28: Added final exam date, time and location.
 - May 24: Added final exam logistics, preparation guidance, attendance/concession instructions, exam-room expectations, and student support resources.
 
@@ -22,6 +23,19 @@ Check latest information via UBC's Exam Page: https://tools.students.ubc.ca/exam
 
 > [!WARNING]
 > Do not schedule travel or other commitments during the final exam period. Final exam dates are set by the university and are not flexible.
+
+## Final Exam Review Sessions & Office Hours
+To help with exam prep, feel free to join us at any of the following times below, whether you have specific questions or just want to review material!
+
+- [review session; hybrid] Thursday, Aug 13 3-5pm
+- [office hours; in-person] Friday, Aug 14 2-3pm
+- [review session; hybrid] Monday, Aug 17 1-3pm
+- [office hours; in-person] Tuesday, Aug 18 2-3pm
+- [review session; hybrid] Wednesday Aug 19 11-1pm
+
+For the review sessions, the first hour is structured practice exam review, and the second hour is free-form Q&A/study time These sessions will be hybrid, with priority given to in-person attendees. That being said, they will be recorded and posted afterward. All will be hosted from X360.
+
+Additionally, all Zoom links will be posted in Slack shortly before the respective session. 
 
 ## Exam Average Passing Requirement
 
